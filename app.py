@@ -186,7 +186,7 @@ def main():
             st.rerun()
 
     with col2:
-        st.markdown(f"<h3 style='text-align: center;'>Question {st.session_state.current_question_idx + 1} of {total_questions}</h3>", unsafe_allow_html=True)
+        st.markdown(f"<h3 style='text-align: center; margin: 0;'>Question {st.session_state.current_question_idx + 1} of {total_questions}</h3>", unsafe_allow_html=True)
 
     with col3:
         go_to_question = st.number_input("Go to Q#", min_value=1, max_value=total_questions, value=st.session_state.current_question_idx + 1, step=1, label_visibility="collapsed")
