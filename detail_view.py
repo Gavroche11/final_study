@@ -156,7 +156,10 @@ def render_detail_view(row: pd.Series, show_korean: bool = False, show_raw_json:
     if row.get('mismatch'):
         rethink_note = row.get('_raw', {}).get('rethink', {}).get('note', '')
         first_guess = row.get('first_guess', 'unknown')
-        st.markdown(f"**⚠️ Mismatch:** First guess was **{first_guess}**")
+        if isinstance(first_guess, dict):
+            if 'label' in first_guess and 'text' in first_guess:
+                first_guess = f"{format_label(first_guess['label'], show_korean)}. {first_guess['text']}"
+        st.markdown(f"**⚠️ Mismatch:** First guess was **{first_guess}**.")
         if rethink_note:
             st.markdown(f"_{rethink_note}_")
 
