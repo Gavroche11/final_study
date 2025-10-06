@@ -4,11 +4,11 @@ A streamlined Streamlit application for reviewing AI-generated exam solutions in
 
 ## Features
 
-- **📁 Data Source Selection**: Choose from predefined data files or upload custom JSON files
+- **📁 Multiple File Upload**: Upload multiple JSON files and switch between them easily
 - **🔎 Question Navigator**: Browse questions with Previous/Next buttons, arrow key navigation, and direct question number input
 - **📋 Detail View**: Comprehensive question display with answer, reasoning (Why), findings, and distractors
 - **⚠️ Mismatch Detection**: Automatically displays first guess and rethink notes when decisions changed
-- **🎯 Compact Display**: Optimized layout with reduced spacing for efficient review
+- **🎯 Streamlined Interface**: Clean, focused interface for efficient exam solution review
 
 ## Installation
 
@@ -26,16 +26,12 @@ A streamlined Streamlit application for reviewing AI-generated exam solutions in
    pip install -r requirements.txt
    ```
 
-3. **Add your data files**:
-   - Place JSON files in the `./data` directory
-   - Default files: `2022_1.json`, `2022_2.json`, `2023_1.json`, `2023_2.json`
-
-4. **Run the application**:
+3. **Run the application**:
    ```bash
    streamlit run app.py
    ```
 
-5. **Access the dashboard**:
+4. **Access the dashboard**:
    - The app will automatically open in your browser
    - Default URL: `http://localhost:8501`
 
@@ -43,22 +39,20 @@ A streamlined Streamlit application for reviewing AI-generated exam solutions in
 
 ### Loading Data
 
-The app provides three ways to load data:
+**Upload JSON Files:**
+1. Open the sidebar (if collapsed)
+2. Click "Browse files" under "Upload JSON file(s)"
+3. Select one or more JSON files
+4. Files are loaded automatically
 
-**Option 1: Select from dropdown (Default)**
-1. Open the sidebar
-2. Choose a file from the "Select data file" dropdown
-3. The first file loads automatically on startup
+**Switch Between Files:**
+1. Use the "Select file to view" dropdown in the sidebar
+2. Files are listed in alphabetical order
+3. Switching files resets navigation to question 1
 
-**Option 2: Upload a file**
-1. Click "Or upload JSON file" in the sidebar
-2. Select your JSON file
-3. Click "🔄 Load Data"
-
-**Option 3: Enter file path**
-1. Enter the file path in "Or enter file path"
-2. Or set the `EXAM_JSON_PATH` environment variable
-3. Click "🔄 Load Data"
+**Remove Files:**
+- Click the "×" next to a file in the uploader to remove it
+- Removed files disappear from the selection dropdown automatically
 
 ### Navigation
 
@@ -75,7 +69,10 @@ The app provides three ways to load data:
 
 ### Understanding the Display
 
-Each question shows:
+**File Indicator:**
+- The current file name is shown at the top of the page
+
+**Each Question Shows:**
 
 1. **Header**: Question number, decision icon, final decision, and confidence percentage
    - 🟢 Agree with key (no mismatch)
@@ -84,12 +81,12 @@ Each question shows:
    - ⚪ No decision
 
 2. **Answer Section**: Selected answer with label and text
-   - Key: Shows provided answer key if available
-   - Runner-up: Shows second-best option if present
+   - **Key**: Shows provided answer key if available
+   - **Runner-up**: Shows second-best option if present
 
-3. **💡 Why**: Reasoning for the selected answer (concatenated)
+3. **💡 Why**: Reasoning for the selected answer
 
-4. **🔍 Findings**: Additional observations or notes (if available)
+4. **🔍 Findings**: Additional observations or notes (appears between Why and Distractors)
 
 5. **❌ Distractors**: Other answer options with rejection reasons
 
@@ -154,35 +151,23 @@ The application expects JSON files with the following structure:
 ```
 .
 ├── app.py              # Main Streamlit application with navigation
-├── data/               # Directory for JSON data files
-│   ├── 2022_1.json
-│   ├── 2022_2.json
-│   ├── 2023_1.json
-│   └── 2023_2.json
 ├── data_loader.py      # JSON loading and normalization
 ├── detail_view.py      # Question detail view rendering
-├── sidebar.py          # Sidebar filters and controls (if present)
-├── kpis.py            # KPI summary rendering (if present)
-├── table_view.py      # Table view utilities
-├── analytics.py       # Analytics charts (if present)
-├── exporters.py       # Export functionality (if present)
-├── requirements.txt   # Python dependencies
-└── README.md          # This file
+├── requirements.txt    # Python dependencies
+├── README.md           # This file
+└── .gitignore          # Git ignore rules
 ```
 
-## Configuration
+## Key Features
 
-### Environment Variables
+### Streamlined Design
 
-- `EXAM_JSON_PATH`: Default path to JSON file (optional)
-
-### Display Customization
-
-The detail view automatically:
-- Concatenates "Why" reasons into a single paragraph
-- Uses compact spacing for findings (reduced vertical spacing)
-- Shows mismatch information only when relevant
-- Formats confidence as whole percentages
+The application focuses on efficient exam solution review with:
+- **Simple file management**: Upload multiple files and switch between them
+- **Clean detail view**: No clutter, just the essential information
+- **Smart layout**: Findings positioned between Why and Distractors for logical flow
+- **Compact formatting**: Reduced vertical spacing for faster reading
+- **Automatic mismatch detection**: Highlights when AI changed its decision
 
 ## Troubleshooting
 
@@ -193,12 +178,12 @@ If you see "Invalid JSON schema" errors:
 2. Each question must have `question_no` and `answer` fields
 3. Check the example schema above
 
-### No Files Found
+### No Files Uploaded
 
-If the dropdown shows "No files found":
-1. Create a `./data` directory in the project root
-2. Add JSON files to the directory
-3. Restart the application
+If you see "Please upload JSON file(s) to get started":
+1. Click "Browse files" in the sidebar
+2. Select one or more JSON files
+3. Files will load automatically
 
 ### Navigation Issues
 

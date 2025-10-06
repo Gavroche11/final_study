@@ -4,7 +4,53 @@ import json
 from typing import Any, Dict
 import streamlit as st
 import pandas as pd
-from table_view import format_label, get_decision_color
+
+
+KOREAN_LABELS = {
+    '1': '①',
+    '2': '②',
+    '3': '③',
+    '4': '④',
+    '5': '⑤',
+}
+
+
+def format_label(label: str, show_korean: bool = False) -> str:
+    """Format answer label with optional Korean characters.
+
+    Args:
+        label: Label (e.g., '1', '2')
+        show_korean: Whether to show Korean labels
+
+    Returns:
+        Formatted label
+    """
+    if not label:
+        return ""
+
+    if show_korean and str(label) in KOREAN_LABELS:
+        return KOREAN_LABELS[str(label)]
+
+    return str(label)
+
+
+def get_decision_color(decision: str, mismatch: bool = False) -> str:
+    """Get color for decision chip.
+
+    Args:
+        decision: Final decision value
+        mismatch: Whether there was a mismatch
+
+    Returns:
+        CSS color string
+    """
+    if decision == 'override_key':
+        return '#ff4b4b'  # Red
+    elif decision == 'agree_with_key':
+        if mismatch:
+            return '#ffa500'  # Amber/Orange
+        return '#00cc66'  # Green
+    return '#808080'  # Gray
 
 
 def truncate_expandable(text: str, max_lines: int = 3) -> str:
