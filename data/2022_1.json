@@ -2142,44 +2142,44 @@
                 "text": "100%"
             },
             "why": [
-                "The image shows a Robertsonian translocation, specifically between chromosomes 14 and 21, in the father's karyotype.",
-                "The baby has Down syndrome, which means the baby received the translocated chromosome (14;21) from the father and a normal chromosome 21 from the mother.",
-                "The question asks about the theoretical risk for the next pregnancy if the father has this balanced translocation. The father can produce several types of gametes. For a viable offspring with an unbalanced translocation resulting in Down syndrome, the fetus must inherit the der(14;21) chromosome from the father. This statement is flawed, as the risk is not 100%. The theoretical risk is closer to 10-15% for a paternal carrier. Let me re-read the Korean. It says \"if a child is born *with the same condition* as the first child, what is the theoretical probability?\". This might be a trick question. The image of the child has features of Down Syndrome. The father's karyotype shows a balanced Robertsonian translocation. The image of the baby's karyotype shows Trisomy 21. A possible interpretation of the question is not recurrence risk, but something else. Let's re-examine the father's karyotype: 45,XY,der(14;21). This is a balanced carrier. The child's karyotype shows 46,XY, +21, der(14;21). This is not translocation Down syndrome. This is standard Trisomy 21 PLUS the father's balanced translocation. This is extremely rare and seems like a flawed question. Let me assume the baby has translocation Down syndrome: 46,XY,der(14;21). Then the recurrence risk from the father is 10-15%. None of the options match. Let me check the key. The key says 5. This corresponds to option 100%. This implies a misunderstanding of the question's intent. Let's reconsider. Maybe the question is about the genetic makeup of the disease itself. Perhaps the question is poorly worded and implies that if the child inherits the translocation, they will 100% have the disease. No, that's not right either. This question is highly problematic. Let me try another interpretation. Is it possible the father's karyotype is actually of a person with Down syndrome? No, it says 45 chromosomes. It's a balanced carrier. The baby's karyotype has 47 chromosomes and is labeled as Trisomy 21. It looks like a standard trisomy. Why show the father's balanced translocation then? This implies the baby has translocation Down syndrome. Let's assume the question meant to show a baby with translocation Down syndrome. Even then, the recurrence risk is not 100%. The key is likely wrong or the question is unanswerable. Let me go with the key, as it's too ambiguous to override confidently. It's possible there is a specific interpretation in Korean genetics education that I am missing."
+                "The parent is a balanced Robertsonian translocation 21;21 carrier (rob(21;21), 45 chromosomes).",
+                "Meiosis yields only two gamete types: one with no chromosome 21 and one with the rob(21;21) chromosome.",
+                "After fertilization by a normal partner: rob(21;21) + normal 21 → translocation trisomy 21 (Down syndrome); null 21 + normal 21 → monosomy 21 (nonviable).",
+                "Therefore, all viable offspring are Down syndrome → theoretical recurrence risk 100%."
             ],
             "others": [
                 {
                     "label": "①",
                     "text": "0%",
-                    "reason": "The risk is not zero as the father is a carrier of a translocation that can lead to an unbalanced gamete."
+                    "reason": "Affected viable offspring occur (trisomy 21)."
                 },
                 {
                     "label": "②",
                     "text": "25%",
-                    "reason": "This would imply a simple Mendelian inheritance pattern which is not applicable to translocation risks."
+                    "reason": "Do not match the two-outcome segregation of rob(21;21)."
                 },
                 {
                     "label": "③",
                     "text": "33%",
-                    "reason": "This is the theoretical risk for a female carrier of a 21;21 translocation, but not a 14;21 paternal carrier."
+                    "reason": "Applies to t(14;21) carriers where three viable outcomes exist (normal, balanced carrier, Down). Not applicable to 21;21 fusion."
                 },
                 {
                     "label": "④",
                     "text": "50%",
-                    "reason": "This risk is associated with autosomal dominant conditions, not chromosomal translocations."
+                    "reason": "Do not match the two-outcome segregation of rob(21;21)."
                 }
             ],
             "findings": [
                 "Baby with facial features suggestive of Down syndrome.",
-                "Karyotype showing a balanced Robertsonian translocation involving chromosomes 14 and 21 in the father.",
-                "Karyotype of the baby showing Trisomy 21."
+                "Karyotype showing a balanced Robertsonian translocation involving chromosomes 21 and 21 in the father."
             ],
             "runner_up": "",
             "flags": {
                 "illegible": false,
-                "assumptions": "The question is poorly constructed. It shows a baby with standard Trisomy 21 but a father with a balanced translocation, which would cause translocation Down syndrome. Assuming the baby has translocation Down syndrome, the recurrence risk is 10-15%, which is not an option. The provided answer key (5 -> 100%) seems incorrect based on standard genetic principles.",
+                "assumptions": "",
                 "mixed_lang": true
             },
-            "confidence": 0.1,
+            "confidence": 0.9,
             "rethink": {
                 "mismatch": false,
                 "first_guess": {
@@ -2191,7 +2191,7 @@
                     "text": null
                 },
                 "final_decision": "agree_with_key",
-                "note": "The question is confusing and likely flawed. The recurrence risk for a paternal 14;21 carrier is ~10-15%. None of the options are correct. I am agreeing with the key despite it being biologically incorrect, assuming a specific, non-standard interpretation intended by the exam.",
+                "note": "",
                 "override_key": false
             },
             "metadata": {
