@@ -4,7 +4,8 @@ A streamlined Streamlit application for reviewing AI-generated exam solutions in
 
 ## Features
 
-- **📁 Multiple File Upload**: Upload multiple JSON files and switch between them easily
+- **📁 Auto-load Data**: Automatically loads JSON files from `./data` directory on startup
+- **📤 Multiple File Upload**: Upload additional JSON files and switch between them easily
 - **🔎 Question Navigator**: Browse questions with Previous/Next buttons, arrow key navigation, and direct question number input
 - **📋 Detail View**: Comprehensive question display with answer, reasoning (Why), findings, and distractors
 - **⚠️ Mismatch Detection**: Automatically displays first guess and rethink notes when decisions changed
@@ -26,12 +27,17 @@ A streamlined Streamlit application for reviewing AI-generated exam solutions in
    pip install -r requirements.txt
    ```
 
-3. **Run the application**:
+3. **Add your data files** (optional):
+   - Place JSON files in the `./data` directory
+   - Example files: `2022_1.json`, `2022_2.json`, `2023_1.json`, `2023_2.json`
+   - Files are loaded automatically on startup
+
+4. **Run the application**:
    ```bash
    streamlit run app.py
    ```
 
-4. **Access the dashboard**:
+5. **Access the dashboard**:
    - The app will automatically open in your browser
    - Default URL: `http://localhost:8501`
 
@@ -39,20 +45,26 @@ A streamlined Streamlit application for reviewing AI-generated exam solutions in
 
 ### Loading Data
 
-**Upload JSON Files:**
+**Default Files:**
+- The app automatically loads all JSON files from the `./data` directory on startup
+- Files appear in the "Select file to view" dropdown in alphabetical order
+- No action needed if your data is in the `./data` directory
+
+**Upload Additional Files:**
 1. Open the sidebar (if collapsed)
 2. Click "Browse files" under "Upload JSON file(s)"
 3. Select one or more JSON files
-4. Files are loaded automatically
+4. Uploaded files are added to the selection dropdown
 
 **Switch Between Files:**
 1. Use the "Select file to view" dropdown in the sidebar
 2. Files are listed in alphabetical order
 3. Switching files resets navigation to question 1
 
-**Remove Files:**
+**Remove Uploaded Files:**
 - Click the "×" next to a file in the uploader to remove it
-- Removed files disappear from the selection dropdown automatically
+- Removed files disappear from the selection dropdown
+- Default files from `./data` directory cannot be removed via uploader
 
 ### Navigation
 
@@ -151,6 +163,11 @@ The application expects JSON files with the following structure:
 ```
 .
 ├── app.py              # Main Streamlit application with navigation
+├── data/               # Directory for default JSON data files
+│   ├── 2022_1.json     # (Example - add your files here)
+│   ├── 2022_2.json
+│   ├── 2023_1.json
+│   └── 2023_2.json
 ├── data_loader.py      # JSON loading and normalization
 ├── detail_view.py      # Question detail view rendering
 ├── requirements.txt    # Python dependencies
@@ -178,12 +195,13 @@ If you see "Invalid JSON schema" errors:
 2. Each question must have `question_no` and `answer` fields
 3. Check the example schema above
 
-### No Files Uploaded
+### No Files Loaded
 
 If you see "Please upload JSON file(s) to get started":
-1. Click "Browse files" in the sidebar
-2. Select one or more JSON files
-3. Files will load automatically
+1. Check if the `./data` directory exists and contains JSON files
+2. If not, create the directory and add your JSON files
+3. Or click "Browse files" in the sidebar to upload files manually
+4. Restart the application if you added files to `./data`
 
 ### Navigation Issues
 

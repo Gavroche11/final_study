@@ -1,13 +1,17 @@
 """Main Streamlit app for exam solution audit dashboard."""
 
+import os
+import glob
 import streamlit as st
 from streamlit.components.v1 import html
 from data_loader import (
+    load_json,
     load_json_from_bytes,
     validate_json_schema,
     normalize_questions
 )
 from detail_view import render_detail_view
+from config import *
 
 
 # Page configuration
@@ -23,6 +27,8 @@ def main():
     """Main application entry point."""
 
     # Initialize session state
+    if 'authenticated' not in st.session_state:
+        st.session_state.authenticated = False
     if 'uploaded_files_data' not in st.session_state:
         st.session_state.uploaded_files_data = {}
     if 'current_file' not in st.session_state:
@@ -32,9 +38,46 @@ def main():
     if 'current_question_idx' not in st.session_state:
         st.session_state.current_question_idx = 0
 
+    # Password protection
+    if not st.session_state.authenticated:
+        st.title("🔒 Exam Solution Audit Dashboard")
+        st.markdown("### Please enter the password to continue")
+
+        # Use a form to capture Enter key properly
+        with st.form(key="login_form"):
+            password = st.text_input("Password", type="password", key="password_input")
+            login_clicked = st.form_submit_button("Login", type="primary")
+
+        # Check password only on form submit (button click or Enter key)
+        if login_clicked:
+            if password == PASSWORD:
+                st.session_state.authenticated = True
+                st.rerun()
+            else:
+                st.error("❌ Incorrect password")
+
+        return
+
     # File upload section (minimal UI in collapsed sidebar)
     with st.sidebar:
         st.title("📁 Data Source")
+
+        # Load default files from ./data directory on first run
+        if not st.session_state.uploaded_files_data:
+            default_files = sorted(glob.glob(os.path.join(DATA_DIR, "*.json")))
+            if default_files:
+                for file_path in default_files:
+                    file_name = os.path.basename(file_path)
+                    try:
+                        data = load_json(file_path)
+                        missing_fields = validate_json_schema(data)
+                        if not missing_fields:
+                            st.session_state.uploaded_files_data[file_name] = {
+                                'data': data,
+                                'df': normalize_questions(data)
+                            }
+                    except Exception as e:
+                        pass  # Silently skip files that fail to load
 
         uploaded_files = st.file_uploader(
             "Upload JSON file(s)",
@@ -43,20 +86,8 @@ def main():
             accept_multiple_files=True
         )
 
-        # Process uploaded files
+        # Process uploaded files (add to existing files)
         if uploaded_files:
-            # Get current uploaded file names
-            current_file_names = {f.name for f in uploaded_files}
-
-            # Remove files that are no longer uploaded
-            files_to_remove = [name for name in st.session_state.uploaded_files_data.keys()
-                             if name not in current_file_names]
-            for file_name in files_to_remove:
-                del st.session_state.uploaded_files_data[file_name]
-                if st.session_state.current_file == file_name:
-                    st.session_state.current_file = None
-
-            # Add new files
             for uploaded_file in uploaded_files:
                 file_name = uploaded_file.name
                 if file_name not in st.session_state.uploaded_files_data:
@@ -73,11 +104,6 @@ def main():
                             }
                     except Exception as e:
                         st.error(f"❌ Error loading {file_name}: {str(e)}")
-        else:
-            # Clear all files if uploader is empty
-            st.session_state.uploaded_files_data = {}
-            st.session_state.current_file = None
-            st.session_state.df = None
 
         # File selection dropdown
         if st.session_state.uploaded_files_data:
@@ -107,7 +133,7 @@ def main():
 
     # Check if data is loaded
     if st.session_state.df is None or len(st.session_state.df) == 0:
-        st.info("👈 Please upload JSON file(s) to get started.")
+        st.info("👈 No JSON files found in ./data directory. Please add JSON files to ./data or upload files using the sidebar.")
         return
 
     df = st.session_state.df
