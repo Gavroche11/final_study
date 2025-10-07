@@ -4587,12 +4587,12 @@
       "question_no": "63",
       "depth": "expanded",
       "answer": {
-        "label": "②",
+        "label": "⑤",
         "text": "Image depicting a replaced right hepatic artery originating from the superior mesenteric artery (SMA)."
       },
       "why": [
         "The question asks to identify the hepatic artery variation that requires special caution during extrahepatic bile duct resection due to the risk of right hepatic ischemia.",
-        "The most clinically significant and dangerous variation in this context is a replaced right hepatic artery (RHA) originating from the superior mesenteric artery (SMA). This corresponds to Michels classification type III.",
+        "The most clinically significant and dangerous variation in this context is a replaced right hepatic artery (rRHA) originating from the superior mesenteric artery (SMA). This corresponds to Michels classification type III.",
         "In this variation, the RHA is the *sole* arterial supply to the entire right lobe of the liver.",
         "The replaced RHA typically courses posterior to the head of the pancreas and portal vein, ascending within the hepatoduodenal ligament, often in close proximity to the common bile duct and cystic duct.",
         "This anomalous course makes it highly vulnerable to inadvertent ligation during cholecystectomy or bile duct surgery, as it can be mistaken for the cystic artery.",
@@ -4601,48 +4601,48 @@
       "others": [
         {
           "label": "①",
-          "text": "Image depicting a replaced left hepatic artery (LHA) from the left gastric artery (LGA).",
-          "reason": "This variation primarily affects the left lobe and is less commonly encountered or at risk during standard cholecystectomy or common bile duct exploration."
+          "text": "Image depicting the common hepatic artery (CHA) arising from the celiac trunk.",
+          "reason": "This is a normal anatomy."
+        },
+        {
+          "label": "②",
+          "text": "Image depicting the common hepatic artery (CHA) arising from the superior mesenteric artery (SMA).",
+          "reason": "The entire artery's origin is different. The specific risk to the RHA during biliary surgery is most classically associated with the replaced RHA from the SMA."
         },
         {
           "label": "③",
-          "text": "Image depicting the common hepatic artery (CHA) arising from the SMA.",
-          "reason": "While an important variation, the entire artery's origin is different. The specific risk to the RHA during biliary surgery is most classically associated with the replaced RHA from the SMA."
+          "text": "Image depicting the common hepatic artery (CHA) arising directly from the aorta.",
+          "reason": "The entire artery's origin is different. The specific risk to the RHA during biliary surgery is most classically associated with the replaced RHA from the SMA."
         },
         {
           "label": "④",
-          "text": "Image depicting an accessory LHA from the LGA.",
-          "reason": "Ligation of an accessory artery is less consequential as the main arterial supply (the proper LHA) remains intact. It does not typically cause severe ischemia."
-        },
-        {
-          "label": "⑤",
-          "text": "Image depicting an accessory RHA from the SMA.",
-          "reason": "While this artery is also at risk, its ligation would not be as catastrophic as ligating a replaced RHA, because the main RHA arising from the proper hepatic artery would still supply the right lobe."
+          "text": "Image depicting a replaced left hepatic artery (rLHA) from the left gastric artery (LGA).",
+          "reason": "This variation endangers the left lobe but is less critical during bile duct surgery, as the left hepatic artery does not supply the right lobe of the liver and is less likely to be injured during such procedures."
         }
       ],
       "findings": [
         "Diagram showing the right hepatic artery originating from the superior mesenteric artery instead of the proper hepatic artery."
       ],
-      "runner_up": "⑤",
+      "runner_up": "",
       "flags": {
         "illegible": false,
-        "assumptions": "The five unlabelled diagrams correspond to options 1 through 5 in order of appearance. The chosen answer corresponds to the second diagram.",
+        "assumptions": "",
         "mixed_lang": false
       },
       "confidence": 0.85,
       "rethink": {
         "mismatch": true,
         "first_guess": {
-          "label": "②",
+          "label": "⑤",
           "text": "Image depicting a replaced right hepatic artery originating from the superior mesenteric artery (SMA)."
         },
         "provided_key": {
           "label": "5",
           "text": null
         },
-        "final_decision": "override_key",
-        "note": "The key selects option ⑤ (accessory RHA). However, the ligation of a replaced RHA (option ②) is a far more severe event, causing ischemia to the entire right lobe, and is thus the variation requiring the most caution. This is a classic surgical 'never event'.",
-        "override_key": true
+        "final_decision": "agree_with_key",
+        "note": "",
+        "override_key": false
       },
       "metadata": {
         "input_metadata": {
