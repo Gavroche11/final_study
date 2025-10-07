@@ -1,4 +1,4 @@
-"""Main Streamlit app for exam solution audit dashboard."""
+"""Main Streamlit app for exam solution dashboard."""
 
 import os
 import glob
@@ -16,7 +16,7 @@ from config import *
 
 # Page configuration
 st.set_page_config(
-    page_title="Exam Solution Audit",
+    page_title="Exam Solution Dashboard",
     page_icon="📚",
     layout="wide",
     initial_sidebar_state="collapsed"
@@ -40,7 +40,7 @@ def main():
 
     # Password protection
     if not st.session_state.authenticated:
-        st.title("🔒 Exam Solution Audit Dashboard")
+        st.title("🔒 Exam Solution Dashboard")
         st.markdown("### Please enter the password to continue")
 
         # Use a form to capture Enter key properly

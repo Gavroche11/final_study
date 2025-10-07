@@ -1,9 +1,10 @@
-# Exam Solution Audit Dashboard
+# Exam Solution Dashboard
 
 A streamlined Streamlit application for reviewing AI-generated exam solutions in JSON format.
 
 ## Features
 
+- **🔒 Password Protection**: Secure access with password authentication
 - **📁 Auto-load Data**: Automatically loads JSON files from `./data` directory on startup
 - **📤 Multiple File Upload**: Upload additional JSON files and switch between them easily
 - **🔎 Question Navigator**: Browse questions with Previous/Next buttons, arrow key navigation, and direct question number input
@@ -27,21 +28,35 @@ A streamlined Streamlit application for reviewing AI-generated exam solutions in
    pip install -r requirements.txt
    ```
 
-3. **Add your data files** (optional):
+3. **Add your data files**:
    - Place JSON files in the `./data` directory
    - Example files: `2022_1.json`, `2022_2.json`, `2023_1.json`, `2023_2.json`
    - Files are loaded automatically on startup
 
-4. **Run the application**:
+4. **Configure password** (optional):
+   - Edit `config.py` to set your desired password
+   - Default password is set in the `PASSWORD` variable
+
+5. **Run the application**:
    ```bash
    streamlit run app.py
    ```
 
-5. **Access the dashboard**:
+6. **Access the dashboard**:
    - The app will automatically open in your browser
    - Default URL: `http://localhost:8501`
 
 ## Usage
+
+### Login
+
+**Password Authentication:**
+1. Enter the password on the login page
+2. Click the "Login" button or press Enter
+3. Access is granted upon correct password entry
+4. Session persists until browser tab is closed or app is restarted
+
+**Note:** The password is configured in `config.py`. Change the `PASSWORD` variable to set a custom password.
 
 ### Loading Data
 
@@ -151,7 +166,8 @@ The application expects JSON files with the following structure:
       },
       "metadata": {
         "input_metadata": {"has_images": true},
-        "version": "1.0"
+        "version": "1.0",
+        "erratum_note": ""
       }
     }
   ]
@@ -163,6 +179,7 @@ The application expects JSON files with the following structure:
 ```
 .
 ├── app.py              # Main Streamlit application with navigation
+├── config.py           # Configuration file (password, data directory)
 ├── data/               # Directory for default JSON data files
 │   ├── 2022_1.json     # (Example - add your files here)
 │   ├── 2022_2.json
@@ -180,11 +197,22 @@ The application expects JSON files with the following structure:
 ### Streamlined Design
 
 The application focuses on efficient exam solution review with:
+- **Secure access**: Password-protected login page
 - **Simple file management**: Upload multiple files and switch between them
 - **Clean detail view**: No clutter, just the essential information
 - **Smart layout**: Findings positioned between Why and Distractors for logical flow
 - **Compact formatting**: Reduced vertical spacing for faster reading
 - **Automatic mismatch detection**: Highlights when AI changed its decision
+
+### Configuration
+
+**Password:**
+- Set in `config.py` using the `PASSWORD` variable
+- Default location: `PASSWORD = "your_password_here"`
+
+**Data Directory:**
+- Set in `config.py` using the `DATA_DIR` variable
+- Default location: `DATA_DIR = "./data"`
 
 ## Troubleshooting
 

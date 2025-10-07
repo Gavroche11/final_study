@@ -163,6 +163,11 @@ def render_detail_view(row: pd.Series, show_korean: bool = False, show_raw_json:
         if rethink_note:
             st.markdown(f"_{rethink_note}_")
 
+    # Erratum note at the bottom
+    erratum_note = row.get('_raw', {}).get('metadata', {}).get('erratum_note', '')
+    if erratum_note:
+        st.markdown(f"**📝 Erratum:** {erratum_note}")
+
 
 def render_detail_sidebar(row: pd.Series, show_korean: bool = False, show_raw_json: bool = False):
     """Render detail view in a more compact sidebar-style layout.
