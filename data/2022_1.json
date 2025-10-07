@@ -1296,7 +1296,7 @@
             },
             "why": [
                 "The patient is profoundly neutropenic after chemotherapy and presents with fever and hemoptysis.",
-                "The chest CT shows nodules with surrounding ground-glass opacity (halo sign), characteristic of invasive aspergillosis.",
+                "Typical CT (when described) shows nodules with a halo sign due to angioinvasion, characteristic of invasive aspergillosis.",
                 "A positive serum galactomannan test supports the diagnosis of invasive aspergillosis. Voriconazole is the first-line treatment."
             ],
             "others": [
@@ -1321,10 +1321,7 @@
                     "reason": "Liposomal amphotericin B is a less toxic alternative, but voriconazole is generally preferred due to better outcomes shown in clinical trials."
                 }
             ],
-            "findings": [
-                "Multiple lung nodules on chest CT",
-                "Ground-glass opacity surrounding a nodule (halo sign)"
-            ],
+            "findings": [],
             "runner_up": "⑤",
             "flags": {
                 "illegible": false,
