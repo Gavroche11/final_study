@@ -2872,8 +2872,8 @@
         "text": "영구형 심박동기 삽입"
       },
       "why": [
-        "Syncope with ECG showing complete (third-degree) AV block: P waves are present but dissociated from a slow, regular ventricular escape rhythm.",
-        "High-grade AV block with symptoms is a Class I indication for permanent pacemaker implantation.",
+        "Syncope with ECG showing high-grade (Mobitz type II) second-degree AV block with a 3:1 conduction pattern (every third P wave conducts); PR interval is constant on conducted beats and there is no ventricular escape rhythm—features.",
+        "Symptomatic high-grade AV block is a Class I indication for permanent pacemaker implantation.",
         "Drug withdrawal (beta-blocker, amiodarone) may not promptly reverse advanced conduction block, and amiodarone has a very long half-life.",
         "More importantly, she has atrial fibrillation that requires rate-controlling medications.",
         "A pacemaker will provide a stable heart rate, preventing future syncope and allowing for the safe administration of the necessary drugs for her atrial fibrillation."
@@ -2882,7 +2882,7 @@
         {
           "label": "①",
           "text": "Bisoprolol 중단",
-          "reason": "Stopping a beta-blocker alone is insufficient for symptomatic complete AV block; does not provide definitive protection from asystole."
+          "reason": "Stopping a beta-blocker alone is insufficient for high-grade AV block with syncope; does not provide definitive protection from asystole."
         },
         {
           "label": "②",
@@ -2901,7 +2901,8 @@
         }
       ],
       "findings": [
-        "ECG: complete AV block with AV dissociation; slow, regular ventricular escape rhythm; no consistent P-QRS relationship."
+        "Regular PP intervals; two nonconducted P waves between each QRS (3:1 AV block).",
+        "Constant PR on conducted beats; no progressive prolongation."
       ],
       "runner_up": "",
       "flags": {
