@@ -2872,38 +2872,36 @@
         "text": "영구형 심박동기 삽입"
       },
       "why": [
-        "The patient presents with syncope, a high-risk symptom.",
-        "The ECG shows atrial fibrillation with a very slow ventricular response (severe bradycardia), which is the cause of her syncope.",
-        "Her bradycardia is likely iatrogenic, caused by the combined rate-slowing effects of bisoprolol (a beta-blocker) and amiodarone.",
-        "Symptomatic bradycardia (e.g., causing syncope) is a Class I indication for permanent pacemaker implantation.",
-        "While stopping the offending drugs is necessary, amiodarone has a very long half-life, and the bradycardia may persist or recur.",
-        "A pacemaker will treat the bradycardia and prevent future syncopal episodes, while also allowing for the safe continuation of necessary medications for rate or rhythm control of her atrial fibrillation.",
-        "The patient may also have underlying sinus node or AV node dysfunction (sick sinus syndrome) unmasked by the medications."
+        "Syncope with ECG showing complete (third-degree) AV block: P waves are present but dissociated from a slow, regular ventricular escape rhythm.",
+        "High-grade AV block with symptoms is a Class I indication for permanent pacemaker implantation.",
+        "Drug withdrawal (beta-blocker, amiodarone) may not promptly reverse advanced conduction block, and amiodarone has a very long half-life.",
+        "More importantly, she has atrial fibrillation that requires rate-controlling medications.",
+        "A pacemaker will provide a stable heart rate, preventing future syncope and allowing for the safe administration of the necessary drugs for her atrial fibrillation."
       ],
       "others": [
         {
           "label": "①",
           "text": "Bisoprolol 중단",
-          "reason": "Stopping bisoprolol is appropriate but may not be sufficient to resolve the life-threatening bradycardia, especially given the long half-life of amiodarone."
+          "reason": "Stopping a beta-blocker alone is insufficient for symptomatic complete AV block; does not provide definitive protection from asystole."
         },
         {
           "label": "②",
           "text": "Amiodarone 중단",
-          "reason": "Stopping amiodarone is also appropriate, but its effect will persist for weeks to months due to its long half-life, so this is not an adequate acute treatment for syncope."
+          "reason": "Effects persist for weeks to months; not an adequate acute or definitive treatment for high-grade AV block with syncope."
         },
         {
           "label": "③",
           "text": "Isoproterenol 정주",
-          "reason": "An isoproterenol infusion is a temporary measure (a bridge) to increase heart rate in an unstable patient but is not a definitive long-term solution."
+          "reason": "Useful only as a temporary bridge to pacing in hemodynamically unstable bradycardia; not a long-term solution."
         },
         {
           "label": "④",
           "text": "응급 심혈관 중재술",
-          "reason": "Cardiac catheterization is not indicated as there is no evidence of an acute coronary syndrome causing the bradycardia."
+          "reason": "No ACS evidence; conduction system disease is the problem, not an occlusive coronary lesion."
         }
       ],
       "findings": [
-        "ECG shows atrial fibrillation with an extremely slow and irregular ventricular response (severe bradycardia)."
+        "ECG: complete AV block with AV dissociation; slow, regular ventricular escape rhythm; no consistent P-QRS relationship."
       ],
       "runner_up": "",
       "flags": {
@@ -2943,45 +2941,43 @@
       "question_no": "41",
       "depth": "expanded",
       "answer": {
-        "label": "②",
-        "text": "Anti-GBM antibody"
+        "label": "①",
+        "text": "Antineutrophilic cytoplasmic autoantibody"
       },
       "why": [
-        "The patient presents with rapidly declining renal function, which is characteristic of rapidly progressive glomerulonephritis (RPGN).",
-        "The kidney biopsy shows crescents in 70% of glomeruli, the histological hallmark of RPGN.",
-        "Immunofluorescence (IF) microscopy reveals linear IgG deposition along the glomerular basement membrane (GBM).",
-        "This combination of crescentic GN and linear IgG IF is pathognomonic for anti-GBM antibody disease.",
-        "The disease is caused by autoantibodies targeting the alpha-3 chain of type IV collagen in the GBM.",
-        "When accompanied by pulmonary hemorrhage, it is known as Goodpasture's syndrome.",
-        "The absence of electron-dense deposits on electron microscopy further supports this diagnosis by ruling out immune complex-mediated diseases."
+        "Rapidly progressive renal failure with crescents in ~70% of glomeruli indicates crescentic glomerulonephritis.",
+        "Immunofluorescence for IgG is essentially negative (pauci-immune pattern), not linear or granular.",
+        "Electron microscopy shows no electron-dense deposits, supporting a non-immune-complex process.",
+        "This constellation is typical of ANCA-associated small-vessel vasculitis (e.g., MPA/GPA) with pauci-immune crescentic GN.",
+        "ANCA (MPO- or PR3-directed)-mediated neutrophil activation injures glomerular capillaries, causing crescents and rapid GFR decline."
       ],
       "others": [
         {
-          "label": "①",
-          "text": "Antineutrophilic cytoplasmic autoantibody",
-          "reason": "ANCA is associated with pauci-immune crescentic GN, where immunofluorescence for immunoglobulins is negative or shows only scant deposits."
+          "label": "②",
+          "text": "Anti-GBM antibody",
+          "reason": "Anti-GBM disease shows linear IgG along the GBM on IF; here IF is essentially negative (pauci-immune)."
         },
         {
           "label": "③",
           "text": "Non-steroidal anti-inflammatory drug",
-          "reason": "NSAIDs can cause various kidney injuries, such as acute interstitial nephritis or minimal change disease, but not anti-GBM disease."
+          "reason": "NSAIDs classically cause acute interstitial nephritis or minimal-change disease, not pauci-immune crescentic GN."
         },
         {
           "label": "④",
           "text": "Nephritogenic group A β hemolytic streptococci",
-          "reason": "This causes post-streptococcal GN, an immune complex disease characterized by granular IF deposits and subepithelial humps on electron microscopy."
+          "reason": "This causes post-streptococcal glomerulonephritis, which is an immune-complex disease with granular IF (IgG/C3) and subepithelial humps on EM."
         },
         {
           "label": "⑤",
           "text": "Neutral endopeptidase",
-          "reason": "Antibodies to neutral endopeptidase are associated with some forms of membranous nephropathy, not anti-GBM disease."
+          "reason": "Maternal anti-neutral endopeptidase antibodies cause neonatal membranous nephropathy, not pauci-immune crescents in an older adult."
         }
       ],
       "findings": [
-        "Light microscopy: Cellular crescent formation in the glomerulus.",
-        "Immunofluorescence: Linear deposition of IgG along the glomerular basement membrane."
+        "Light microscopy: Cellular crescents in ~70% of glomeruli.",
+        "Immunofluorescence: Pauci-immune—negative or only trace IgG/C3; no linear pattern."
       ],
-      "runner_up": "",
+      "runner_up": "② Anti-GBM antibody — excluded by absence of linear IgG on IF.",
       "flags": {
         "illegible": false,
         "assumptions": "",
@@ -2989,18 +2985,18 @@
       },
       "confidence": 0.99,
       "rethink": {
-        "mismatch": true,
+        "mismatch": false,
         "first_guess": {
-          "label": "②",
-          "text": "Anti-GBM antibody"
+          "label": "①",
+          "text": "Antineutrophilic cytoplasmic autoantibody"
         },
         "provided_key": {
           "label": "①",
           "text": null
         },
-        "final_decision": "override_key",
-        "note": "The biopsy findings (crescentic GN with linear IgG IF) are the textbook definition of anti-GBM disease, caused by anti-GBM antibodies. ANCA is associated with pauci-immune GN.",
-        "override_key": true
+        "final_decision": "agree_with_key",
+        "note": "",
+        "override_key": false
       },
       "metadata": {
         "input_metadata": {
