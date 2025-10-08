@@ -809,7 +809,7 @@
         },
         "final_decision": "override_key",
         "note": "Intrahepatic cholestasis is not a primary pathogenetic mechanism of AIH and is biochemically absent in this patient. While molecular mimicry is a hypothetical trigger, it is widely accepted as part of the disease's pathogenesis. The data from the patient (normal ALP/GGT) makes option ⑤ the most definitively incorrect factor.",
-        "override_key": false
+        "override_key": true
       },
       "metadata": {
         "input_metadata": {
