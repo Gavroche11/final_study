@@ -753,24 +753,30 @@
       "question_no": "11",
       "depth": "expanded",
       "answer": {
-        "label": "②",
-        "text": "Molecular mimicry"
+        "label": "⑤",
+        "text": "Intrahepatic cholestasis"
       },
       "why": [
         "The patient, a 2-year-old girl, presents with a clinical picture highly suggestive of autoimmune hepatitis (AIH): elevated transaminases, high IgG, positive ANA, and interface hepatitis on biopsy.",
         "The question asks which of the listed options is NOT a factor in the pathogenesis of AIH.",
-        "The pathogenesis of AIH is understood as an interplay between genetic predisposition, environmental triggers, and a resulting breakdown of immune self-tolerance.",
-        "Genetic susceptibility (e.g., specific HLA alleles) is a well-established predisposing factor.",
+        "The disease is characterized by a loss of immune tolerance, where T-cells attack hepatocytes.",
+        "Genetic susceptibility (e.g., association with specific HLA alleles) is a well-established predisposing factor.",
+        "Molecular mimicry is a proposed trigger where an external antigen (e.g., viral) mimics a self-antigen on liver cells.",
         "Impairment of immune regulation (specifically, defective regulatory T-cells) is the core mechanism, leading to both cell-mediated and humoral autoimmune responses.",
         "Hepatocyte apoptosis is the final common pathway of liver injury caused by the autoimmune attack.",
-        "Molecular mimicry, where an environmental agent (like a virus) has antigens that resemble self-antigens, is a leading *hypothesis* for how the disease is *triggered*, but it is not considered a fundamental, intrinsic component of the disease's maintenance mechanism in the same way as genetic makeup or the primary immune defect.",
-        "Therefore, in the context of this question, it may be considered a proposed trigger rather than an essential pathogenic factor."
+        "Intrahepatic cholestasis is defined by impaired bile flow, which would cause a significant elevation in cholestatic enzymes like Alkaline Phosphatase (ALP) and Gamma-glutamyl transferase (GGT), which are within the normal range in this patient.",
+        "This confirms that her disease is a pure hepatocellular process, and cholestasis is not part of its pathophysiology."
       ],
       "others": [
         {
           "label": "①",
           "text": "Genetic susceptibility",
           "reason": "This is a core component of AIH pathogenesis, with strong associations to specific HLA-DRB1 alleles."
+        },
+        {
+          "label": "②",
+          "text": "Molecular mimicry",
+          "reason": "This is a leading theory for how environmental triggers (like viruses) can initiate the autoimmune attack in genetically susceptible individuals."
         },
         {
           "label": "③",
@@ -781,21 +787,16 @@
           "label": "④",
           "text": "Hepatocyte apoptosis",
           "reason": "This is the direct mechanism of liver cell death and damage in AIH, mediated by cytotoxic T-lymphocytes."
-        },
-        {
-          "label": "⑤",
-          "text": "Intrahepatic cholestasis",
-          "reason": "While AIH is primarily a hepatocellular process, some degree of cholestasis can occur, and the patient's ALP and GGT are at the upper limit of normal. It can be considered a feature of the disease process."
         }
       ],
       "findings": [],
-      "runner_up": "⑤Intrahepatic cholestasis",
+      "runner_up": "",
       "flags": {
         "illegible": false,
         "assumptions": "",
         "mixed_lang": true
       },
-      "confidence": 0.7,
+      "confidence": 0.95,
       "rethink": {
         "mismatch": true,
         "first_guess": {
@@ -806,8 +807,8 @@
           "label": "2",
           "text": null
         },
-        "final_decision": "agree_with_key",
-        "note": "The question is ambiguous. While intrahepatic cholestasis is not a primary pathogenetic mechanism of AIH, molecular mimicry is a triggering hypothesis, not a fundamental sustaining factor. The key selects molecular mimicry, likely distinguishing a trigger from the core disease process.",
+        "final_decision": "override_key",
+        "note": "Intrahepatic cholestasis is not a primary pathogenetic mechanism of AIH and is biochemically absent in this patient. While molecular mimicry is a hypothetical trigger, it is widely accepted as part of the disease's pathogenesis. The data from the patient (normal ALP/GGT) makes option ⑤ the most definitively incorrect factor.",
         "override_key": false
       },
       "metadata": {
