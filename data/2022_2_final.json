@@ -1182,57 +1182,58 @@
       "question_no": "17",
       "depth": "expanded",
       "answer": {
-        "label": "③",
+        "label": "④",
         "text": ""
       },
       "why": [
         "The question asks to identify the ovarian tumor with a benign gross appearance.",
-        "Benign epithelial ovarian tumors, such as serous or mucinous cystadenomas, typically appear as smooth, thin-walled cysts.",
-        "They can be unilocular (one chamber) or multilocular (multiple chambers) and are filled with clear (serous) or mucoid (mucinous) fluid.",
-        "The absence of solid components, thick walls, papillary excrescences (wart-like growths), necrosis, or hemorrhage are features that strongly suggest a benign nature.",
-        "Image ③ depicts a unilocular, thin-walled cyst with a smooth lining, which is the most classic gross appearance of a benign simple cyst or serous cystadenoma among the choices.",
-        "Image ②, showing a solid, well-circumscribed, yellowish tumor, is also consistent with a benign entity like an ovarian fibroma or thecoma."
+        "Image ④ depicts a uniformly solid, firm, white/ivory, whorled cut surface without cysts or hemorrhage/necrosis, which is characteristic of an ovarian fibroma, a type of sex cord-stromal tumors.",
+        "Fibromas are benign tumors, unlike the other options which show features suggestive of malignancy or metastatic disease.",
+        "The other images show gross features typical of malignant ovarian tumors: irregular, solid/cystic masses with hemorrhage, necrosis, and surface involvement."
       ],
       "others": [
         {
           "label": "①",
           "text": "",
-          "reason": "This image shows a complex multiloculated cystic and solid tumor with extensive hemorrhage and necrosis. These are hallmark features of a malignant tumor, such as a cystadenocarcinoma."
+          "reason": "High-grade serous carcinoma (malignant): Predominantly solid, fleshy, tan-white cut surface with irregular slit-like/cystic spaces and areas of hemorrhage/necrosis—features, that strongly suggest malignancy."
         },
         {
           "label": "②",
           "text": "",
-          "reason": "This image shows a solid, encapsulated tumor. While it could be a benign fibroma/thecoma, a simple cyst (as in image ③) is a more unequivocally benign-appearing finding. Solid ovarian masses always require exclusion of malignancy."
+          "reason": "Metastatic tumor (malignant): Predominantly solid, tan-yellow mass with subcapsular/cortical nodules and an irregular surface, lacking a single dominant cyst—features that favor malignant metastatic implantation over a primary ovarian tumor."
         },
         {
-          "label": "④",
+          "label": "③",
           "text": "",
-          "reason": "This image displays a complex mass with multiple cysts, solid components, and papillary growths. Papillary excrescences are highly suspicious for a borderline or malignant ovarian tumor."
+          "reason": "Metastatic tumor (malignant): Multinodular, infiltrative cut surface with numerous small slit-like/cystic and necrotic spaces (“moth-eaten/fish-flesh”), plus surface involvement, which are a classic gross pattern of metastatic carcinoma."
+        },
+        {
+          "label": "⑤",
+          "text": "",
+          "reason": "Dysgerminoma (malignant): Solid, homogeneous “fleshy” tan-cream, lobulated mass with minimal hemorrhage/cystic change, a classic seminomatous gross appearance."
         }
       ],
-      "findings": [
-        "Image ③: Unilocular, thin-walled cyst with a smooth internal surface, consistent with a benign serous cystadenoma."
-      ],
-      "runner_up": "②",
+      "findings": [],
+      "runner_up": "",
       "flags": {
         "illegible": false,
-        "assumptions": "The unlabelled image options correspond to gross pathology specimens of different ovarian tumors.",
+        "assumptions": "",
         "mixed_lang": false
       },
       "confidence": 0.95,
       "rethink": {
-        "mismatch": true,
+        "mismatch": false,
         "first_guess": {
-          "label": "③",
+          "label": "④",
           "text": null
         },
         "provided_key": {
           "label": "④",
           "text": null
         },
-        "final_decision": "override_key",
-        "note": "The provided key (④) points to an image with clear features of malignancy (solid components, papillary growths). Image ③ shows a classic benign simple cyst, which is the most appropriate answer.",
-        "override_key": true
+        "final_decision": "agree_with_key",
+        "note": "",
+        "override_key": false
       },
       "metadata": {
         "input_metadata": {
@@ -1244,7 +1245,7 @@
           }
         },
         "version": "mcq.batch.v1.5",
-        "erratum_note": "The provided answer key (④) is incorrect. The image for option ④ shows features highly suggestive of a malignant or borderline ovarian tumor, such as solid components and papillary excrescences. The most appropriate answer is option ③, which depicts a classic benign serous cystadenoma."
+        "erratum_note": ""
       }
     },
     {
