@@ -7277,58 +7277,58 @@
         "text": "Pseudopolyp"
       },
       "why": [
-        "The patient has inflammatory bowel disease (IBD) severe enough to require a total colectomy.",
-        "Pseudopolyps are a characteristic finding in severe or long-standing IBD, particularly Ulcerative Colitis (UC), but they can also be seen in Crohn's disease.",
-        "They are not true neoplasms but are projecting masses of inflamed, regenerating mucosa that remain after surrounding ulceration has denuded the bowel wall.",
-        "The image shows a polypoid structure composed of inflamed mucosa projecting from the surface, which is consistent with the histology of a pseudopolyp.",
-        "Total colectomy is a common surgical procedure for medically refractory UC or UC with dysplasia/cancer, making pseudopolyps a very plausible finding in the resected specimen."
+        "The patient has inflammatory bowel disease severe enough to require total colectomy.",
+        "Pseudopolyps are characteristic of long-standing ulcerative colitis (and can appear in Crohn disease), formed by residual/regenerating mucosa between ulcers.",
+        "They are not neoplastic; they represent inflamed, regenerating mucosa projecting above an ulcerated surface.",
+        "The image shows polypoid projections of mucosa overlying broad areas of denudation—classic for pseudopolyps.",
+        "This finding aligns with colectomy specimens from chronic UC."
       ],
       "others": [
         {
           "label": "①",
           "text": "Non-caseating granuloma",
-          "reason": "This is a hallmark of Crohn's disease, but it is not visible in the provided image. It is also absent in Ulcerative Colitis."
+          "reason": "Granulomas are a hallmark of Crohn disease and are not seen in this section."
         },
         {
           "label": "②",
           "text": "Transmural inflammation",
-          "reason": "The image does show deep inflammation extending into the bowel wall. However, this is the defining feature of Crohn's disease. While the key points to pseudopolyp (more common in UC), this finding is also present, creating ambiguity. Pseudopolyp describes a specific structure, while transmural inflammation describes the overall process."
+          "reason": "Ulcerative colitis is typically limited to mucosa/submucosa; the provided low-power image does not demonstrate transmural inflammation."
         },
         {
           "label": "④",
           "text": "Subserosal lymphoid aggregate",
-          "reason": "This finding is also visible in the image but is a component of the transmural inflammation characteristic of Crohn's disease, not a defining feature of IBD in general."
+          "reason": "Subserosal aggregates imply transmural disease (Crohn). They are not evident in this mucosa-dominant section."
         },
         {
           "label": "⑤",
           "text": "Fistula",
-          "reason": "A fistula is a tract connecting two epithelial surfaces and is a complication of the transmural inflammation in Crohn's disease. It is not depicted in this histological section."
+          "reason": "No epithelialized tract connecting luminal surfaces is shown; fistulas are complications of transmural Crohn disease."
         }
       ],
       "findings": [
-        "Low-power H&E stain of bowel wall.",
-        "Polypoid projection of inflamed mucosa (pseudopolyp).",
-        "Deep inflammation extending into the bowel wall."
+        "Low-power H&E of colon with broad mucosal ulceration.",
+        "Islands of inflamed, regenerating mucosa protruding above the ulcer bed (pseudopolyps).",
+        "No granulomas or fistulous tracts identified."
       ],
-      "runner_up": "② Transmural inflammation",
+      "runner_up": "",
       "flags": {
         "illegible": false,
         "assumptions": "",
         "mixed_lang": true
       },
-      "confidence": 0.7,
+      "confidence": 0.92,
       "rethink": {
-        "mismatch": true,
+        "mismatch": false,
         "first_guess": {
-          "label": "②",
-          "text": "Transmural inflammation"
+          "label": "③",
+          "text": "Pseudopolyp"
         },
         "provided_key": {
           "label": "③",
           "text": "Pseudopolyp"
         },
         "final_decision": "agree_with_key",
-        "note": "The image shows both a pseudopolyp and transmural inflammation (characteristic of Crohn's). Total colectomy is more common for UC, where pseudopolyps are classic. Given the ambiguity, agreeing with the key is a plausible choice.",
+        "note": "",
         "override_key": false
       },
       "metadata": {
