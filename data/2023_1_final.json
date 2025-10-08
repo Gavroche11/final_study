@@ -7304,60 +7304,59 @@
       "question_no": "100",
       "depth": "expanded",
       "answer": {
-        "label": "④",
-        "text": "Naltrexone"
+        "label": "⑤",
+        "text": "Buprenorphine"
       },
       "why": [
-        "The question asks for a suitable medication for a person with morphine addiction, which is an opioid use disorder (OUD).",
-        "Naltrexone is an opioid antagonist used in the management of OUD.",
-        "It works by blocking mu-opioid receptors, which prevents the euphoric and sedative effects of opioids.",
-        "By blocking the rewarding effects, naltrexone helps reduce cravings and prevent relapse in individuals who are motivated to remain abstinent.",
-        "It is crucial that the patient is fully detoxified from opioids before starting naltrexone, as administering it to a physically dependent person will precipitate severe withdrawal symptoms.",
-        "Naltrexone is one of the three FDA-approved medications for OUD, alongside methadone and buprenorphine, and is a suitable option for relapse prevention."
+        "The question asks for a suitable medication for morphine addiction (opioid use disorder, OUD).",
+        "Buprenorphine is a partial μ-opioid receptor agonist with a ceiling effect on respiratory depression, making it safe and effective for outpatient induction and maintenance.",
+        "It suppresses withdrawal and cravings, improves treatment retention, and lowers overdose risk compared with no medication.",
+        "It can be prescribed in office-based settings (often as buprenorphine/naloxone) after the patient reaches mild–moderate withdrawal to avoid precipitated withdrawal.",
+        "Buprenorphine is one of the three FDA-approved MOUDs (with methadone and naltrexone) and is generally first-line for many patients."
       ],
       "others": [
         {
           "label": "①",
           "text": "Codeine",
-          "reason": "Codeine is a weak opioid agonist and a drug of potential abuse itself. It is not a treatment for opioid use disorder."
+          "reason": "A short-acting opioid agonist with abuse potential; not a treatment for OUD."
         },
         {
           "label": "②",
           "text": "Cannabidiol",
-          "reason": "Cannabidiol (CBD) is a non-psychoactive component of cannabis and is not an approved or evidence-based treatment for opioid use disorder."
+          "reason": "Not an approved or evidence-based therapy for OUD."
         },
         {
           "label": "③",
           "text": "Methadone",
-          "reason": "Methadone is a long-acting full opioid agonist used for opioid maintenance therapy. While it is a first-line treatment for OUD, naltrexone is also a suitable, albeit different, therapeutic option focused on abstinence."
+          "reason": "A full agonist and one of the three FDA-approved medications for MOUDs. However, it has a higher risk of respiratory depression and QT prolongation compared to buprenorphine and is typically dispensed in highly regulated clinic settings; not necessarily preferred for office-based prescribing."
         },
         {
-          "label": "⑤",
-          "text": "Buprenorphine",
-          "reason": "Buprenorphine is a partial opioid agonist, also a first-line treatment for OUD. Like methadone, it represents an agonist-based maintenance strategy, whereas naltrexone represents an antagonist-based relapse prevention strategy."
+          "label": "④",
+          "text": "Naltrexone",
+          "reason": "An opioid antagonist and one of the three FDA-approved medications for MOUDs. It requires complete detoxification before initiation and has lower retention than agonist therapy; appropriate for highly motivated, fully detoxified patients, but less suitable for many. Giving naltrexone to a person currently dependent on morphine would precipitate severe, acute withdrawal and is contraindicated."
         }
       ],
       "findings": [],
       "runner_up": "③",
       "flags": {
         "illegible": false,
-        "assumptions": "The question asks for *a* suitable medication, and naltrexone is a valid option for relapse prevention in detoxified patients.",
+        "assumptions": "",
         "mixed_lang": true
       },
-      "confidence": 0.9,
+      "confidence": 0.93,
       "rethink": {
-        "mismatch": false,
+        "mismatch": true,
         "first_guess": {
-          "label": "④",
-          "text": "Naltrexone"
+          "label": "⑤",
+          "text": "Buprenorphine"
         },
         "provided_key": {
           "label": "4",
           "text": null
         },
-        "final_decision": "agree_with_key",
-        "note": "Methadone and buprenorphine are also correct treatments for OUD, but they represent a different strategy (agonist maintenance) from naltrexone (antagonist for relapse prevention). Naltrexone is a valid answer.",
-        "override_key": false
+        "final_decision": "override_key",
+        "note": "For morphine (opioid) dependence, buprenorphine is a first-line MOUD suitable for outpatient initiation and maintenance; naltrexone is antagonist therapy requiring prior detox and has lower retention.",
+        "override_key": true
       },
       "metadata": {
         "input_metadata": {
