@@ -62,6 +62,12 @@ def main():
     with st.sidebar:
         st.title("📁 Data Source")
 
+        # Add refresh button
+        if st.button("🔄 Refresh Data", help="Reload files from ./data directory"):
+            st.cache_data.clear()
+            st.session_state.uploaded_files_data = {}
+            st.rerun()
+
         # Load default files from ./data directory on first run
         if not st.session_state.uploaded_files_data:
             default_files = sorted(glob.glob(os.path.join(DATA_DIR, "*.json")))
