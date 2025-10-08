@@ -7356,29 +7356,29 @@
         "The hallmark histopathological finding in CJD is spongiform encephalopathy.",
         "This is characterized by a classic triad: spongiform change, neuronal loss, and reactive gliosis (specifically, astrocytosis).",
         "Spongiform change refers to the presence of numerous small, round, empty-appearing vacuoles within the neuropil of the gray matter, giving the tissue a sponge-like appearance.",
-        "The images provided clearly demonstrate this characteristic spongiform vacuolation.",
-        "These changes are caused by the accumulation of the abnormal, protease-resistant scrapie isoform of the prion protein (PrPSc)."
+        "Image ⑤ shows diffuse microvacuolation consistent with spongiform change.",
+        "Pathogenesis involves accumulation of protease-resistant PrPSc."
       ],
       "others": [
         {
           "label": "①",
-          "text": "Neurofibrillary tangles",
-          "reason": "This is a key pathological finding in Alzheimer's disease and other tauopathies, not CJD."
+          "text": "Cryptococcosis",
+          "reason": "Encapsulated yeasts with clear halos (mucicarmine/GMS positive) cause granulomatous meningitis, not spongiform change of CJD."
         },
         {
           "label": "②",
-          "text": "Lewy bodies",
-          "reason": "These are eosinophilic intracytoplasmic inclusions characteristic of Parkinson's disease and dementia with Lewy bodies."
+          "text": "Mycobacterial infection (acid-fast bacilli)",
+          "reason": "AFB-positive bacilli indicate tuberculosis; infectious granulomatous disease, not prion-related spongiform encephalopathy."
         },
         {
           "label": "③",
-          "text": "Senile (amyloid) plaques",
-          "reason": "Extracellular deposits of amyloid-beta peptide are a hallmark of Alzheimer's disease. While some forms of CJD can have PrP-amyloid plaques (Kuru plaques), the defining feature is spongiform change."
+          "text": "Reactive gliosis/ischemic change",
+          "reason": "Shows astrocytic proliferation without the characteristic diffuse microvacuolation seen in CJD."
         },
         {
           "label": "④",
-          "text": "Inflammation",
-          "reason": "Unlike viral encephalitis, CJD is notable for its lack of a significant inflammatory infiltrate."
+          "text": "Reactive gliosis/ischemic change",
+          "reason": "Shows astrocytic proliferation without the characteristic diffuse microvacuolation seen in CJD."
         }
       ],
       "findings": [
@@ -7417,7 +7417,7 @@
           }
         },
         "version": "mcq.batch.v1.5",
-        "erratum_note": "The original question was parsed without option text, likely due to a formatting issue in the source PDF. The explanation is based on the visible images and the provided answer key."
+        "erratum_note": ""
       }
     },
     {
