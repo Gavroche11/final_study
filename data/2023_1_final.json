@@ -6789,27 +6789,26 @@
       "question_no": "93",
       "depth": "expanded",
       "answer": {
-        "label": "②",
-        "text": "스테로이드"
+        "label": "③",
+        "text": "환기관 삽입술"
       },
       "why": [
-        "The clinical presentation (chronic hearing loss, foul-smelling otorrhea) and otoscopic findings (attic perforation with white debris) are classic for a cholesteatoma.",
-        "A cholesteatoma is a destructive lesion of keratinizing squamous epithelium in the middle ear and/or mastoid, which requires surgical excision (tympanomastoidectomy).",
-        "The question asks for an inappropriate treatment. While not curative, antibiotics are appropriate to treat the secondary infection indicated by the purulent discharge.",
-        "Surgical procedures like tympanoplasty and ossiculoplasty are definitive components of the reconstructive phase of treatment after the cholesteatoma is removed.",
-        "Steroids (especially systemic) are generally considered inappropriate and potentially harmful. In the presence of an active, foul-smelling infection, steroids can suppress the immune response, potentially worsening the infection and its complications.",
-        "While topical steroid-antibiotic drops are sometimes used pre-operatively to reduce inflammation, their use is debated, and as a standalone or primary treatment, they are inappropriate and inadequate."
+        "Chronic unilateral conductive hearing loss with foul-smelling otorrhea and attic retraction/perforation with keratin debris is classic for a cholesteatoma.",
+        "Definitive management is surgical eradication of disease (tympanomastoidectomy) with tympanoplasty ± ossiculoplasty; imaging/otomicroscopy guide the plan.",
+        "Antibiotics (topical ± systemic) are appropriate for controlling active infection before/around surgery; topical steroid–antibiotic drops may be used briefly to reduce edema and granulation.",
+        "On the other hand, ventilation tubes are indicated for otitis media with effusion or recurrent AOM with an intact tympanic membrane, not for a chronically perforated ear or cholesteatoma.",
+        "Placing a tube into a diseased or already perforated TM does not treat cholesteatoma and risks persistent infection/otorrhea."
       ],
       "others": [
         {
           "label": "①",
           "text": "항생제",
-          "reason": "Antibiotics (topical and/or systemic) are appropriate to control the active infection and reduce inflammation prior to definitive surgical management."
+          "reason": "The foul-smelling discharge indicates a secondary bacterial infection. Antibiotics (topical and/or systemic) are appropriate to control the active infection and reduce inflammation prior to definitive surgical management."
         },
         {
-          "label": "③",
-          "text": "환기관 삽입술",
-          "reason": "While a ventilation tube is not the correct treatment for an established cholesteatoma, it is used to treat the underlying Eustachian tube dysfunction that can lead to cholesteatoma formation. However, steroids in an active infection are more directly contraindicated."
+          "label": "②",
+          "text": "스테로이드",
+          "reason": "Topical antibiotic-steroid ear drops are frequently used to reduce granulation tissue and mucosal inflammation associated with the cholesteatoma before surgery."
         },
         {
           "label": "④",
@@ -6827,13 +6826,13 @@
         "White, cheesy debris (keratin) consistent with cholesteatoma",
         "Conductive hearing loss on the right side on audiogram"
       ],
-      "runner_up": "③",
+      "runner_up": "",
       "flags": {
         "illegible": false,
         "assumptions": "",
         "mixed_lang": false
       },
-      "confidence": 0.8,
+      "confidence": 1.0,
       "rethink": {
         "mismatch": true,
         "first_guess": {
@@ -6844,9 +6843,9 @@
           "label": "2",
           "text": null
         },
-        "final_decision": "agree_with_key",
-        "note": "Initially chose ventilation tube as it treats a different pathology. However, the key is steroids, which is plausible if active infection is assumed (foul discharge), as steroids can worsen infection.",
-        "override_key": false
+        "final_decision": "override_key",
+        "note": "Topical steroids are a standard part of pre-operative management for cholesteatoma to reduce inflammation. In contrast, a ventilation tube treats a completely different pathology and is a fundamentally incorrect procedure for an established cholesteatoma.",
+        "override_key": true
       },
       "metadata": {
         "input_metadata": {
