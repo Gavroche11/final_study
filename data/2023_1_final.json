@@ -1700,70 +1700,67 @@
         "erratum_note": ""
       }
     },
-    {
+{
       "question_no": "24",
       "depth": "expanded",
       "answer": {
-        "label": "⑤",
-        "text": "임신 말기의 산모의 영양 문제"
+        "label": "④",
+        "text": "염색체 이상"
       },
       "why": [
-        "The provided growth chart shows the infant's birth measurements plotted by gestational age.",
-        "The key pattern is a significant deficit in weight (below 3rd percentile) and a lesser deficit in length (around 10th percentile), while the head circumference is preserved (around 50th percentile).",
-        "This pattern is known as **asymmetric** growth restriction or 'head-sparing' growth restriction.",
-        "Asymmetric growth restriction typically results from insults that occur in the late second or third trimester of pregnancy.",
-        "During this period, the fetus directs blood flow and nutrients preferentially to the brain at the expense of somatic growth.",
-        "Common causes include conditions that lead to uteroplacental insufficiency (e.g., preeclampsia, chronic hypertension) or maternal malnutrition late in pregnancy.",
-        "Maternal nutritional problems in late pregnancy directly limit the substrate available for fetal growth, leading to this characteristic pattern."
+        "The Fenton growth chart shows the infant's birth measurements at a gestational age of 38 weeks.",
+        "All three growth parameters—weight (~2.1 kg), length (~43.5 cm), and head circumference (~29.5 cm)—are plotted well below the 3rd percentile for this age.",
+        "This pattern, where all growth parameters are proportionally reduced, is known as symmetric Intrauterine Growth Restriction (IUGR).",
+        "Symmetric IUGR implies a growth insult that occurred early in pregnancy (first trimester), affecting cellular hyperplasia and impacting overall fetal growth from the beginning.",
+        "The classic causes of symmetric IUGR are intrinsic to the fetus, such as chromosomal abnormalities (e.g., aneuploidies), congenital TORCH infections, or severe genetic syndromes.",
+        "Among the given choices, a chromosomal abnormality is the most appropriate cause for this pattern of severe, symmetric growth restriction."
       ],
       "others": [
         {
           "label": "①",
           "text": "당뇨병",
-          "reason": "Maternal diabetes typically leads to fetal macrosomia (large for gestational age) due to fetal hyperinsulinemia, not growth restriction."
+          "reason": "Uncontrolled maternal diabetes typically causes fetal macrosomia (large for gestational age) due to fetal hyperinsulinemia, not growth restriction."
         },
         {
           "label": "②",
           "text": "전자간증",
-          "reason": "Preeclampsia is a valid cause of asymmetric growth restriction due to placental insufficiency. It is a strong runner-up and cannot be definitively excluded based on the chart alone."
+          "reason": "Preeclampsia leads to uteroplacental insufficiency, which typically causes asymmetric IUGR ('head-sparing') that manifests in the late second or third trimester. This is inconsistent with the severe reduction in head circumference seen here."
         },
         {
           "label": "③",
           "text": "만성고혈압",
-          "reason": "Chronic maternal hypertension is another valid cause of asymmetric growth restriction, similar to preeclampsia."
+          "reason": "Chronic maternal hypertension, similar to preeclampsia, is a cause of asymmetric IUGR due to long-term placental insufficiency. This does not fit the symmetric pattern."
         },
         {
-          "label": "④",
-          "text": "염색체 이상",
-          "reason": "Chromosomal abnormalities (e.g., trisomies) typically cause insults early in gestation, leading to **symmetric** growth restriction, where weight, length, and head circumference are all proportionally reduced."
+          "label": "⑤",
+          "text": "임신 말기의 산모의 영양 문제",
+          "reason": "Maternal malnutrition, particularly when it occurs late in pregnancy, is a classic cause of asymmetric IUGR, where head circumference is relatively preserved. This contradicts the findings."
         }
       ],
       "findings": [
-        "Fenton growth chart showing birth measurements at 38 weeks.",
-        "Weight plotted below the 3rd percentile.",
-        "Head circumference plotted at the 50th percentile, demonstrating 'head-sparing'.",
-        "This combination is characteristic of asymmetric growth restriction."
+        "Fenton growth chart with measurements plotted at 38 weeks gestation.",
+        "Weight, length, and head circumference are all plotted significantly below the 3rd percentile."
       ],
-      "runner_up": "②",
+      "runner_up": "",
       "flags": {
         "illegible": false,
-        "assumptions": "The question asks for a cause that matches the growth pattern shown.",
+        "assumptions": "The red dots on the chart represent the infant's birth measurements.",
         "mixed_lang": false
       },
-      "confidence": 0.95,
+      "confidence": 1.0,
       "rethink": {
-        "mismatch": true,
+        "mismatch": false,
         "first_guess": {
-          "label": "⑤",
-          "text": "임신 말기의 산모의 영양 문제"
+          "label": "④",
+          "text": "염색체 이상"
         },
         "provided_key": {
           "label": "4",
           "text": null
         },
-        "final_decision": "override_key",
-        "note": "The provided key is ④ (Chromosomal abnormality). However, the growth chart clearly shows asymmetric ('head-sparing') growth restriction. Chromosomal abnormalities classically cause symmetric growth restriction. Therefore, the key is inconsistent with the provided image data. The pattern is best explained by late-gestation insults like maternal malnutrition or placental insufficiency.",
-        "override_key": true
+        "final_decision": "agree_with_key",
+        "note": "",
+        "override_key": false
       },
       "metadata": {
         "input_metadata": {
