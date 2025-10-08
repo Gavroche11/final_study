@@ -3307,41 +3307,40 @@
       "question_no": "46",
       "depth": "expanded",
       "answer": {
-        "label": "③",
-        "text": "C"
+        "label": "④",
+        "text": "D"
       },
       "why": [
-        "The image shows a typical ventricular myocyte action potential.",
-        "The patient is being treated with a calcium channel blocker (CCB).",
-        "CCBs, particularly non-dihydropyridines like verapamil and diltiazem used for arrhythmias, block L-type calcium channels.",
-        "In the ventricular myocyte, the influx of Ca2+ through these channels is responsible for Phase 2, the plateau phase of the action potential.",
-        "The letter C in the diagram corresponds to this plateau phase (Phase 2).",
-        "By blocking this inward calcium current, CCBs shorten the plateau phase, reduce the action potential duration, and decrease myocardial contractility (negative inotropy)."
+        "The tracing depicts a ventricular myocyte action potential.",
+        "Non-DHP calcium channel blockers (e.g., verapamil, diltiazem) inhibit L-type Ca2+ current (ICa,L).",
+        "In ventricular muscle, ICa,L sustains Phase 2 (plateau).",
+        "Segment D corresponds to the plateau (Phase 2); blocking ICa,L lowers/shortens this phase.",
+        "Result: reduced Ca2+ entry, shortened AP duration, and negative inotropy."
       ],
       "others": [
         {
           "label": "①",
           "text": "A",
-          "reason": "A represents the resting membrane potential (Phase 4), which is primarily maintained by potassium channels and is not the main target of CCBs in ventricular myocytes."
+          "reason": "Phase 4 resting membrane potential—primarily K+ conductance; not the main target of CCBs in ventricles."
         },
         {
           "label": "②",
           "text": "B",
-          "reason": "B represents the rapid depolarization (Phase 0), which is mediated by fast sodium channels in ventricular myocytes. CCBs do not affect these channels."
+          "reason": "Phase 0 rapid upstroke via fast Na+ channels in ventricular myocytes; CCBs do not primarily affect this phase."
         },
         {
-          "label": "④",
-          "text": "D",
-          "reason": "D represents the repolarization phase (Phase 3), which is primarily driven by the efflux of potassium ions. While shortening Phase 2 affects the timing of Phase 3, the direct action of CCBs is on Phase 2."
+          "label": "③",
+          "text": "C",
+          "reason": "Early repolarization notch (Phase 1) mediated by transient outward K+ current (Ito), not L-type Ca2+ channels."
         },
         {
           "label": "⑤",
           "text": "E",
-          "reason": "E represents the return to resting potential at the end of repolarization. This is the result of Phase 3 completion, not the primary site of CCB action."
+          "reason": "Phase 3 repolarization driven by K+ currents (IKr/IKs/IK1); not the direct site of CCB action."
         }
       ],
       "findings": [
-        "Diagram of a ventricular action potential with phases labeled."
+        "Ventricular action potential schematic with labeled segments; D marks the Phase 2 plateau sustained by L-type Ca2+ influx."
       ],
       "runner_up": "",
       "flags": {
@@ -3351,18 +3350,18 @@
       },
       "confidence": 0.98,
       "rethink": {
-        "mismatch": true,
+        "mismatch": false,
         "first_guess": {
-          "label": "③",
-          "text": "C"
+          "label": "④",
+          "text": "D"
         },
         "provided_key": {
           "label": "④",
           "text": null
         },
-        "final_decision": "override_key",
-        "note": "Calcium channel blockers directly inhibit L-type calcium channels, which are responsible for the plateau (Phase 2) of the ventricular action potential, labeled 'C'. Phase 3 ('D') is mediated by potassium channels.",
-        "override_key": true
+        "final_decision": "agree_with_key",
+        "note": "",
+        "override_key": false
       },
       "metadata": {
         "input_metadata": {
