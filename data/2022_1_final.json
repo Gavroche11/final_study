@@ -7347,7 +7347,7 @@
         {
           "label": "⑤",
           "text": "장 운동이 감소될 때는 설사는 없고 변비가 생긴다",
-          "reason": "Decreased intestinal motility (peristalsis) leads to increased transit time and greater water absorption, resulting in constipation, not diarrhea."
+          "reason": "While decreased motility is a primary cause of constipation, this statement is too absolute. Prolonged stasis from decreased motility can lead to small intestinal bacterial overgrowth (SIBO), which in turn can cause chronic diarrhea."
         }
       ],
       "findings": [],
