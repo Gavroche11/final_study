@@ -2530,38 +2530,38 @@
         "text": "심장 수술"
       },
       "why": [
-        "The 5-month-old infant presents with a classic picture of congestive heart failure (CHF) secondary to a congenital heart defect.",
-        "Symptoms include tachypnea (RR 55), poor feeding, and failure to thrive (gained only 1.5 kg in 5 months).",
-        "Physical exam reveals a systolic murmur and intercostal retractions, indicating increased work of breathing.",
-        "The chest X-ray shows cardiomegaly and increased pulmonary vascular markings (pulmonary plethora), which are signs of a significant left-to-right shunt (e.g., a large VSD, PDA).",
-        "While medical management (diuretics, digoxin, ACE inhibitors) is used to stabilize such patients, the definitive treatment for a large, symptomatic shunt lesion causing intractable heart failure and failure to thrive is surgical correction.",
-        "Given the severity of symptoms, surgery is necessary to prevent irreversible pulmonary hypertension and allow for normal growth and development."
+        "The infant's presentation is a textbook case of uncompensated congestive heart failure (CHF) and failure to thrive (FTT).",
+        "Key clinical findings include tachypnea (RR 55), poor feeding, severe undernutrition (gained only 1.5 kg in 5 months), and chest retractions.",
+        "The chest X-ray shows significant cardiomegaly and increased pulmonary vascular markings (pulmonary plethora), classic signs of a large left-to-right shunt.",
+        "The echocardiogram confirms the underlying cause: a large ventricular septal defect (VSD) is clearly visible.",
+        "While medical management (e.g., diuretics) is used for stabilization, the presence of medically refractory CHF and failure to thrive are absolute indications for definitive surgical closure of the VSD.",
+        "Surgery is the only curative option that corrects the anatomical defect, prevents the development of irreversible pulmonary hypertension (Eisenmenger syndrome), and allows for catch-up growth."
       ],
       "others": [
         {
           "label": "①",
           "text": "산소 투여",
-          "reason": "Oxygen is a supportive measure for hypoxemia but does not address the underlying hemodynamic problem of volume overload to the lungs."
+          "reason": "This is a supportive measure, but in a large left-to-right shunt, oxygen acts as a pulmonary vasodilator, which can decrease pulmonary vascular resistance and paradoxically worsen the shunt. It is used cautiously only if there is hypoxemia from pulmonary edema."
         },
         {
           "label": "②",
           "text": "강심제 투여",
-          "reason": "Inotropic agents like digoxin are part of the medical management of heart failure but are not the definitive cure for the anatomical defect."
+          "reason": "This refers to medical management (e.g., diuretics, digoxin). While it is a necessary initial step to manage CHF symptoms, it is not a cure. The infant's failure to thrive indicates that medical management is insufficient."
         },
         {
           "label": "③",
           "text": "기관 삽관",
-          "reason": "Intubation and mechanical ventilation are reserved for severe respiratory failure and are not the primary treatment for the heart defect itself."
+          "reason": "Intubation is reserved for acute respiratory failure. It is a temporary supportive measure, not the primary treatment for the underlying cardiac defect."
         },
         {
           "label": "④",
-          "text": "흉관 삼관",
-          "reason": "A chest tube is used to drain air or fluid from the pleural space and is not indicated in this clinical scenario."
+          "text": "흉관 삽관",
+          "reason": "A chest tube is used to drain air (pneumothorax) or fluid (pleural effusion) from the pleural space and is not indicated here."
         }
       ],
       "findings": [
-        "Chest X-ray showing cardiomegaly (enlarged heart silhouette).",
-        "Chest X-ray showing increased pulmonary vascular markings (pulmonary plethora)."
+        "Chest X-ray: Significant cardiomegaly and increased pulmonary vascular markings.",
+        "Echocardiogram: A large defect is visible in the ventricular septum."
       ],
       "runner_up": "",
       "flags": {
