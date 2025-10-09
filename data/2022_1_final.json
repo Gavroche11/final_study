@@ -5705,45 +5705,47 @@
         "text": "등골의 고정"
       },
       "why": [
-        "The patient is a 55-year-old woman with slowly progressive bilateral hearing loss, and normal tympanic membranes.",
-        "This clinical history is suggestive of otosclerosis, a primary bone dystrophy of the otic capsule that is more common in women and typically presents in middle age.",
-        "While otosclerosis classically causes conductive hearing loss by fixing the stapes footplate to the oval window, it can also have a sensorineural component.",
-        "This occurs when the otosclerotic focus involves the cochlea directly (cochlear otosclerosis), releasing enzymes that damage the inner ear structures.",
-        "The audiogram shows bilateral symmetric sensorineural hearing loss (SNHL), which can be seen in advanced or cochlear otosclerosis.",
-        "Although the audiogram lacks a clear conductive component (air-bone gap) or the classic Carhart's notch, otosclerosis remains a plausible diagnosis among the given choices, especially when considering the specific demographic and history."
+        "The audiogram shows bilateral hearing loss with a significant air-bone gap, indicating conductive hearing loss.",
+        "Conductive hearing loss results from problems with the outer or middle ear, while the inner ear (cochlea) functions normally.",
+        "The patient's tympanic membranes are normal, ruling out issues like perforation or otitis media.",
+        "The pattern of gradually progressive, bilateral conductive hearing loss in an adult is classic for otosclerosis.",
+        "Otosclerosis is a condition of abnormal bone remodeling in the middle ear, leading to the fixation of the stapes footplate to the oval window.",
+        "This fixation prevents sound vibrations from being transmitted effectively to the inner ear fluid.",
+        "A characteristic finding, often seen in otosclerosis, is Carhart's notch: a dip in the bone conduction threshold at 2000 Hz, which is visible in the left ear audiogram."
       ],
       "others": [
         {
           "label": "②",
           "text": "바이러스 감염",
-          "reason": "Viral infections typically cause sudden, often unilateral, sensorineural hearing loss, not a slowly progressive bilateral loss over years."
+          "reason": "Viral infections can cause sensorineural hearing loss (e.g., labyrinthitis), not the conductive pattern seen here."
         },
         {
           "label": "③",
           "text": "청신경의 종양",
-          "reason": "An acoustic neuroma (vestibular schwannoma) characteristically causes unilateral or asymmetric sensorineural hearing loss. The audiogram here is symmetric."
+          "reason": "An acoustic neuroma (vestibular schwannoma) typically causes unilateral sensorineural hearing loss and would not produce an air-bone gap."
         },
         {
           "label": "④",
           "text": "지속적인 소음 노출",
-          "reason": "Noise-induced hearing loss causes a similar audiogram pattern (high-frequency SNHL), but the diagnosis requires a history of significant noise exposure, which is not provided in the stem."
+          "reason": "Noise-induced hearing loss is a type of sensorineural hearing loss, characteristically showing a notch at 4000 Hz on the audiogram, and does not cause an air-bone gap."
         },
         {
           "label": "⑤",
           "text": "이독성 약물사용",
-          "reason": "Ototoxic medications can cause bilateral SNHL, but this diagnosis requires a history of exposure to such drugs (e.g., aminoglycosides, cisplatin), which is not mentioned."
+          "reason": "Ototoxic drugs (e.g., aminoglycosides, cisplatin) cause sensorineural hearing loss, not conductive hearing loss."
         }
       ],
       "findings": [
-        "Audiogram showing bilateral, symmetric, high-frequency sensorineural hearing loss"
+        "Bilateral conductive hearing loss (air-bone gap)",
+        "Carhart's notch (dip in bone conduction at 2kHz, especially in the left ear)"
       ],
       "runner_up": "",
       "flags": {
         "illegible": false,
         "assumptions": "",
-        "mixed_lang": false
+        "mixed_lang": true
       },
-      "confidence": 0.8,
+      "confidence": 0.98,
       "rethink": {
         "mismatch": false,
         "first_guess": {
@@ -5755,7 +5757,7 @@
           "text": null
         },
         "final_decision": "agree_with_key",
-        "note": "The audiogram is more typical for presbycusis or noise-induced hearing loss. However, given the options and the patient's age/sex, cochlear otosclerosis is the most likely intended diagnosis, as it can present with progressive bilateral SNHL.",
+        "note": "",
         "override_key": false
       },
       "metadata": {
