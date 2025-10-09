@@ -4746,12 +4746,12 @@
         {
           "label": "③",
           "text": "C는 BCI6에 대한 면역조직화학염색이다.",
-          "reason": "This is likely a typo for BCL6. While BCL6 staining would be positive in a germinal center, the most defining feature of the benign process shown in image D is the evidence of apoptosis, not just the presence of a germinal center marker."
+          "reason": "The staining pattern shown in image C (negative germinal center, positive surrounding mantle zone) is classic for BCL2. A BCL6 stain, which marks germinal center B-cells, would be positive (brown) *inside* the germinal center. The negative BCL2 stain in the germinal center is a key feature of a benign follicle and helps rule out follicular lymphoma."
         },
         {
           "label": "⑤",
           "text": "유사분열이 자주 관찰되므로 악성림프종으로 진행할 가 능성이 높다.",
-          "reason": "Frequent mitoses are normal and expected in a reactive germinal center due to rapid B-cell proliferation. In contrast, low-grade follicular lymphoma typically has a low mitotic rate."
+          "reason": "Frequent mitoses are normal and expected in a reactive germinal center due to rapid B-cell proliferation."
         }
       ],
       "findings": [
