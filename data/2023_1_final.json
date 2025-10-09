@@ -2593,14 +2593,14 @@
         "The echocardiogram is diagnostic, showing classic features of rheumatic mitral stenosis: thickened and calcified mitral valve leaflets, diastolic doming ('hockey stick' appearance) of the anterior leaflet, and restricted valve opening.",
         "The severity of mitral stenosis is quantified by the mitral valve area (MVA).",
         "The provided planimetry measurement shows a mitral valve area of 0.87 cm².",
-        "According to established guidelines, mitral stenosis is classified as severe when the MVA is <1.0 cm².",
+        "According to established guidelines, mitral stenosis is classified as severe when the MVA is ≤1.5 cm².",
         "Since the patient's MVA is 0.87 cm², the diagnosis is severe mitral stenosis."
       ],
       "others": [
         {
           "label": "①",
           "text": "중등도 승모판막 협착증",
-          "reason": "Moderate mitral stenosis is defined by a mitral valve area of 1.0-1.5 cm². This patient's MVA of 0.87 cm² is below this range."
+          "reason": "Moderate mitral stenosis is defined by a mitral valve area of >1.5 cm². This patient's MVA of 0.87 cm² is below this range."
         },
         {
           "label": "③",
