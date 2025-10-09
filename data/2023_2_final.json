@@ -155,18 +155,17 @@
       "question_no": "3",
       "depth": "expanded",
       "answer": {
-        "label": "④",
-        "text": "편도"
+        "label": "③",
+        "text": "비장"
       },
       "why": [
         "The image displays Scammon's growth curves, which illustrate the differential growth rates of various body tissues.",
-        "Curve A shows a pattern of rapid growth during infancy and childhood, reaching a peak of nearly 200% of adult size around age 12, followed by involution (regression) during adolescence.",
-        "This specific pattern is characteristic of the lymphoid tissues, including the thymus, tonsils, adenoids, and intestinal lymph aggregates (Peyer's patches).",
-        "This lymphoid proliferation is a normal part of developing immune competence during childhood.",
-        "Among the given options, the tonsils are lymphoid tissue and perfectly follow this growth and involution curve.",
-        "The brain and eyes follow the neural curve (rapid early growth, plateauing by age 6-7).",
-        "The spleen's growth, while it is a lymphoid organ, more closely follows the general somatic growth curve (S-shaped).",
-        "The uterus follows the genital curve (quiescent until a rapid growth spurt at puberty)."
+        "Curve A depicts the general (somatic) growth pattern: rapid early growth, a slower childhood phase, and an **adolescent growth spurt** reaching adult size by late adolescence.",
+        "Organs that follow this general somatic curve include body height/weight, heart, lungs, liver, kidneys, and the spleen.",
+        "Among the given options, the spleen best matches this curve.",
+        "The brain and eyes follow the neural curve (very rapid early growth with early plateau).",
+        "The tonsils follow the lymphoid curve (marked childhood hypertrophy approaching ~200% of adult size, then post-pubertal involution).",
+        "The uterus follows the genital curve (minimal growth until puberty, then rapid increase)."
       ],
       "others": [
         {
@@ -180,9 +179,9 @@
           "reason": "The eye, like the brain, follows the neural growth curve."
         },
         {
-          "label": "③",
-          "text": "비장",
-          "reason": "The spleen is a lymphoid organ, but its growth pattern follows the general somatic curve, not the classic lymphoid curve with pre-pubertal peak and subsequent involution."
+          "label": "④",
+          "text": "편도",
+          "reason": "Tonsils are lymphoid tissue and follow the lymphoid curve with a pre-pubertal peak and subsequent involution, not the general somatic curve."
         },
         {
           "label": "⑤",
@@ -192,9 +191,9 @@
       ],
       "findings": [
         "Scammon's growth curve chart",
-        "Curve A showing lymphoid-type growth: rapid proliferation in childhood peaking at ~200% of adult size, followed by involution."
+        "Curve A showing general/somatic-type growth: steady rise with adolescent spurt to adult size."
       ],
-      "runner_up": "③ 비장",
+      "runner_up": "",
       "flags": {
         "illegible": false,
         "assumptions": "",
@@ -202,18 +201,18 @@
       },
       "confidence": 0.95,
       "rethink": {
-        "mismatch": true,
+        "mismatch": false,
         "first_guess": {
-          "label": "④",
-          "text": "편도"
+          "label": "③",
+          "text": "비장"
         },
         "provided_key": {
           "label": "3",
-          "text": "비장"
+          "text": null
         },
-        "final_decision": "override_key",
-        "note": "The provided key selects 'spleen'. However, the graph shows the classic lymphoid growth curve (Scammon's curve), which peaks pre-puberty and then involutes. This pattern is characteristic of tonsils and thymus, not the spleen, which follows the general somatic growth curve. The key is likely incorrect.",
-        "override_key": true
+        "final_decision": "agree_with_key",
+        "note": "",
+        "override_key": false
       },
       "metadata": {
         "input_metadata": {
