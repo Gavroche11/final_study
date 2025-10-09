@@ -6349,45 +6349,45 @@
         "text": "대혈관 질환에 의한 뇌경색 가능성이 높다. (High probability of stroke due to large vessel disease.)"
       },
       "why": [
-        "The patient presents with an acute onset of neurological deficit (dysarthria), and the MRI confirms an acute ischemic stroke.",
-        "The image is a Diffusion-Weighted Imaging (DWI) sequence, which is highly sensitive for acute ischemia, appearing as a bright area of restricted diffusion.",
-        "The location and large size of the infarct, involving a significant portion of the left cerebral hemisphere, are characteristic of an occlusion in a large intracranial artery, specifically the Middle Cerebral Artery (MCA).",
-        "This type of stroke is classified as being caused by large-vessel disease.",
-        "The underlying mechanism is typically either atherosclerosis of a large artery (e.g., carotid or MCA) leading to thrombosis or artery-to-artery embolism, or cardioembolism (e.g., from atrial fibrillation).",
-        "The patient's risk factors (untreated hypertension and diabetes) are major contributors to atherosclerosis and large-vessel stroke."
+        "The patient presents with an acute neurological deficit (dysarthria), and the MRI confirms an acute ischemic stroke.",
+        "The image is a diffusion-weighted imaging (DWI) sequence, where the bright white signal indicates an area of restricted diffusion, pathognomonic for acute ischemia.",
+        "The stroke is located in the left basal ganglia (lentiform nucleus) and likely the adjacent internal capsule.",
+        "This area is supplied by the lenticulostriate arteries, which are small perforating branches of the middle cerebral artery (MCA).",
+        "A common cause for a stroke of this size and location is large-vessel atherosclerosis. A plaque in the main trunk of the MCA can occlude the origin of these perforating arteries. Given the patient's uncontrolled hypertension and diabetes, this is a highly probable mechanism.",
+        "Therefore, classifying this as a stroke due to large vessel disease is the most appropriate interpretation."
       ],
       "others": [
         {
           "label": "②",
           "text": "출혈성 병변을 포함하고 있다. (Includes a hemorrhagic component.)",
-          "reason": "DWI is not the appropriate sequence to rule out hemorrhage. While hemorrhagic transformation can occur, there is no evidence for it here, and the primary event is ischemic."
+          "reason": "This is incorrect. A DWI sequence shows cytotoxic edema from ischemia. Hemorrhage would be best evaluated on a Gradient Echo (GRE) or SWI sequence, where it would appear dark."
         },
         {
           "label": "③",
           "text": "전대뇌동맥 영역의 병변이다. (The lesion is in the anterior cerebral artery territory.)",
-          "reason": "This is incorrect. The lesion is in the lateral aspect of the hemisphere, which is the territory of the middle cerebral artery (MCA), not the anterior cerebral artery (ACA), which supplies the medial aspect."
+          "reason": "This is incorrect. The basal ganglia and internal capsule are primarily supplied by the MCA, not the ACA."
         },
         {
           "label": "④",
           "text": "우측 대뇌피질 침범에 의해 구음장애를 호소하고 있다. (Dysarthria is caused by right cerebral cortex involvement.)",
-          "reason": "The lesion is clearly in the left hemisphere. Speech and language centers are typically located in the left hemisphere for most right-handed individuals."
+          "reason": "This is incorrect on two counts. The stroke is in the **left** hemisphere, not the right. Also, the patient's dysarthria (slurred speech) is caused by damage to subcortical motor pathways (like the internal capsule), not the cortex."
         },
         {
           "label": "⑤",
           "text": "기저핵 침범으로 급성 파킨슨 증상이 동반될 가능성이 높다. (Basal ganglia involvement suggests high likelihood of acute Parkinsonian symptoms.)",
-          "reason": "While the MCA territory includes parts of the basal ganglia, acute Parkinsonism is not a typical presentation of an MCA stroke. Hemiparesis, aphasia, and hemisensory loss are the classic signs."
+          "reason": "This is clinically incorrect. An acute ischemic stroke affecting the basal ganglia typically causes contralateral motor deficits like hemiparesis, not acute Parkinsonism."
         }
       ],
       "findings": [
-        "MRI (DWI sequence) showing a large area of high signal intensity (restricted diffusion).",
-        "The lesion is located in the left middle cerebral artery (MCA) territory.",
-        "Involvement of both cortical and subcortical structures is visible."
+        "MRI (DWI sequence) showing a bright signal (restricted diffusion) indicating acute ischemia.",
+        "The lesion is located in the left basal ganglia and internal capsule.",
+        "This is within the deep perforator territory of the left Middle Cerebral Artery (MCA)."
       ],
-      "runner_up": "",
+      "runner_up": null,
       "flags": {
         "illegible": false,
         "assumptions": "",
-        "mixed_lang": false
+        "mixed_lang": true
       },
       "confidence": 1.0,
       "rethink": {
