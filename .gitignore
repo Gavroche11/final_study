@@ -138,3 +138,5 @@ Thumbs.db
 
 # Data files (uncomment if you don't want to track data)
 data_deprecated/*.json
+no_commit/
+test.py

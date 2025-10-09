@@ -168,6 +168,13 @@ def render_detail_view(row: pd.Series, show_korean: bool = False, show_raw_json:
     if erratum_note:
         st.markdown(f"**📝 Erratum:** {erratum_note}")
 
+    # Teaching points at the bottom
+    teaching_points = row.get('_raw', {}).get('teaching_points', [])
+    if teaching_points and isinstance(teaching_points, list):
+        st.markdown("**📚 Teaching Points:**")
+        for point in teaching_points:
+            st.markdown(f"• {point}")
+
 
 def render_detail_sidebar(row: pd.Series, show_korean: bool = False, show_raw_json: bool = False):
     """Render detail view in a more compact sidebar-style layout.

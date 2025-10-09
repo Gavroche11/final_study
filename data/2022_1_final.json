@@ -70,6 +70,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** Psoriasis vulgaris presents as well-demarcated, erythematous plaques with silvery scales, typically on extensor surfaces like elbows and knees.",
+        "**Triggers:** Infections, particularly Group A β-hemolytic streptococcal pharyngitis, can trigger or exacerbate psoriasis, often leading to a guttate (drop-like) morphology.",
+        "**Pathophysiology:** Psoriasis is a Th1/Th17-mediated autoimmune disease. Key cytokines include TNF-α, IL-17, and IL-22, which drive keratinocyte hyperproliferation.",
+        "**Genetics:** Psoriasis has a polygenic inheritance. The major susceptibility locus, PSORS1, is strongly associated with HLA-Cw6.",
+        "**Key signs:** The Koebner phenomenon is the development of psoriatic lesions at sites of skin trauma.",
+        "**Pitfalls:** Do not confuse the Koebner phenomenon with the Nikolsky sign (epidermal detachment seen in pemphigus). HLA-B27 is associated with spondyloarthropathies, not primarily psoriasis. Pustules in psoriasis are sterile neutrophil collections (Munro's microabscesses), not driven by mast cells."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -145,6 +153,14 @@
         "note": "My first guess considered a primary brown pigment stone, where infection is key. However, the key points to cholesterol stones, which are epidemiologically far more common as a cause of gallstones migrating to the CBD. The pathogenesis of cholesterol stones is increased cholesterol secretion.",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** Choledocholithiasis (common bile duct stone) most often results from the migration of a stone from the gallbladder.",
+        "**Pathophysiology:** The most common gallstones are cholesterol stones, caused by hepatic hypersecretion of cholesterol into bile.",
+        "**Mechanism:** When bile becomes supersaturated with cholesterol, it exceeds the solubilizing capacity of bile salts and phospholipids, leading to cholesterol crystal precipitation and stone formation.",
+        "**Criteria/Thresholds:** The formation of cholesterol stones depends on the molar ratio of cholesterol to bile salts and lecithin.",
+        "**Differential stone types:** Brown pigment stones are associated with biliary infection and stasis. Black pigment stones are associated with chronic hemolysis and increased unconjugated bilirubin.",
+        "**Pitfalls:** Increased bile acid production would prevent, not cause, cholesterol stones. Ursodeoxycholic acid is a medical treatment used to dissolve cholesterol stones."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -219,6 +235,16 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Topic:** Molecular diagnostics for assessing B-cell clonality in lymphoproliferative disorders.",
+        "**Principle:** Malignant B-cell populations are monoclonal, meaning they all share the identical V(D)J immunoglobulin gene rearrangement.",
+        "**Diagnostic methods:** Both Polymerase Chain Reaction (PCR) and Next-Generation Sequencing (NGS) can detect Ig gene rearrangements. PCR with fragment analysis is standard, while NGS offers higher sensitivity for minimal residual disease (MRD) detection.",
+        "**Pitfalls in Hematologic Molecular Testing:**",
+        "• Post-transplant chimerism is assessed using Short Tandem Repeat (STR) analysis, not sequencing.",
+        "• FLT3-ITD mutation in AML is a marker of **poor** prognosis.",
+        "• In the BCR-ABL1 fusion, the breakpoint is variable in the **BCR** gene, leading to different protein sizes (p190, p210, p230).",
+        "• Molecular results are critical for guiding targeted therapy (e.g., TKIs for BCR-ABL1 positive CML)."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -294,6 +320,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** Acute dyspnea in a patient with malignancy (a major risk factor for VTE) should raise high suspicion for pulmonary embolism (PE).",
+        "**Diagnosis:** CT pulmonary angiography (CTPA) is the gold standard for diagnosing PE, showing intraluminal filling defects.",
+        "**Severity assessment:** The key discriminator for immediate management is hemodynamic stability. This patient is stable (BP 120/84 mmHg), classifying this as a submassive PE.",
+        "**Criteria/Thresholds:** Massive PE is defined by hemodynamic instability, typically a systolic blood pressure <90 mmHg.",
+        "**Treatment (Stable PE):** The immediate and primary treatment is **anticoagulation** (e.g., LMWH, DOACs) to prevent further clot propagation.",
+        "**Treatment (Unstable/Massive PE):** Systemic **thrombolysis** is indicated for hemodynamically unstable patients to rapidly dissolve the clot.",
+        "**Pitfalls:** An IVC filter is reserved for patients with an absolute contraindication to anticoagulation or recurrent PE despite adequate therapy. Thrombolysis is not used in stable patients due to the high risk of major bleeding."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -368,6 +403,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Diagnosis:** The combination of cyanosis with crying, a systolic murmur, and a 'boot-shaped heart' on chest X-ray is classic for Tetralogy of Fallot (TOF).",
+        "**Pathophysiology:** A 'tet spell' is a hypercyanotic episode caused by a sudden increase in right-to-left shunting due to infundibular (RVOT) spasm and/or a drop in systemic vascular resistance (SVR).",
+        "**Management goals:** The primary goals are to calm the infant, increase SVR, and decrease RVOT obstruction.",
+        "**Interventions:** Key initial steps include placing the infant in the **knee-chest position** (increases SVR), administering oxygen, and providing **sedation** (e.g., morphine) to reduce agitation and hyperpnea.",
+        "**Pharmacotherapy:** If initial measures fail, vasopressors like phenylephrine can be used to increase SVR, and beta-blockers like propranolol can be used to relieve RVOT spasm.",
+        "**Pitfalls:** Vasodilators (which decrease SVR) and beta-agonists (which can worsen RVOT spasm) are contraindicated during a tet spell."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -441,6 +484,13 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Pathophysiology of Ascites:** The sequence begins with liver cirrhosis causing fibrosis and architectural distortion.",
+        "**Step 1: Portal Hypertension:** This distortion leads to a primary **increase** in intrahepatic vascular resistance, causing portal hypertension.",
+        "**Step 2: Splanchnic Vasodilation:** In response to portal hypertension, local vasodilators (primarily nitric oxide) cause marked **dilation** of the splanchnic arterial system.",
+        "**Step 3: Reduced Effective Volume:** This massive vasodilation leads to a decrease in systemic vascular resistance and a state of relative arterial underfilling, resulting in a **decrease/insufficiency** of the effective arterial blood volume.",
+        "**Step 4: Neurohormonal Activation:** The perceived hypovolemia activates the renin-angiotensin-aldosterone system (RAAS) and sympathetic nervous system, causing avid sodium and water retention by the kidneys, which ultimately forms ascites."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -513,6 +563,16 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Varicocele:** A dilation of the pampiniform plexus of veins, often described as a 'bag of worms' on palpation.",
+        "**Physical Exam:** A varicocele is best assessed with the patient in a **standing position** to allow gravity to fill the veins.",
+        "**Provocative Maneuver:** The **Valsalva maneuver** increases intra-abdominal pressure, which further distends the veins, making the varicocele more prominent and easier to visualize or palpate.",
+        "**Differential Diagnosis Pitfalls:**",
+        "• **Hydrocele:** A fluid collection that **transilluminates**.",
+        "• **Acute Epididymitis:** Doppler ultrasound shows **increased** blood flow.",
+        "• **Testicular Torsion:** Doppler ultrasound shows **absent** blood flow.",
+        "• **Cryptorchidism:** Diagnosed by physical exam; ultrasound is unreliable."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -590,6 +650,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Diagnosis:** Antisynthetase Syndrome, a subset of idiopathic inflammatory myopathies.",
+        "**Clinical Triad:** The classic presentation includes 1) Interstitial Lung Disease (ILD), 2) Inflammatory Myositis, and 3) Inflammatory Arthritis.",
+        "**Pathognomonic Sign:** **'Mechanic's hands'**—hyperkeratotic, fissured skin on the lateral aspects of the fingers—is a highly specific cutaneous finding.",
+        "**Imaging:** Chest CT typically shows bilateral, peripheral ground-glass opacities and reticulation, consistent with an NSIP or OP pattern of ILD.",
+        "**Definitive Workup:** The most direct and crucial next step for diagnosis is **serum autoantibody testing**.",
+        "**Key Serology:** The syndrome is defined by antibodies against aminoacyl-tRNA synthetases, with **anti-Jo-1** being the most common.",
+        "**Pitfalls:** While PFTs and lung biopsy can characterize the ILD, they are less direct for establishing the underlying systemic diagnosis when classic extra-pulmonary features are present."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -663,6 +732,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Diagnosis:** Post-Traumatic Stress Disorder (PTSD).",
+        "**Neurobiology:** PTSD involves dysregulation of stress-response circuits, characterized by **amygdala hyperactivity** (fear) and **prefrontal cortex hypoactivity** (impaired emotional control).",
+        "**Autonomic Dysfunction:** There is persistent **sympathetic nervous system (SNS) hyperactivity**, leading to hyperarousal symptoms. This 'fight-or-flight' state increases heart rate, blood pressure, and mobilizes energy stores by increasing glucagon.",
+        "**Neuro-inflammation:** PTSD is associated with a state of chronic, low-grade inflammation.",
+        "**Key Cytokines:** Patients often have elevated levels of pro-inflammatory cytokines, including **IL-1, IL-6, and TNF-α**.",
+        "**Immune-SNS Interaction:** A bidirectional relationship exists where sympathetic activation can drive cytokine production, and elevated cytokines can, in turn, enhance sympathetic activity, creating a vicious cycle."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -739,6 +816,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** Aspiration pneumonia presenting with severe hypoxemic respiratory failure (SpO2 85%) and increased work of breathing (RR 32/min).",
+        "**Management Goal:** The immediate priority is to correct severe hypoxemia and reduce the work of breathing.",
+        "**Oxygen Delivery:** For severe hypoxemia, low-flow devices (nasal cannula, simple mask) are often insufficient. **High-Flow Nasal Cannula (HFNC)** is a superior non-invasive option.",
+        "**HFNC Benefits:** Delivers high and precise FiO2, provides some PEEP, reduces dead space, and improves patient comfort.",
+        "**Criteria/Thresholds for Success:** A successful intervention is marked by improved oxygen saturation (e.g., SpO2 >94%) and a reduction in respiratory rate, indicating decreased work of breathing.",
+        "**Treatment Escalation:** HFNC is an appropriate intermediate step before considering more invasive options like endotracheal intubation.",
+        "**Pitfalls:** Intubation in septic patients carries a high risk of post-intubation hypotension. Failure to escalate from failing low-flow oxygen can lead to respiratory muscle fatigue and arrest."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -812,6 +898,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Topic:** Embryological development of the midgut.",
+        "**Key Event:** Physiological umbilical herniation.",
+        "**Mechanism:** During the 6th week of gestation, the midgut elongates rapidly and herniates into the proximal umbilical cord because the abdominal cavity is temporarily too small to contain it.",
+        "**Structure Involved:** The structure that temporarily resides within the umbilical cord is the **intestinal loop**.",
+        "**Rotation:** While herniated, the midgut loop undergoes a 270-degree counter-clockwise rotation around the superior mesenteric artery axis.",
+        "**Timeline:** The intestinal loops normally return to the abdominal cavity between the 10th and 12th weeks of gestation as the abdominal cavity enlarges.",
+        "**Normal Umbilical Cord Contents:** The cord permanently contains two umbilical arteries, one umbilical vein, and Wharton's jelly, all covered by amnion."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -888,6 +983,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Imaging Modality:** Color Doppler Echocardiography, Parasternal Long-Axis View.",
+        "**Key Finding:** A turbulent, multicolored jet of blood is seen originating from the aortic valve and flowing backward from the aorta into the left ventricle.",
+        "**Timing:** This regurgitant flow occurs during **diastole**, when the aortic valve should be closed.",
+        "**Diagnosis:** This finding is the definitive sign of **aortic regurgitation** (aortic insufficiency).",
+        "**Color Doppler Basics:** By convention, red indicates flow toward the transducer, blue indicates flow away, and a mosaic of colors (including green/yellow) signifies high-velocity, turbulent flow.",
+        "**Differential Diagnoses:** Mitral regurgitation would be a systolic jet from the LV to the LA. Aortic stenosis would be a turbulent forward jet from the LV to the aorta during systole."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -963,6 +1066,14 @@
         "note": "The Gram stain color strongly suggests Gram-positive S. pneumoniae. However, the classic clinical syndrome of meningitis with purpura fulminans is more specific for N. meningitidis. Agreed with key assuming image color is an artifact.",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** The triad of fever, signs of meningitis, and a **purpuric rash** is highly suggestive of **meningococcemia** due to *Neisseria meningitidis*.",
+        "**Risk Factors:** Asplenia is a major risk factor for overwhelming sepsis with encapsulated bacteria, including *N. meningitidis*, *S. pneumoniae*, and *H. influenzae*.",
+        "**Pathognomonic Sign:** The rapidly progressing purpuric rash (purpura fulminans) is a hallmark of meningococcemia, caused by endotoxin-mediated DIC and vascular injury.",
+        "**Microbiology:** *N. meningitidis* is a Gram-negative diplococcus, classically appearing as intracellular, kidney-bean-shaped diplococci on CSF Gram stain.",
+        "**Diagnostic Caveat:** While the clinical picture is classic for *N. meningitidis*, a Gram stain showing purple organisms would suggest *S. pneumoniae*. In test scenarios, the classic clinical syndrome often outweighs ambiguous microbiology images.",
+        "**Normal ranges / cutoffs:** CSF in bacterial meningitis typically shows WBC >1000/μL (neutrophil-predominant), glucose <40 mg/dL, and protein >100 mg/dL."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -1035,6 +1146,17 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Topic:** Differentiating functional vs. organic abdominal pain in children.",
+        "**Features of Functional Pain:** Typically periumbilical, may be associated with stress or altered bowel habits (IBS), and occurs in a child with normal growth and development.",
+        "**Red Flag Signs:** These are features that suggest an underlying organic pathology and warrant further investigation.",
+        "**Key Red Flag:** **Pain that awakens the child from sleep** is a classic and significant red flag sign.",
+        "**Other Red Flags:**",
+        "• Pain localized away from the umbilicus.",
+        "• Constitutional symptoms (weight loss, growth failure, fever).",
+        "• Vomiting (especially bilious), chronic severe diarrhea, or GI bleeding.",
+        "**Pitfalls:** Periumbilical pain, pain severe enough to miss school, and a family history of IBS are all common features of functional abdominal pain disorders and are not considered red flags."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -1110,6 +1232,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** A growing, part-solid pulmonary nodule that is FDG-avid on PET-CT in an older smoker has a very high probability of being lung cancer.",
+        "**Patient Assessment:** A patient with good pulmonary function (FEV1, DLCO >80% predicted) is a low-risk candidate for surgical resection.",
+        "**Management Strategy:** For a highly suspicious, peripheral, and resectable nodule in a fit patient, the standard of care is surgical resection, which serves as both diagnosis and treatment.",
+        "**Surgical Approach:** The optimal procedure is a **wedge resection** for intraoperative frozen section analysis. If malignancy is confirmed, the surgeon proceeds immediately to a formal **anatomic lobectomy** and mediastinal lymph node dissection.",
+        "**Rationale:** This two-step approach confirms the diagnosis and provides definitive oncologic treatment in a single operation, avoiding the delays and potential risks of a separate percutaneous biopsy.",
+        "**Pitfalls:** While percutaneous biopsy is an option, it is invasive and has a false-negative rate. In cases of high clinical suspicion, proceeding directly to surgery is often preferred."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -1182,6 +1312,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** A patient with hypertension, type 2 diabetes, and evidence of end-organ damage (nephropathy and retinopathy).",
+        "**Key Finding:** Proteinuria indicates the presence of diabetic nephropathy.",
+        "**Treatment Priority:** In patients with diabetes and proteinuria/CKD, the choice of antihypertensive agent must provide **renoprotection** in addition to blood pressure control.",
+        "**First-Line Therapy:** **ACE inhibitors (ACEi)** or **Angiotensin II Receptor Blockers (ARBs)** are the mandatory first-line agents in this population.",
+        "**Mechanism of Renoprotection:** RAAS blockade preferentially dilates the efferent glomerular arteriole, reducing intraglomerular pressure, which in turn decreases proteinuria and slows the progression of kidney disease.",
+        "**Normal ranges / cutoffs:** The target blood pressure for patients with diabetes is generally <130/80 mmHg. Albuminuria is defined as a urine albumin-to-creatinine ratio >30 mg/g.",
+        "**Pitfalls:** While thiazide diuretics and calcium channel blockers are excellent first-line agents for uncomplicated hypertension, they do not offer the specific renoprotective benefits of ACEi/ARBs in diabetic nephropathy."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -1258,6 +1397,15 @@
         "note": "The key suggests alternative pathway activation, but the positive C1q and IgM on IF and low C4 are definitive signs of classical pathway activation by immune complexes. The key is inconsistent with the provided data.",
         "override_key": true
       },
+      "teaching_points": [
+        "**Clinical picture:** Nephrotic syndrome, characterized by heavy proteinuria, hypoalbuminemia, edema, and hyperlipidemia.",
+        "**Key Diagnostic Findings:** Immunofluorescence (IF) microscopy shows **granular deposits** of IgM, C3, and **C1q** in the glomeruli.",
+        "**Pathophysiology:** The granular pattern of immunoglobulin and complement deposition is the hallmark of **immune complex-mediated glomerulonephritis**.",
+        "**Complement Pathway:** The presence of **C1q** is a definitive marker for activation of the **classical complement pathway**, which is triggered by antigen-antibody complexes.",
+        "**Serology:** A low serum C4 level further supports classical pathway activation, as C4 is consumed early in this cascade.",
+        "**Mechanism of Injury:** Deposited immune complexes activate the classical complement pathway, leading to inflammation, membrane attack complex formation, and glomerular damage.",
+        "**Pitfalls:** Glomerulonephritis driven by the alternative complement pathway (e.g., C3 glomerulopathy) is characterized by dominant C3 staining with little to no immunoglobulin or C1q."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -1330,6 +1478,18 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** A patient on antihypertensive medication who develops new-onset bilateral pitting edema and facial flushing.",
+        "**Causative Agent:** This specific constellation of side effects is classic for **dihydropyridine calcium channel blockers (CCBs)**, such as amlodipine or nifedipine.",
+        "**Mechanism of Edema:** CCBs cause potent arteriolar vasodilation without equivalent venodilation. This increases intracapillary hydrostatic pressure, leading to fluid extravasation into the interstitium, particularly in dependent areas like the ankles.",
+        "**Mechanism of Flushing:** This is also a direct result of the drug's vasodilatory effect on cutaneous blood vessels.",
+        "**Characteristics:** The edema is dose-dependent and is not due to fluid overload or heart failure.",
+        "**Pitfalls (Differential Side Effects):**",
+        "• ACE inhibitors: Dry cough, angioedema.",
+        "• ARBs: Hyperkalemia.",
+        "• Diuretics: Cause fluid loss, would not cause this type of edema.",
+        "• Beta-blockers: Bradycardia, fatigue."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -1402,6 +1562,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** A patient with prolonged, profound neutropenia following chemotherapy for acute leukemia develops persistent fever despite broad-spectrum antibiotics, along with new pulmonary symptoms like hemoptysis.",
+        "**Diagnosis:** This presentation is highly suspicious for **Invasive Pulmonary Aspergillosis (IPA)**.",
+        "**Diagnostic Workup:** A positive **serum galactomannan assay** is a key non-invasive biomarker that strongly supports the diagnosis of IPA.",
+        "**First-Line Treatment:** The treatment of choice for invasive aspergillosis is **voriconazole**.",
+        "**Rationale:** Voriconazole has demonstrated superior efficacy and survival outcomes compared to older agents like conventional amphotericin B in randomized controlled trials.",
+        "**Alternative Therapies:** Liposomal amphotericin B is a valid alternative first-line agent. Echinocandins (e.g., caspofungin) are typically reserved for salvage or combination therapy.",
+        "**Pitfalls:** Fluconazole has no activity against *Aspergillus* species."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -1477,6 +1646,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** An asymptomatic, solitary pulmonary nodule found incidentally in a young patient.",
+        "**Diagnosis:** Pulmonary Hamartoma, the most common benign lung tumor.",
+        "**Pathognomonic Finding:** The presence of coarse, lobulated, **\"popcorn\" calcifications** within a well-circumscribed nodule on CT is virtually diagnostic of a hamartoma.",
+        "**Pathology:** Hamartomas are composed of a disorganized mixture of mature lung tissues, including epithelial cells, fat, and, most importantly, **cartilage**. The calcification of this cartilaginous component creates the classic popcorn appearance.",
+        "**Management:** Given the classic benign features, these nodules are typically managed with surveillance imaging to confirm stability.",
+        "**Differential Diagnosis:** While other entities like granulomas can calcify, the popcorn pattern is specific to hamartomas. Malignant nodules rarely exhibit this type of calcification."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -1550,6 +1727,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical Picture:** Type I (immediate) hypersensitivity reaction, characterized by rapid onset of symptoms (e.g., wheezing, urticaria) within minutes of allergen exposure.",
+        "**Pathophysiology:** Mediated by allergen-specific IgE antibodies. In a sensitized individual, IgE coats the surface of mast cells and basophils.",
+        "**Mechanism:** Re-exposure to the allergen causes cross-linking of surface IgE, triggering degranulation.",
+        "**Key Cell:** The **mast cell**, a tissue-resident cell, is the primary effector in the immediate phase, releasing preformed mediators like histamine and tryptase.",
+        "**Mediators:** Histamine causes bronchoconstriction, vasodilation, and increased vascular permeability, leading to acute allergic symptoms.",
+        "**Late Phase:** Eosinophils are recruited hours later and are key players in the late-phase reaction and chronic allergic inflammation.",
+        "**Normal ranges / cutoffs:** Diagnosis is supported by evidence of specific IgE, such as a positive skin-prick test (wheal >3 mm larger than negative control) or serum-specific IgE testing."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -1621,6 +1807,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Definition:** Heart failure with preserved ejection fraction (HFpEF) is defined by clinical signs of heart failure with a left ventricular ejection fraction (LVEF) ≥ 50%.",
+        "**Pathophysiology:** Primarily a disorder of diastolic dysfunction, where a stiff, non-compliant ventricle impairs filling, leading to elevated filling pressures.",
+        "**Patient Profile:** Typically affects older adults, with a higher prevalence in women compared to HFrEF.",
+        "**Hallmark Feature:** Characterized by a high burden of non-cardiac comorbidities, including hypertension, obesity, diabetes mellitus, atrial fibrillation, chronic kidney disease (CKD), and COPD.",
+        "**Normal ranges / cutoffs:** **LVEF ≥ 50%** is the key diagnostic cutoff for HFpEF. HFrEF is defined as LVEF < 40%.",
+        "**Treatment:** Management focuses on controlling symptoms with diuretics and treating comorbidities. Unlike HFrEF, traditional HF therapies like beta-blockers and ACE inhibitors have not shown a clear mortality benefit.",
+        "**Pitfalls:** Do not confuse with HFrEF. A history of myocardial infarction is a classic cause of HFrEF (systolic dysfunction), not HFpEF."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -1697,6 +1892,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical Picture:** A tubo-ovarian abscess (TOA) is a severe complication of Pelvic Inflammatory Disease (PID). Patients present acutely with high fever, chills, lower abdominal/pelvic pain, and purulent vaginal discharge.",
+        "**Physical Exam:** Key findings include lower abdominal tenderness, cervical motion tenderness (\"chandelier sign\"), and often a palpable, tender adnexal mass.",
+        "**Workup:** Initial workup includes CBC, inflammatory markers (ESR/CRP), and cervical swabs for gonorrhea/chlamydia. Pelvic ultrasound is the primary imaging modality.",
+        "**Imaging:** Ultrasound typically reveals a complex, multiloculated adnexal mass with thick walls and internal debris, consistent with an abscess.",
+        "**Normal ranges / cutoffs:** Significant leukocytosis (e.g., **WBC > 10,000/μL**) and a highly elevated **C-reactive protein (CRP)** are expected.",
+        "**Diagnosis:** The combination of clinical signs of severe PID with an adnexal mass on imaging confirms the diagnosis. Laparoscopy showing purulent material is definitive.",
+        "**Management:** Requires hospitalization and broad-spectrum intravenous antibiotics. Image-guided drainage or surgery may be necessary for large abscesses or failure to improve with medical therapy."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -1773,6 +1977,15 @@
         "note": "The key indicates fibrate therapy, which is incorrect. The patient has classic familial hypercholesterolemia with normal triglycerides, for which high-intensity statin is the mandatory first-line treatment.",
         "override_key": true
       },
+      "teaching_points": [
+        "**Clinical Picture:** Suspect Familial Hypercholesterolemia (FH) with the triad of: 1) very high LDL-C from birth, 2) physical stigmata like tendon xanthomas, and 3) a family history of premature atherosclerotic cardiovascular disease (ASCVD).",
+        "**Pathognomonic Sign:** Tendon xanthomas, especially of the Achilles tendon, are pathognomonic for FH.",
+        "**Normal ranges / cutoffs:** An untreated **LDL-C > 190 mg/dL** in an adult or **>160 mg/dL** in a child should raise strong suspicion for FH.",
+        "**Treatment Goal:** The primary goal is aggressive and early reduction of LDL-C to lower the lifelong cumulative cholesterol burden.",
+        "**First-line Therapy:** **High-intensity statins** (e.g., atorvastatin 40-80 mg, rosuvastatin 20-40 mg) are the cornerstone of treatment, aiming for at least a 50% reduction in LDL-C.",
+        "**Second-line Therapy:** If LDL-C goals are not met, ezetimibe is added, followed by PCSK9 inhibitors.",
+        "**Pitfalls:** Fibrates are not indicated for isolated severe hypercholesterolemia; they are primarily used for hypertriglyceridemia."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -1847,6 +2060,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Imaging View:** The image shown is a standard transthoracic echocardiogram (TTE) view: the **parasternal long-axis (PLAX)** view.",
+        "**Probe Position:** The transducer is placed in the left 3rd or 4th intercostal space, parasternal border, with the marker oriented towards the patient's right shoulder.",
+        "**Visible Structures:** The PLAX view primarily visualizes left-sided heart structures. From anterior (top of screen) to posterior (bottom): Right Ventricular Outflow Tract (RVOT), Interventricular Septum, Left Ventricle (LV), Aortic Valve/Root, Mitral Valve, and Left Atrium (LA).",
+        "**Posterior Structure:** The descending thoracic aorta is seen as a circular structure in cross-section posterior to the left atrium.",
+        "**Not Visible:** The **Right Atrium (RA)** and Right Ventricular inflow are not visualized in the standard PLAX plane.",
+        "**Visualizing the RA:** The right atrium is best seen in other views, such as the apical four-chamber, subcostal, and parasternal short-axis views.",
+        "**Normal ranges / cutoffs:** Not applicable for structure identification."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -1923,6 +2145,17 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Definition:** Bronchopulmonary Dysplasia (BPD) is a chronic lung disease affecting premature infants, defined by the need for supplemental oxygen for at least 28 days after birth.",
+        "**Risk Factors:** Major risk factors include extreme prematurity (<28 weeks gestation), low birth weight, respiratory distress syndrome, and prolonged mechanical ventilation.",
+        "**Diagnosis & Staging:** The diagnosis and severity are formally assessed at **36 weeks postmenstrual age (PMA)** or at discharge to home, whichever comes first.",
+        "**Normal ranges / cutoffs (NICHD 2001 Criteria for BPD Severity at 36 weeks PMA):**",
+        "  - **Mild BPD:** Breathing room air (FiO2 21%).",
+        "  - **Moderate BPD:** Need for supplemental oxygen <30% (FiO2 >21% but <30%).",
+        "  - **Severe BPD:** Need for supplemental oxygen ≥30% (FiO2 ≥30%) and/or positive pressure support (CPAP/ventilator).",
+        "**Imaging:** Chest X-ray typically shows diffuse hazy opacities, hyperinflation, and coarse interstitial markings or cystic changes.",
+        "**Associated Conditions:** Echocardiography is important to screen for complications like pulmonary hypertension, but it does not define BPD severity."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -1996,6 +2229,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical Picture:** Moyamoya disease classically presents in children with recurrent transient ischemic attacks (TIAs) or strokes, often manifesting as transient hemiparesis or focal seizures.",
+        "**Pathognomonic Trigger:** Symptoms are frequently precipitated by hyperventilation (e.g., from crying, blowing on hot food, exercise), which causes hypocapnia and cerebral vasoconstriction, reducing flow through already stenotic vessels.",
+        "**Pathophysiology:** A progressive cerebrovascular disorder characterized by stenosis of the terminal internal carotid arteries and proximal anterior/middle cerebral arteries, with development of a fine network of collateral vessels (\"puff of smoke\").",
+        "**Diagnostic Workup:** The initial and best non-invasive diagnostic test is **brain MRI with MRA (Magnetic Resonance Angiography)**.",
+        "**Imaging Findings:** MRA demonstrates stenosis of the terminal ICAs and proximal MCA/ACA. MRI may show watershed infarcts or the \"ivy sign\" (leptomeningeal enhancement from collaterals).",
+        "**Gold Standard:** Conventional angiography is the gold standard for definitive diagnosis and surgical planning but is invasive.",
+        "**Normal ranges / cutoffs:** Not applicable. Diagnosis is based on characteristic angiographic findings."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -2071,6 +2313,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical Picture:** Empyema is a collection of pus in the pleural space, typically a complication of pneumonia. Presents with fever, pleuritic chest pain, and dyspnea.",
+        "**Workup:** Thoracentesis is essential. Fluid should be sent for cell count, protein, LDH, glucose, pH, Gram stain, and culture.",
+        "**Diagnostic Criteria:** First, confirm an exudate using Light's criteria. Then, assess for complication.",
+        "**Indications for Drainage:** Drainage (e.g., chest tube) is mandatory for a complicated parapneumonic effusion, indicated by any of the following: gross pus, positive Gram stain/culture, or specific fluid chemistry.",
+        "**Normal ranges / cutoffs:** **Pleural fluid pH < 7.20** or **glucose < 60 mg/dL** are strong, independent indications for drainage.",
+        "**Management:** The standard of care is **systemic antibiotics PLUS drainage** of the infected fluid via chest tube (thoracostomy).",
+        "**Escalation:** If chest tube drainage is incomplete due to loculations, intrapleural fibrinolytics (e.g., tPA/DNase) or surgical intervention (VATS, decortication) may be required."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -2145,6 +2396,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Gold Standard:** A **renal biopsy** is essential for the diagnosis, classification, and management of lupus nephritis (LN).",
+        "**Classification:** The ISN/RPS classification system divides LN into six classes based on histology, which has critical prognostic and therapeutic implications.",
+        "**Treatment Principle:** The choice of therapy is directly guided by the biopsy class.",
+        "**Proliferative Nephritis (Class III/IV):** These are aggressive forms requiring induction therapy with **high-dose corticosteroids PLUS an immunosuppressant** (mycophenolate mofetil [MMF] or cyclophosphamide).",
+        "**Membranous Nephritis (Class V):** Treatment is based on proteinuria levels, often starting with MMF and corticosteroids for nephrotic-range proteinuria.",
+        "**Advanced Sclerosing Nephritis (Class VI):** Represents >90% sclerosed glomeruli. Immunosuppression is ineffective; management is supportive care for chronic kidney disease.",
+        "**Normal ranges / cutoffs:** The histologic classification (Class I-VI) itself acts as the critical set of categories guiding treatment decisions."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -2218,6 +2478,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical Picture:** *Clostridioides difficile* infection (CDI) should be suspected in any patient who develops profuse, watery diarrhea during or after a course of antibiotics, especially if associated with hospitalization.",
+        "**Risk Factors:** Key risk factors include recent antibiotic use (especially clindamycin, cephalosporins, fluoroquinolones), advanced age, and recent hospitalization.",
+        "**Pathophysiology:** *C. difficile* is a spore-forming bacillus that produces Toxin A and Toxin B, leading to colonic inflammation, fluid secretion, and mucosal damage.",
+        "**Pathognomonic Finding:** The endoscopic appearance of **yellowish, adherent pseudomembranes** on an erythematous colonic mucosa is diagnostic of pseudomembranous colitis, a severe form of CDI.",
+        "**Diagnosis:** Diagnosis is typically made by detecting *C. difficile* toxin or toxin genes in a stool sample (e.g., via nucleic acid amplification test [NAAT]).",
+        "**Treatment:** First-line treatment for non-severe CDI is oral fidaxomicin or oral vancomycin.",
+        "**Normal ranges / cutoffs:** Not applicable. Diagnosis is based on clinical context and a positive stool test or characteristic endoscopic findings."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -2297,6 +2566,14 @@
         "note": "The theoretical risk for the more common t(14;21) translocation is 33%. A 100% risk implies a rare homologous t(21;21) translocation. The key indicates the latter is the intended answer.",
         "override_key": false
       },
+      "teaching_points": [
+        "**Genetic Mechanism:** Down syndrome can be caused by Trisomy 21 or, less commonly, a Robertsonian translocation involving chromosome 21.",
+        "**Common Translocation (e.g., t(14;21)):** A carrier of a t(14;21) translocation can produce multiple types of gametes. The empirical recurrence risk for a live birth with Down syndrome is ~10-15% for a female carrier and ~3-5% for a male carrier.",
+        "**Homologous Translocation (t(21;21)):** This is a rare translocation where the long arms of both chromosome 21s are fused.",
+        "**Gamete Formation in t(21;21):** A carrier can only produce two types of gametes regarding chromosome 21: one containing the fused t(21;21) chromosome and one containing no chromosome 21.",
+        "**Offspring Outcomes:** Fertilization with a normal gamete results in either Trisomy 21 (viable) or Monosomy 21 (non-viable and results in miscarriage).",
+        "**Normal ranges / cutoffs:** The recurrence risk for a live-born child to have Down syndrome is **100%** when one parent is a carrier of a t(21;21) translocation."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -2372,6 +2649,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Definition:** Glaucoma is a progressive optic neuropathy characterized by optic nerve head cupping and corresponding visual field loss.",
+        "**Key Funduscopic Signs:** Hallmarks include an increased cup-to-disc ratio (>0.5 or asymmetric), thinning of the neuroretinal rim, and retinal nerve fiber layer (RNFL) defects.",
+        "**Visual Field Correlation:** Damage to the RNFL corresponds to a specific pattern of visual field loss. An inferior RNFL defect causes a superior arcuate scotoma.",
+        "**Normal-Tension Glaucoma (NTG):** A significant subtype of open-angle glaucoma where characteristic optic nerve damage occurs despite intraocular pressure (IOP) being consistently within the normal range.",
+        "**Normal ranges / cutoffs:** Statistically normal IOP is typically defined as **≤ 21 mmHg**. However, the presence of normal IOP **does not** rule out glaucoma.",
+        "**Treatment Goal:** The primary goal of all glaucoma treatment is to lower IOP to a target level to slow or halt further optic nerve damage. The damage itself is irreversible.",
+        "**Pitfall:** Do not assume normal IOP means no glaucoma. Always evaluate the optic nerve structure (fundus exam, OCT) and function (visual fields)."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -2443,6 +2729,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Hereditary Breast Cancer:** Suspect a hereditary syndrome in patients with breast cancer diagnosed at a young age, triple-negative breast cancer, bilateral disease, male breast cancer, or a strong family history.",
+        "**Genetic Testing Criteria:** Current guidelines recommend genetic counseling and testing for germline mutations (e.g., BRCA1/BRCA2) for any patient diagnosed with breast cancer at age **≤ 45 years**.",
+        "**Most Common Genes:** **BRCA1 and BRCA2** are the most frequently mutated genes in hereditary breast and ovarian cancer syndrome.",
+        "**Histology:** Invasive ductal carcinoma (IDC), or invasive carcinoma of no special type, is the most common histologic type of breast cancer, comprising ~80% of cases.",
+        "**Molecular Subtyping:** Breast cancers are classified into subtypes based on Estrogen Receptor (ER), Progesterone Receptor (PR), and HER2 status. This is fundamental for guiding systemic therapy.",
+        "**HER2 Testing:** The standard method is immunohistochemistry (IHC). Equivocal (2+) results are reflexed to in situ hybridization (ISH) to assess for gene amplification.",
+        "**Normal ranges / cutoffs:** Age ≤ 45 at diagnosis is a key cutoff for recommending BRCA testing."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -2518,6 +2813,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Workup of Suspicious Lung Nodule:** A spiculated mass on CT with high FDG uptake on PET-CT has a very high probability of being malignant.",
+        "**Tissue is the Issue:** A definitive histopathologic diagnosis is mandatory before initiating any cancer treatment.",
+        "**Non-Diagnostic Biopsy:** A single non-diagnostic or benign result from a needle biopsy in the setting of high clinical/radiologic suspicion for malignancy should be considered a potential false negative due to sampling error.",
+        "**Next Step:** A repeat biopsy is required. Options include a repeat transthoracic needle aspiration (TTNA), possibly from a different approach, or a bronchoscopic approach like EBUS-TBNA to sample the mediastinal nodes.",
+        "**PET-CT Interpretation:** High FDG uptake (high Standardized Uptake Value, SUV) indicates increased glucose metabolism, a characteristic feature of many malignancies.",
+        "**Normal ranges / cutoffs:** While not a strict cutoff, an **SUVmax > 2.5** is often used as a threshold to suggest malignancy in a lung nodule."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -2590,6 +2893,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical Suspicion:** Asthma is suspected in patients with episodic symptoms of wheezing, shortness of breath, chest tightness, and cough.",
+        "**Initial Diagnostic Test:** Spirometry is the primary objective test for asthma.",
+        "**Obstructive Pattern:** An obstructive defect is defined by a reduced FEV1/FVC ratio.",
+        "**Confirmation of Asthma:** The hallmark of asthma is **reversible airway obstruction**.",
+        "**Bronchodilator Reversibility Test:** If baseline spirometry shows obstruction, this test is the next step. It involves repeating spirometry after administering a short-acting bronchodilator.",
+        "**Normal ranges / cutoffs:** A positive reversibility test is an increase in **FEV1 of ≥ 12% AND ≥ 200 mL** from baseline. The FEV1/FVC ratio cutoff for obstruction is typically **< 0.70** in adults.",
+        "**Alternative Test:** If baseline spirometry is normal but suspicion for asthma is high, a bronchial challenge test (e.g., with methacholine) is performed to demonstrate airway hyperresponsiveness."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -2667,6 +2979,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Diagnosis of Primary Aldosteronism (PA):** Suspect in patients with hypertension and hypokalemia. Confirmed by demonstrating high plasma aldosterone concentration (PAC) with suppressed plasma renin activity (PRA).",
+        "**Subtype Differentiation:** Once PA is confirmed, the next step is to differentiate between unilateral disease (adenoma) and bilateral adrenal hyperplasia (BAH), as treatments differ.",
+        "**Adrenal Vein Sampling (AVS):** AVS is the gold standard procedure to determine the source of aldosterone excess and is performed in patients who are surgical candidates.",
+        "**AVS Interpretation:** Lateralization is confirmed by comparing the aldosterone/cortisol ratio from each side. A lateralization ratio (dominant side / non-dominant side) > 4 indicates unilateral disease.",
+        "**Normal ranges / cutoffs:** An **Aldosterone-to-Renin Ratio (ARR) > 20-30** is a common screening cutoff. An AVS **lateralization ratio > 4** confirms a unilateral source.",
+        "**Treatment:** **Unilateral adrenalectomy** is the treatment of choice for lateralizing disease. **Mineralocorticoid receptor antagonists** (e.g., spironolactone) are the treatment for bilateral hyperplasia or non-surgical candidates."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -2741,6 +3061,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Midline vs. Lateral:** The most common congenital neck masses are thyroglossal duct cysts (typically midline) and branchial cleft cysts (typically lateral).",
+        "**Thyroglossal Duct Cyst:** A remnant of the thyroid gland's descent from the foramen cecum. It is a midline mass that moves with swallowing. Treatment is the Sistrunk procedure.",
+        "**Branchial Cleft Cysts:** Result from incomplete obliteration of the branchial apparatus.",
+        "  - **Second BCC:** Most common type (~95%). Presents as a lateral neck mass anterior to the sternocleidomastoid muscle. Its internal tract opens into the tonsillar fossa.",
+        "  - **First BCC:** Located near the ear/parotid gland; its tract is closely associated with the facial nerve, which must be preserved during surgery.",
+        "**Embryologic Pitfall:** A **second branchial cleft cyst** is embryologically related to the tonsillar fossa, NOT the **foramen cecum**. The foramen cecum is the origin of the thyroglossal duct.",
+        "**Normal ranges / cutoffs:** Not applicable. Diagnosis is based on location and embryology."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -2812,6 +3141,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical Picture:** Schizophrenia is characterized by positive symptoms (delusions, hallucinations), negative symptoms (avolition, flat affect), and cognitive deficits.",
+        "**Diagnostic Criteria:** Symptoms must be present for at least 6 months, with at least 1 month of active-phase symptoms, and cause significant social/occupational dysfunction.",
+        "**Pharmacotherapy:** The mainstay of treatment is antipsychotic medication.",
+        "**First-Line Treatment:** **Second-generation (atypical) antipsychotics** (e.g., risperidone, olanzapine, aripiprazole) are generally preferred as first-line agents due to a better side-effect profile regarding extrapyramidal symptoms.",
+        "**Mechanism of Action:** Antipsychotics primarily act as dopamine D2 receptor antagonists.",
+        "**Pitfalls:** Avoid prescribing medications that can worsen psychosis, such as stimulants (methylphenidate). Antidepressants (paroxetine) and mood stabilizers (lithium) are not first-line monotherapy for schizophrenia.",
+        "**Normal ranges / cutoffs:** Diagnosis is based on DSM-5 criteria, including a duration criterion of **6 months**."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -2884,6 +3222,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Definition:** Metastatic squamous cell carcinoma in a cervical lymph node with no identifiable primary tumor after initial workup is termed Carcinoma of Unknown Primary (CUP).",
+        "**Most Likely Primary Site:** In adults, the primary tumor is overwhelmingly located within the head and neck region, specifically the upper aerodigestive tract (e.g., oropharynx, hypopharynx, larynx).",
+        "**Mandatory Next Step:** The crucial next step is a comprehensive search for the primary tumor.",
+        "**Workup:** This includes a detailed head and neck exam, imaging (CT/MRI/PET), and **panendoscopy** (direct laryngoscopy, nasopharyngoscopy, esophagoscopy) with directed and blind biopsies of common sites (e.g., base of tongue, tonsils).",
+        "**Pitfall:** An **open excisional biopsy** of the neck mass should be avoided as the initial diagnostic procedure. It can interfere with subsequent curative surgery. Fine-needle aspiration (FNA) is the preferred method for initial tissue diagnosis.",
+        "**Treatment Rationale:** Identifying the primary site is critical for planning definitive treatment, which often involves combined modality therapy (surgery and/or radiation) targeting both the primary site and the neck nodes.",
+        "**Normal ranges / cutoffs:** Not applicable."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -2960,6 +3307,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Definition:** **Papilledema** is swelling of the optic disc specifically due to elevated intracranial pressure (ICP). Optic disc swelling from other causes is termed \"optic disc edema.\"",
+        "**Clinical Picture:** Patients may present with symptoms of increased ICP, such as headache, nausea, vomiting, and transient visual obscurations. Visual acuity is often preserved early on.",
+        "**Funduscopic Signs:** Classic findings include bilateral optic disc hyperemia and swelling, blurring of the disc margins, obscuration of retinal vessels, venous engorgement, and sometimes peripapillary hemorrhages.",
+        "**Pathophysiology:** Elevated cerebrospinal fluid (CSF) pressure in the subarachnoid space surrounding the optic nerve impedes axoplasmic flow, leading to swelling of the nerve head.",
+        "**Key Features:** It is almost always **bilateral** (though can be asymmetric), and pupillary reflexes are typically preserved in the acute phase.",
+        "**Urgency:** Papilledema is a medical emergency requiring urgent neuroimaging to identify the cause of increased ICP.",
+        "**Normal ranges / cutoffs:** Normal ICP in a supine adult is typically **< 20 cm H2O**."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -3034,6 +3390,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** Painless gross hematuria is a cardinal sign of urinary tract malignancy, most commonly urothelial carcinoma.",
+        "**Initial finding:** An intravenous urography (IVU) showing a 'filling defect' in the renal pelvis or ureter is highly suspicious for an upper tract urothelial carcinoma (UTUC).",
+        "**Definitive workup:** CT urography is the imaging modality of choice. It uses multiphase imaging (non-contrast, arterial, nephrographic, excretory) to characterize the mass, assess for local invasion, and evaluate the entire urothelium (kidneys, ureters, bladder) for synchronous tumors.",
+        "**Management logic:** After identifying a suspicious lesion, comprehensive imaging is required for staging and surgical planning.",
+        "**Normal ranges / cutoffs:** There are no specific lab cutoffs for diagnosis; the key is the anatomical finding of a filling defect on imaging.",
+        "**Pitfalls:** Renal ultrasound is less sensitive for evaluating the collecting system and ureters. Angiography and PET scans are used for vascular mapping or staging metastatic disease, not for initial diagnosis of a primary UTUC."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -3107,6 +3471,14 @@
         "note": "Both MRI and stopping the offending drug are reasonable next steps. The key prefers confirming the drug etiology first, which is a valid clinical approach if psychiatrically safe.",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** Hyperprolactinemia presents with galactorrhea, amenorrhea (in women), and decreased libido.",
+        "**Initial workup:** Measure serum prolactin, TSH (to rule out primary hypothyroidism), and hCG (to rule out pregnancy).",
+        "**Differential diagnosis:** The main differential is between a pituitary adenoma (prolactinoma) and drug-induced hyperprolactinemia.",
+        "**Management logic:** Antipsychotics, particularly D2 receptor antagonists like risperidone, are a common cause. The most definitive diagnostic step is to stop the offending medication (if psychiatrically safe) and re-measure the prolactin level. If it normalizes, a prolactinoma is ruled out.",
+        "**Normal ranges / cutoffs:** Normal prolactin is typically <25 ng/mL. While levels >100 ng/mL are highly suggestive of a prolactinoma, potent antipsychotics can also cause levels in this range.",
+        "**Pitfalls:** Do not start a dopamine agonist (e.g., cabergoline) before confirming the etiology. While a pituitary MRI is a reasonable step, confirming the drug effect first can prevent unnecessary imaging."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -3179,6 +3551,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** A 60-year-old woman with type 2 diabetes, obesity (BMI 28 kg/m²), and a family history of premature coronary artery disease (CAD).",
+        "**Risk assessment:** This patient has multiple risk factors for atherosclerotic cardiovascular disease (ASCVD), placing her in a high-risk category for primary prevention.",
+        "**Workup:** A fasting lipid panel is essential. LDL cholesterol can be calculated using the Friedewald formula: LDL = Total Cholesterol - HDL - (Triglycerides/5). Here, LDL = 210 - 50 - (120/5) = 136 mg/dL.",
+        "**Treatment guidelines:** Current guidelines recommend at least moderate-intensity statin therapy for all patients with diabetes aged 40-75 for primary prevention, regardless of baseline LDL-C.",
+        "**Normal ranges / cutoffs:** For high-risk primary prevention, the goal is often an LDL-C reduction of ≥50% with a high-intensity statin.",
+        "**Pitfalls:** Therapeutic lifestyle change is essential but insufficient alone in this high-risk patient. Fibrates are indicated for severe hypertriglyceridemia (TG > 500 mg/dL), not for LDL reduction as a primary goal."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -3253,6 +3633,14 @@
         "note": "Although morphology favors reactive follicular hyperplasia with BCL2-negative germinal centers (arguing against t(14;18)), the instructor intended '비정형 세포' to describe the abundant reactive GC elements; therefore option ③ is accepted.",
         "override_key": false
       },
+      "teaching_points": [
+        "**Diagnosis:** Reactive follicular hyperplasia of a lymph node.",
+        "**Histologic findings:** Characterized by numerous, well-defined secondary follicles with prominent, active germinal centers (GCs). GCs show a 'starry-sky' pattern due to tingible-body macrophages phagocytosing apoptotic debris, along with numerous centroblasts and mitotic figures.",
+        "**Key differentiator:** The crucial distinction is from follicular lymphoma. In reactive hyperplasia, the GCs are **BCL2-negative** on immunohistochemistry. In follicular lymphoma, the GCs are aberrantly **BCL2-positive** due to the t(14;18) translocation.",
+        "**Pathophysiology:** The term 'atypical cells' in the correct answer refers to the briskly proliferating, non-malignant cellular components of a reactive GC (centroblasts, immunoblasts, mitotic figures), not cytologic atypia of malignancy.",
+        "**Normal ranges / cutoffs:** Not applicable; diagnosis is based on morphology and immunohistochemical staining patterns.",
+        "**Pitfalls:** Do not confuse follicular (B-cell zone) hyperplasia with paracortical (T-cell zone) hyperplasia. The BCL2/IgH translocation is the mechanism of follicular lymphoma, not reactive changes."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -3327,6 +3715,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** A septic patient in the ICU with an infected burn wound.",
+        "**Hallmark sign:** Greenish purulent discharge (pyoverdin pigment) is pathognomonic for *Pseudomonas aeruginosa* infection.",
+        "**Microbiology:** Gram stain confirms Gram-negative rods, consistent with *Pseudomonas*.",
+        "**Treatment principle:** Empiric antibiotic therapy for sepsis in this context must include coverage for *Pseudomonas aeruginosa*, a common and virulent pathogen in burn wounds.",
+        "**Pharmacology:** Ceftazidime is a third-generation cephalosporin with potent anti-pseudomonal activity. Other options include cefepime, piperacillin-tazobactam, carbapenems, or aztreonam.",
+        "**Normal ranges / cutoffs:** Not applicable; treatment is guided by clinical signs and microbiology.",
+        "**Pitfalls:** Vancomycin and nafcillin cover Gram-positive organisms (like MRSA/MSSA) and have no activity against *Pseudomonas*. Cefazolin (a first-generation cephalosporin) also lacks anti-pseudomonal coverage."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -3400,6 +3797,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Diagnosis:** Hepatitis C Virus (HCV) infection.",
+        "**Natural history:** HCV is a leading cause of chronic hepatitis, which can progress over decades to cirrhosis and hepatocellular carcinoma (HCC).",
+        "**Treatment breakthrough:** The development of direct-acting antiviral (DAA) agents has revolutionized HCV management, making it a curable disease.",
+        "**Treatment regimen:** Modern therapy consists of a short course (typically 8-12 weeks) of all-oral DAA medications.",
+        "**Normal ranges / cutoffs:** The goal of therapy is a Sustained Virologic Response (SVR), defined as undetectable HCV RNA in the blood 12 weeks after completing treatment. An SVR is considered a cure and is achieved in >95% of patients.",
+        "**Pitfalls:** Hepatitis B (HBV) treatment is typically lifelong viral suppression, not a cure. Hepatitis A (HAV) and E (HEV) do not cause chronic infection in immunocompetent individuals."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -3473,6 +3878,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Primary indication:** Buspirone is an anxiolytic agent primarily used for the treatment of Generalized Anxiety Disorder (GAD).",
+        "**Mechanism of action:** It acts as a partial agonist at the serotonin 5-HT1A receptor. It is not a 5-HT2A agent or a 5-HT1A antagonist.",
+        "**Pharmacokinetics:** It has a delayed onset of therapeutic effect, typically taking 2-4 weeks, similar to antidepressants.",
+        "**Key advantages:** Unlike benzodiazepines, buspirone lacks sedative, hypnotic, muscle relaxant, and anticonvulsant properties.",
+        "**Safety profile:** It has a very low potential for abuse, dependence, or withdrawal symptoms, making it a safer choice for long-term management of GAD.",
+        "**Normal ranges / cutoffs:** Not applicable for this pharmacology question.",
+        "**Pitfalls:** Do not confuse its mechanism with benzodiazepines (GABA-A modulation) or SSRIs (serotonin reuptake inhibition). It does not cause a dopamine surge in the nucleus accumbens or lead to psychic dependence."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -3549,6 +3963,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Diagnosis:** Sustained ventricular tachycardia (VT) in a patient with dilated cardiomyopathy and severely reduced ejection fraction.",
+        "**ECG findings:** A regular, wide-complex tachycardia (QRS > 120 ms) in a patient with known structural heart disease should be considered VT until proven otherwise.",
+        "**Primary goal:** The most important long-term goal is the prevention of Sudden Cardiac Death (SCD).",
+        "**Management:** For secondary prevention of SCD in a patient who has survived a life-threatening ventricular arrhythmia, an Implantable Cardioverter-Defibrillator (ICD) is the standard of care and provides a significant mortality benefit.",
+        "**Normal ranges / cutoffs:** A left ventricular ejection fraction (LVEF) of ≤35% is a key indication for an ICD for *primary* prevention. For *secondary* prevention (after VT/VF), an ICD is indicated regardless of the exact LVEF.",
+        "**Pitfalls:** While guideline-directed medical therapy (beta-blockers, ACEi, etc.) is crucial for managing heart failure, it is not a substitute for an ICD in preventing SCD. Amiodarone can suppress arrhythmias but is less effective than an ICD for preventing death. Catheter ablation reduces VT burden but does not eliminate the need for an ICD."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -3621,6 +4043,14 @@
         "note": "Option ③ is logistically correct, but option ⑤ addresses a more significant clinical risk. Despite lower reactivation rates from the graft, delayed immune reconstitution makes CMV a major threat post-CBT. The question asks for a correct statement, and ⑤ is a clinically important truth.",
         "override_key": false
       },
+      "teaching_points": [
+        "**Key features of Cord Blood Transplant (CBT):** CBT uses stem cells from umbilical cord blood. It is an option when a matched adult donor is unavailable.",
+        "**Engraftment:** Compared to bone marrow or peripheral blood stem cell transplant, CBT is associated with a lower stem cell dose, leading to **slower** neutrophil and platelet engraftment.",
+        "**Graft-versus-Host Disease (GVHD):** The T-cells in cord blood are immunologically naive, resulting in a **lower** incidence and severity of chronic GVHD.",
+        "**Infection risk:** A major disadvantage of CBT is the significantly **delayed immune reconstitution**, particularly of T-cells. This prolonged immunodeficiency makes patients highly vulnerable to opportunistic infections, with Cytomegalovirus (CMV) being a major cause of morbidity and mortality.",
+        "**Normal ranges / cutoffs:** Not applicable; this is a conceptual question.",
+        "**Pitfalls:** Do not assume that the lower GVHD risk translates to a lower overall infection risk. The slow immune recovery is the dominant factor for opportunistic infections like CMV."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -3695,6 +4125,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Diagnosis:** Scrub typhus (Tsutsugamushi disease), caused by the bacterium *Orientia tsutsugamushi*.",
+        "**Epidemiology:** Transmitted by the bite of chiggers (larval mites). A history of hiking, farming, or visiting grassy/wooded areas (like an ancestral grave, '성묘') is a key clue.",
+        "**Clinical triad:** The classic presentation is fever, rash, and an eschar.",
+        "**Hallmark finding:** A painless, black, necrotic crust (eschar) at the site of the chigger bite is pathognomonic for the diagnosis.",
+        "**Treatment:** The drug of choice for all rickettsial diseases, including scrub typhus, is **Doxycycline**.",
+        "**Normal ranges / cutoffs:** Not applicable; diagnosis is clinical and confirmed with serology.",
+        "**Pitfalls:** This is a bacterial infection; antiviral (acyclovir), antifungal (ketoconazole), or antiprotozoal (metronidazole) agents are ineffective. Delaying doxycycline can lead to severe complications like pneumonitis, meningitis, or myocarditis."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -3769,6 +4208,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** Abnormal Uterine Bleeding (AUB) in a woman over 40 with risk factors for endometrial cancer.",
+        "**Risk factors:** Key risk factors for endometrial hyperplasia/carcinoma include obesity, nulliparity, diabetes, and chronic anovulation (leading to unopposed estrogen exposure).",
+        "**Initial workup:** Transvaginal ultrasound is the first-line imaging modality to assess the endometrial thickness and morphology.",
+        "**Management rule:** In any woman aged >40 with AUB, or a younger woman with significant risk factors (like obesity), an **endometrial biopsy** is mandatory to rule out malignancy.",
+        "**Normal ranges / cutoffs:** In a premenopausal woman, endometrial thickness varies with the cycle. However, a thickened (e.g., 7.1 mm post-menses) or heterogeneous endometrium in the setting of AUB warrants sampling.",
+        "**Pitfalls:** It is a critical error to initiate hormonal therapy (e.g., progestins, OCPs, levonorgestrel IUD) for AUB in a high-risk patient before obtaining a tissue diagnosis to exclude cancer."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -3843,6 +4290,14 @@
         "note": "Both options ① and ④ appear incorrect from the image. The TM is pale (no redness/hemorrhage) and dry (no otorrhea). The key selects ①. The rationale is that the statement 'otorrhea is observed' is definitively false, as the perforation is dry.",
         "override_key": false
       },
+      "teaching_points": [
+        "**Image interpretation:** The otoscopic image shows a large, subtotal perforation of the tympanic membrane (eardrum).",
+        "**Key negative findings:** The middle ear space and the edges of the perforation appear dry, with no evidence of fluid, pus, or discharge (otorrhea). There are also no signs of acute inflammation, such as significant redness (hyperemia) or swelling.",
+        "**Etiology:** The clean, non-inflamed appearance of the perforation is highly suggestive of a traumatic origin (e.g., barotrauma from a slap to the ear, direct injury) rather than an infectious one (e.g., chronic suppurative otitis media).",
+        "**Analysis of statement:** The statement \"There is a perforation in the tympanic membrane and otorrhea is observed\" is incorrect because while a perforation is present, otorrhea is absent.",
+        "**Normal ranges / cutoffs:** Not applicable.",
+        "**Pitfalls:** Carefully evaluate all parts of a statement. A statement can be partially true (perforation exists) but false overall (otorrhea is absent)."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -3914,6 +4369,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Biomarker physiology:** B-type natriuretic peptide (BNP) and its N-terminal pro-hormone (NT-proBNP) are released from the ventricles in response to myocardial wall stress and are key biomarkers for diagnosing and prognosticating heart failure (HF).",
+        "**Key confounder:** NT-proBNP is primarily cleared by the kidneys. In patients with chronic kidney disease (CKD), reduced clearance leads to physiologically elevated baseline levels, even without HF.",
+        "**Clinical application:** To maintain diagnostic specificity for acute HF in patients with CKD, a **higher NT-proBNP cutoff value** must be used compared to patients with normal renal function.",
+        "**Other confounders:** NP levels also increase with age, requiring age-stratified cutoffs. Conversely, obesity is associated with paradoxically lower NP levels (the 'natriuretic peptide paradox').",
+        "**Normal ranges / cutoffs:** Cutoffs are adjusted for age and renal function. For example, a common rule-out value in the ED is <300 pg/mL, but this is not applicable in severe CKD.",
+        "**Prognosis:** NP levels strongly correlate with both the severity (NYHA class) and prognosis of heart failure."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -3985,6 +4448,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Concept:** The hierarchy of evidence in medicine ranks study types based on their methodological rigor and ability to minimize bias.",
+        "**The evidence pyramid (highest to lowest):** 1. Systematic Reviews & Meta-Analyses of RCTs; 2. Randomized Controlled Trials (RCTs); 3. Non-randomized controlled studies; 4. Observational studies (cohort, case-control); 5. Case series/reports; 6. Expert opinion.",
+        "**Meta-analysis:** A meta-analysis is a statistical method that combines the results of multiple independent studies to produce a single, more precise estimate of an effect. It sits at the top of the evidence pyramid.",
+        "**Rationale:** By pooling data, a meta-analysis increases statistical power and can provide a more robust conclusion than any single study.",
+        "**Normal ranges / cutoffs:** Not applicable.",
+        "**Pitfalls:** Expert opinion is considered the lowest level of evidence. An individual RCT is a very high level of evidence but is considered less robust than a meta-analysis of multiple high-quality RCTs."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -4060,6 +4531,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Diagnosis:** Hilar cholangiocarcinoma, also known as a Klatskin tumor.",
+        "**Clinical picture:** Presents with signs of biliary obstruction, such as painless jaundice, pruritus, dark urine, and pale stools.",
+        "**Lab findings:** A cholestatic pattern with markedly elevated alkaline phosphatase (ALP) and gamma-glutamyl transferase (GGT), along with hyperbilirubinemia.",
+        "**Hallmark imaging (MRCP):** The key finding is dilation of the intrahepatic bile ducts with an abrupt stricture or cutoff at the confluence of the right and left hepatic ducts (the hepatic hilum). The common bile duct distal to the obstruction is typically non-dilated.",
+        "**Normal ranges / cutoffs:** Not applicable; diagnosis is based on imaging.",
+        "**Pitfalls:** Differentiate from distal obstructions. Pancreatic head cancer or ampullary cancer would cause dilation of the entire biliary tree, including the common bile duct, often with pancreatic duct dilation as well (the 'double duct sign')."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -4132,6 +4611,14 @@
         "note": "The description of 'whole body' skin hardening points to diffuse SSc (anti-Scl70), but the clinical finding of severe isolated PAH with normal PFTs is the classic presentation for anti-centromere positive limited SSc. The organ involvement pattern is a stronger clue than the potentially imprecise description of skin distribution.",
         "override_key": false
       },
+      "teaching_points": [
+        "**Diagnosis:** Systemic Sclerosis (Scleroderma) with severe pulmonary arterial hypertension (PAH).",
+        "**Key clinical phenotype:** The patient has severe PAH (systolic pulmonary artery pressure of 60 mmHg) but **normal pulmonary function tests (PFTs)**. This combination points to isolated PAH without significant interstitial lung disease (ILD).",
+        "**Antibody association:** This specific pattern of organ involvement—isolated PAH without major ILD—is the classic pulmonary complication of **limited cutaneous systemic sclerosis (lcSSc)**.",
+        "**Serology:** The hallmark autoantibody for lcSSc is the **anti-centromere antibody**.",
+        "**Normal ranges / cutoffs:** Normal systolic pulmonary artery pressure is <25 mmHg. A value of 60 mmHg indicates severe PAH.",
+        "**Pitfalls:** Anti-Scl-70 (anti-topoisomerase I) antibody is associated with **diffuse cutaneous systemic sclerosis (dcSSc)**, which has a very high risk of severe, progressive **interstitial lung disease (ILD)**. The normal PFTs in this patient make an anti-Scl-70 profile highly unlikely."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -4203,6 +4690,13 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Key concept:** Comparing the sensitivity of different imaging modalities for detecting focal liver lesions.",
+        "**Gold standard:** Contrast-enhanced **Magnetic Resonance Imaging (MRI)** is the most sensitive non-invasive imaging test for the detection and characterization of liver metastases.",
+        "**Rationale for MRI superiority:** MRI provides superior soft-tissue contrast compared to CT. The use of hepatobiliary-specific contrast agents (e.g., gadoxetate) further enhances sensitivity by creating a greater contrast between normal liver tissue (which takes up the agent) and metastatic lesions (which do not).",
+        "**Normal ranges / cutoffs:** Not applicable.",
+        "**Pitfalls:** Abdominal ultrasound is the best test for gallstones, not liver metastases. Contrast-enhanced CT is the primary modality for diagnosing and staging pancreatic cancer. Angiography is invasive and rarely used for diagnosing biliary tumors. Ultrasound is notoriously poor for visualizing the pancreatic tail due to overlying bowel gas."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -4275,6 +4769,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Diagnosis:** Workup of an infant with ambiguous genitalia, a Disorder of Sex Development (DSD).",
+        "**Essential initial workup:** A multidisciplinary approach is required. Key initial steps include: 1) Physical exam to palpate for gonads; 2) Karyotype and SRY gene analysis to determine genetic sex; 3) Pelvic ultrasound or MRI to identify internal structures (uterus, gonads); 4) Hormonal assays, especially serum 17-hydroxyprogesterone to rule out Congenital Adrenal Hyperplasia (CAH).",
+        "**Imaging modalities:** Pelvic ultrasound and MRI are the modern, non-invasive standards for visualizing internal reproductive anatomy.",
+        "**Outdated procedure:** **Genitography** is an older, invasive procedure that uses contrast and ionizing radiation to outline the urogenital sinus. It has been largely replaced by superior, non-invasive imaging.",
+        "**Conclusion:** Genitography is **not** considered an essential or first-line investigation in the modern workup of DSD.",
+        "**Normal ranges / cutoffs:** Elevated 17-OH progesterone is diagnostic for the most common form of CAH."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -4349,6 +4851,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Diagnosis:** Epidemic Keratoconjunctivitis (EKC), a severe form of adenoviral conjunctivitis.",
+        "**Epidemiology:** Adenovirus is extremely contagious. A history of recent exposure at a swimming pool, daycare, or to an individual with a red eye is common.",
+        "**Clinical picture:** Acute onset of red eye, watery discharge, foreign body sensation, and photophobia. It often starts unilaterally but spreads to the other eye.",
+        "**Hallmark finding:** Slit-lamp examination reveals conjunctival hyperemia and characteristic **subepithelial corneal infiltrates**, which are collections of inflammatory cells that can cause blurred vision.",
+        "**Management:** The most critical intervention is public health education to prevent transmission. This includes meticulous **hand hygiene**, avoiding eye rubbing, and not sharing towels or pillows.",
+        "**Normal ranges / cutoffs:** Not applicable.",
+        "**Pitfalls:** This is a viral infection; antibiotics are ineffective. Treatment is supportive. The corneal infiltrates can persist for months but typically resolve over time."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -4420,6 +4931,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** Acute kidney injury with life-threatening complications, including uremic encephalopathy (altered mental status with BUN 103 mg/dL) and severe hypercalcemia (15.8 mg/dL).",
+        "**Indications for urgent dialysis (AEIOU):** **A**cidosis (refractory), **E**lectrolytes (refractory hyperkalemia, severe hypercalcemia), **I**ngestions, **O**verload (refractory), **U**remia (encephalopathy, pericarditis).",
+        "**Patient's indications:** This patient meets the criteria for urgent dialysis due to **U**remic encephalopathy and a severe **E**lectrolyte abnormality.",
+        "**Choice of modality:** **Intermittent hemodialysis (HD)** is the most appropriate and effective modality for the rapid correction of severe uremia and life-threatening electrolyte disturbances.",
+        "**Mechanism:** HD can rapidly lower calcium levels by using a low-calcium or zero-calcium dialysate bath.",
+        "**Normal ranges / cutoffs:** Corrected calcium >14 mg/dL is considered a hypercalcemic crisis. BUN >100 mg/dL is often associated with uremic symptoms.",
+        "**Pitfalls:** Peritoneal dialysis is too slow for acute, life-threatening emergencies. Kidney transplantation is a long-term treatment for ESRD, not an acute intervention."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -4493,6 +5013,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical Picture:** Rheumatoid Arthritis (RA) classically presents with symmetric, inflammatory polyarthritis affecting small joints (MCP, PIP, wrists), associated with prolonged morning stiffness.",
+        "**Pathophysiology:** RA is an autoimmune disorder where inflammation of the synovial membrane leads to joint destruction.",
+        "**Key Cytokine:** **Tumor Necrosis Factor-alpha (TNF-α)** is a master pro-inflammatory cytokine in the RA synovium, produced by macrophages and lymphocytes.",
+        "**TNF-α Actions:** It drives inflammation by stimulating other cytokines (IL-1, IL-6), promoting angiogenesis, and inducing synovial cells to produce matrix metalloproteinases (MMPs) that degrade cartilage and bone.",
+        "**Therapeutic Target:** The central role of TNF-α is confirmed by the high efficacy of anti-TNF biologic agents (e.g., infliximab, adalimumab, etanercept) in treating RA.",
+        "**Normal ranges / cutoffs:** Not applicable for this pathophysiology question.",
+        "**Pitfalls:** Do not confuse with other cytokines. IL-4/IL-5 are associated with allergic/eosinophilic diseases, IL-10 is anti-inflammatory, and while IFN-γ is involved, TNF-α is the more dominant therapeutic target."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -4567,6 +5096,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Diagnosis:** Central venous catheter-related thrombosis is a form of deep vein thrombosis (DVT) requiring immediate and long-term anticoagulation.",
+        "**Treatment Principle:** Acute DVT treatment requires 'bridging therapy'—simultaneously starting a rapid-acting parenteral anticoagulant (e.g., heparin) and a slow-acting oral anticoagulant (e.g., warfarin).",
+        "**Warfarin Mechanism:** Warfarin inhibits vitamin K-dependent clotting factors (II, VII, IX, X) but takes 3-5 days for full effect. It initially depletes anticoagulant proteins C and S, creating a transient prothrombotic state.",
+        "**Heparin's Role:** Heparin provides immediate anticoagulation, preventing clot extension while waiting for warfarin to become therapeutic.",
+        "**Normal ranges / cutoffs:** Bridging with heparin must continue for a minimum of 5 days AND until the International Normalized Ratio (INR) is within the therapeutic range of **2.0-3.0** for at least 24 hours.",
+        "**Pitfalls:** Starting warfarin alone is contraindicated due to the risk of paradoxical thrombosis and warfarin-induced skin necrosis.",
+        "**Modern Alternatives:** Direct oral anticoagulants (DOACs) are now common. Some (rivaroxaban, apixaban) can be used as monotherapy, while others (dabigatran, edoxaban) still require an initial course of parenteral anticoagulation."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -4641,6 +5179,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical Context:** Detailed knowledge of hepatic arterial variations is critical to prevent iatrogenic injury during hepatobiliary surgery, especially cholecystectomy.",
+        "**Most Dangerous Variation:** A **replaced right hepatic artery (rRHA)** originating from the superior mesenteric artery (SMA) is the most surgically important anomaly.",
+        "**Anatomical Course:** The rRHA courses posterior to the portal vein and ascends within the hepatoduodenal ligament, often in close proximity to the common bile duct, making it vulnerable.",
+        "**Surgical Risk:** It can be easily mistaken for the cystic artery and inadvertently ligated during dissection of the triangle of Calot.",
+        "**Consequence of Injury:** Because the rRHA is the sole arterial supply to the right hepatic lobe in this variation, its ligation can cause catastrophic right lobe ischemia and necrosis.",
+        "**Normal ranges / cutoffs:** This variation (Michels type III) occurs in approximately 10-15% of the population. Standard anatomy (Michels type I) involves the common hepatic artery arising from the celiac trunk."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -4713,6 +5259,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical Picture:** Allergic rhinitis is characterized by a classic tetrad of symptoms: paroxysmal sneezing, clear rhinorrhea, nasal congestion, and nasal pruritus (itching).",
+        "**Pathophysiology:** It is an IgE-mediated (Type I hypersensitivity) inflammatory response of the nasal mucosa to inhaled allergens.",
+        "**Key Differentiator:** The presence of **nasal itching** is a hallmark symptom that strongly points towards an allergic etiology over other forms of rhinitis (e.g., vasomotor or infectious).",
+        "**Phases:** An early phase reaction (histamine release from mast cells) causes sneezing and rhinorrhea. A late phase reaction (cellular infiltration) causes sustained nasal congestion.",
+        "**Differential Diagnosis:** Differentiate from sinusitis (purulent discharge, facial pain), a common cold (usually self-limited, less itching), and non-allergic rhinitis (no clear allergic trigger).",
+        "**Normal ranges / cutoffs:** Diagnosis is primarily clinical. Allergen-specific IgE levels in serum or skin prick testing can confirm sensitization to specific triggers."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -4786,6 +5340,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical Picture:** Suspect rhabdomyolysis in patients with acute kidney injury (AKI), muscle pain, and dark urine, especially after starting a statin.",
+        "**Key Lab Finding:** The diagnostic hallmark is a urinalysis dipstick positive for 'blood' but with few or no red blood cells on microscopy. This discrepancy is caused by myoglobin.",
+        "**Pathophysiology:** Myoglobin released from damaged muscle is nephrotoxic, causing acute tubular necrosis (ATN).",
+        "**Initial Management:** The most critical first step is **aggressive intravenous fluid resuscitation** with isotonic crystalloids (e.g., 0.9% normal saline) to flush the myoglobin from the renal tubules.",
+        "**Treatment Goal:** Maintain a high urine output (e.g., >100-200 mL/hr) to prevent myoglobin precipitation and further kidney damage.",
+        "**Normal ranges / cutoffs:** A markedly elevated creatine kinase (CK) level, typically **>5 times the upper limit of normal** and often >5,000 U/L, confirms the diagnosis.",
+        "**Pitfalls:** Hemodialysis is reserved for severe complications of AKI (e.g., life-threatening hyperkalemia, severe acidosis, fluid overload), not as the initial treatment for rhabdomyolysis itself."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -4861,6 +5424,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical Picture:** Lumbar radiculopathy (sciatica) presents with pain, numbness, or weakness radiating from the back/buttock down the leg in a specific nerve root (dermatomal) distribution.",
+        "**Initial Workup:** Plain X-rays can evaluate for bony abnormalities (fractures, spondylolisthesis) but cannot visualize soft tissues like discs or nerves.",
+        "**Definitive Imaging:** **Magnetic Resonance Imaging (MRI)** is the gold standard for evaluating suspected nerve root compression.",
+        "**MRI Advantages:** MRI provides superior soft tissue contrast, allowing direct visualization of the cause of compression, such as a herniated intervertebral disc, spinal stenosis, or tumor.",
+        "**Normal ranges / cutoffs:** Urgent MRI is indicated for 'red flag' symptoms: progressive motor weakness, cauda equina syndrome (saddle anesthesia, bowel/bladder incontinence), or suspected malignancy/infection.",
+        "**Pitfalls:** A standard CT scan without contrast is much less sensitive than MRI for identifying soft tissue causes of radiculopathy. CT myelography is an invasive alternative if MRI is contraindicated."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -4935,6 +5506,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Growth Assessment:** Always plot a child's height, weight, and head circumference on age- and sex-specific growth charts to assess their percentile.",
+        "**Patient's Data:** For a 52-month-old girl, height at 50th percentile is normal, weight <3rd percentile is significantly underweight, and head circumference at 50th percentile is normal.",
+        "**Acute vs. Chronic Malnutrition:** Wasting (low weight-for-height) indicates acute malnutrition, where weight is affected first. Stunting (low height-for-age) indicates chronic malnutrition that has impacted linear growth.",
+        "**Diagnosis:** The pattern of normal stature with low body weight is characteristic of **wasting** due to an acute nutritional deficiency or recent illness.",
+        "**Head Sparing:** In malnutrition, weight is lost first, followed by height. Head circumference is typically spared until malnutrition is very severe and prolonged.",
+        "**Normal ranges / cutoffs:** Growth parameters between the **3rd and 97th percentiles** are generally considered within the normal range. A drop crossing two major percentile lines is a red flag."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -5012,6 +5591,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical Context:** Immune checkpoint inhibitors (ICIs) are a form of immunotherapy that has revolutionized the treatment of metastatic melanoma.",
+        "**Mechanism of Immune Evasion:** Cancer cells can express Programmed Death-Ligand 1 (PD-L1), which binds to the PD-1 receptor on T-cells, acting as a 'brake' to inhibit the anti-tumor immune response.",
+        "**Mechanism of Action:** ICIs are monoclonal antibodies that block the interaction between PD-1 and PD-L1, thereby 'releasing the brakes' on T-cells and restoring their ability to kill cancer cells.",
+        "**Key Pathway:** The **PD-1/PD-L1 axis** is the primary target for widely used ICIs in melanoma, such as pembrolizumab and nivolumab.",
+        "**Other Targets:** The CTLA-4 pathway is another important immune checkpoint that can be targeted (e.g., by ipilimumab), sometimes in combination with PD-1 inhibitors.",
+        "**Normal ranges / cutoffs:** Not applicable. Tumor PD-L1 expression can be a predictive biomarker for response, but treatment is often effective even in PD-L1 negative tumors."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -5088,6 +5675,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Diagnosis:** Multiple Myeloma is a plasma cell malignancy characterized by the CRAB criteria: hyper**C**alcemia, **R**enal insufficiency, **A**nemia, and **B**one lesions (lytic).",
+        "**Medical Emergency:** Severe hypercalcemia is a life-threatening complication causing neurologic symptoms (confusion, lethargy), dehydration, and cardiac arrhythmias.",
+        "**Initial Management:** The first and most critical intervention for severe hypercalcemia is **aggressive intravenous hydration with 0.9% normal saline**.",
+        "**Mechanism of Saline:** IV fluids restore intravascular volume (correcting dehydration from polyuria) and promote renal calcium excretion (calciuresis).",
+        "**Normal ranges / cutoffs:** Normal total calcium is ~8.5-10.5 mg/dL. Severe hypercalcemia is defined as a total calcium **>14 mg/dL** or any level with significant symptoms.",
+        "**Adjunctive Therapies:** After starting fluids, treatment includes calcitonin for rapid effect and bisphosphonates (e.g., zoledronic acid) for a more potent and sustained effect.",
+        "**Pitfalls:** While anemia and bone pain require management, correcting the life-threatening hypercalcemia is the immediate priority."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -5164,6 +5760,14 @@
         "note": "While KOH prep is the standard initial test for suspected onychomycosis, a biopsy is the most definitive test to rule out other serious conditions like malignancy. The question asks for the 'most important' test, which can be interpreted as the most definitive one. Therefore, agreeing with the key is reasonable.",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical Picture:** Onychodystrophy (a thickened, discolored nail) in an elderly patient has a broad differential.",
+        "**Differential Diagnosis:** The most common cause is onychomycosis (fungal infection), but inflammatory conditions (psoriasis) and, crucially, subungual malignancies (squamous cell carcinoma, amelanotic melanoma) must be considered.",
+        "**Initial vs. Definitive Tests:** A KOH preparation is a simple initial test for fungus but can have false negatives and does not evaluate for other pathologies.",
+        "**Gold Standard:** A **nail unit biopsy** for histopathology is the most definitive investigation. It can confirm or exclude malignancy and differentiate between fungal and inflammatory causes.",
+        "**Indications for Biopsy:** A biopsy is particularly important for a single affected nail, a history of treatment failure, or any atypical features to definitively rule out cancer.",
+        "**Normal ranges / cutoffs:** Not applicable. Diagnosis is based on microscopic findings from the biopsy."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -5236,6 +5840,15 @@
         "note": "The provided key is 2, which matches my first guess. However, the OCR for the answer key table shows 71 maps to 2, but the table itself has a typo and says 72 maps to 3. I will trust the row/column alignment for Q71 which points to 2. Let me recheck the image of the key. Ah, the key for 71 is 2, for 72 is 3. My initial reading was correct. So my guess for 71 is 2, key is 2. Match.",
         "override_key": false
       },
+      "teaching_points": [
+        "**Orbitofrontal Cortex (OFC):** Lesions classically cause **disinhibition**, impulsivity, emotional lability, and personality changes (e.g., Phineas Gage).",
+        "**Medial Frontal Cortex:** Lesions are associated with disorders of diminished motivation, such as **abulia** or akinetic mutism.",
+        "**Posterior Parietal Cortex:** Lesions typically cause deficits in spatial awareness (e.g., contralateral neglect) or motor planning (apraxia).",
+        "**Occipitotemporal Cortex:** Lesions in this ventral visual stream ('what' pathway) can lead to **visual agnosia** (inability to recognize objects).",
+        "**Arcuate Fasciculus:** A lesion in this white matter tract connecting Wernicke's and Broca's areas causes **conduction aphasia**, characterized by impaired repetition.",
+        "**Superior Temporal Gyrus (Posterior):** A lesion here (Wernicke's area) causes receptive aphasia (impaired comprehension).",
+        "**Normal ranges / cutoffs:** Not applicable for this neuroanatomy question."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -5313,6 +5926,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical Picture:** Suspect an infected pancreatic fluid collection in a patient with a history of pancreatitis who presents with fever, abdominal pain, and signs of sepsis (leukocytosis, high CRP).",
+        "**Imaging:** A contrast-enhanced abdominal CT is the key diagnostic test. A well-circumscribed, rim-enhancing peripancreatic fluid collection is characteristic of a pseudocyst or walled-off necrosis (WON).",
+        "**Diagnosis:** An infected collection is a life-threatening condition requiring urgent intervention.",
+        "**Management Principle:** Treatment requires source control (drainage) in addition to broad-spectrum antibiotics and supportive care.",
+        "**First-Line Intervention:** **Endoscopic ultrasound (EUS)-guided drainage** (e.g., cystogastrostomy) is the preferred, minimally invasive first-line approach for collections accessible from the stomach or duodenum.",
+        "**Normal ranges / cutoffs:** Per the revised Atlanta classification, collections developing >4 weeks after pancreatitis are termed pseudocysts (no solid debris) or WON (solid debris). Drainage is indicated for infection, persistent symptoms, or obstruction.",
+        "**Pitfalls:** Mere observation is inappropriate for a septic patient. Major surgery (e.g., Whipple) is incorrect. ERCP is for biliary drainage, not for draining a peripancreatic collection."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -5389,6 +6011,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Diagnosis:** A post-bronchodilator FEV1/FVC ratio < 0.70 confirms airflow obstruction. In a long-term smoker, this is diagnostic of COPD.",
+        "**Pathophysiology:** In emphysema-predominant COPD, destruction of alveolar elastic tissue leads to premature airway collapse during expiration, causing chronic air trapping.",
+        "**Hallmark Radiographic Finding:** The primary finding on a chest X-ray in advanced COPD is **pulmonary hyperinflation**.",
+        "**Signs of Hyperinflation:** Key signs include **flattened diaphragms**, an increased anteroposterior diameter ('barrel chest'), increased retrosternal clear space, and hyperlucent (dark) lung fields.",
+        "**Physiologic Consequence:** The flattened diaphragm is mechanically disadvantaged, increasing the work of breathing and contributing to dyspnea.",
+        "**Normal ranges / cutoffs:** A post-bronchodilator **FEV1/FVC < 0.70** is the diagnostic threshold for COPD.",
+        "**Pitfalls:** Lung compliance in emphysema is *increased* (lungs are floppy), not decreased as in restrictive diseases like fibrosis."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -5460,6 +6091,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Primary Purpose:** Pediatric growth charts are a fundamental public health and clinical tool for **screening** for potential health and nutritional problems.",
+        "**Methodology:** They allow for the comparison of an individual child's growth parameters (height, weight, head circumference) against a standardized reference population, displayed as percentiles.",
+        "**Identifying Risk:** Significant deviations from a previously established growth curve (e.g., crossing two major percentile lines) or measurements outside the normal range are red flags that warrant further investigation.",
+        "**Conditions Detected:** Growth chart screening can help in the early identification of failure to thrive, malnutrition, obesity, endocrine disorders (e.g., growth hormone deficiency), and genetic syndromes.",
+        "**Normal ranges / cutoffs:** Growth between the **3rd and 97th percentiles** is generally considered within the normal range. The trajectory of growth is often more important than a single point.",
+        "**Pitfalls:** Specialized charts exist for premature infants. Growth charts are always interpreted in the full clinical context, including developmental milestones and parental stature."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -5532,6 +6171,14 @@
         "note": "Both options 4 and 5 are factually correct statements. However, option 5 describes a major, defining difference between two entire classes of drugs (typical vs. atypical antipsychotics), which is a common topic for examination. Option 4 describes a valid clinical indication for a specific treatment (ECT). In this context, the broader pharmacological principle in option 5 is likely the intended correct answer.",
         "override_key": false
       },
+      "teaching_points": [
+        "**Key Class Distinction:** Atypical (second-generation) antipsychotics are associated with a significantly higher risk of **metabolic side effects** compared to typical (first-generation) agents.",
+        "**Metabolic Syndrome:** These side effects include significant weight gain, dyslipidemia (high triglycerides, low HDL), and insulin resistance leading to hyperglycemia and type 2 diabetes.",
+        "**Risk Spectrum:** Within the atypical class, risk is highest with clozapine and olanzapine, moderate with risperidone and quetiapine, and lower with aripiprazole and ziprasidone.",
+        "**Typical Antipsychotics:** In contrast, typical agents (e.g., haloperidol) have a much higher risk of **extrapyramidal symptoms (EPS)** and hyperprolactinemia due to potent D2 blockade in the nigrostriatal and tuberoinfundibular pathways.",
+        "**Normal ranges / cutoffs:** Patients on atypical antipsychotics require baseline and regular monitoring of weight, BMI, waist circumference, fasting glucose, and a lipid panel.",
+        "**Pitfalls:** Bupropion is a norepinephrine-dopamine reuptake inhibitor (NDRI), not an SSRI. Antidepressant monotherapy is contraindicated in bipolar depression due to the risk of inducing mania."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -5604,6 +6251,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Thalidomide Teratogenicity:** Thalidomide is a potent teratogen that classically causes **phocomelia** (severe limb reduction defects).",
+        "**Molecular Mechanism:** Thalidomide binds to the protein cereblon (CRBN), which leads to the degradation of key transcription factors essential for limb development, such as SALL4.",
+        "**Signaling Pathways:** The degradation of these factors disrupts crucial downstream signaling pathways, including the **Wnt and FGF pathways**, which are required for proper limb bud outgrowth and patterning.",
+        "**Fetal Alcohol Syndrome (FAS):** This is a distinct syndrome characterized by facial dysmorphism (smooth philtrum, thin upper lip), growth restriction, and significant CNS deficits, including cognitive and behavioral problems.",
+        "**Congenital CMV Infection:** The classic features are sensorineural hearing loss, microcephaly, chorioretinitis, and periventricular intracranial calcifications, not major facial or limb anomalies.",
+        "**Normal ranges / cutoffs:** The critical period of exposure for thalidomide-induced limb defects is very early in gestation, approximately **days 20-36** post-fertilization."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -5681,6 +6336,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical Context:** Acute compartment syndrome is a limb-threatening surgical emergency that is a classic complication of **reperfusion injury** after treatment for acute limb ischemia (ALI).",
+        "**Pathophysiology:** Ischemia increases capillary permeability. Upon revascularization, fluid leaks into the fixed fascial compartments, causing intracompartmental pressure to rise dramatically.",
+        "**Clinical Presentation:** The hallmark symptom is **pain out of proportion** to the physical exam. The compartment becomes tense, swollen, and painful with passive stretching of the muscles within it.",
+        "**Key Sign:** Paresthesias are an early sign of nerve ischemia. **Pulses may remain palpable** until late in the course, so their presence does not rule out the diagnosis.",
+        "**Diagnosis and Treatment:** Diagnosis is primarily clinical. The definitive treatment is emergent **fasciotomy** to decompress all involved compartments and restore microvascular perfusion.",
+        "**Normal ranges / cutoffs:** Normal compartment pressure is <10 mmHg. Pressures **>30 mmHg** or a delta pressure (Diastolic BP - Compartment Pressure) of **<20-30 mmHg** are strong indications for fasciotomy."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -5757,6 +6420,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical Picture:** Otosclerosis typically presents as progressive, bilateral conductive hearing loss in a young adult with a normal-appearing tympanic membrane.",
+        "**Pathophysiology:** It is a primary bone disease of the otic capsule that causes abnormal bone remodeling, leading to the **fixation of the stapes footplate** to the oval window.",
+        "**Mechanism of Hearing Loss:** The stapes fixation impedes the transmission of sound vibrations from the middle ear to the inner ear fluid, resulting in a conductive hearing loss.",
+        "**Audiogram Findings:** The hallmark is an **air-bone gap**, where air conduction thresholds are significantly worse than bone conduction thresholds.",
+        "**Carhart's Notch:** A characteristic audiometric finding is a dip in the bone conduction threshold at **2000 Hz**, which is an artifact of the ossicular chain fixation.",
+        "**Normal ranges / cutoffs:** Normal hearing thresholds are ≤25 dB. An air-bone gap >15 dB is considered significant. Sensorineural hearing loss would show depressed thresholds for both air and bone conduction without a gap."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -5831,6 +6502,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical Picture:** Primary herpetic gingivostomatitis is the classic initial presentation of HSV-1 infection in young children, characterized by high fever, irritability, and painful vesicular lesions on the gums and oral mucosa.",
+        "**Symptoms:** The painful oral lesions lead to refusal to eat or drink (odynophagia) and drooling. The gingiva are typically very swollen, red, and friable.",
+        "**Gold Standard Diagnosis:** The most sensitive and specific test to confirm the diagnosis is **Polymerase Chain Reaction (PCR) for HSV DNA**.",
+        "**Specimen Collection:** The ideal specimen is a swab from the base of a freshly unroofed vesicle, which contains the highest viral load.",
+        "**Differential Diagnosis:** Must be distinguished from herpangina (caused by Coxsackievirus, typically affecting the posterior oropharynx) and hand-foot-and-mouth disease (also Coxsackievirus, with lesions on extremities).",
+        "**Normal ranges / cutoffs:** Not applicable. The PCR result is qualitative (positive or negative)."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -5905,6 +6584,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical Picture:** Active Rheumatoid Arthritis (RA) is characterized by symmetric inflammatory arthritis of small joints (hands, wrists) with significant morning stiffness.",
+        "**Treatment Goal:** The modern 'treat-to-target' strategy aims to achieve clinical remission or low disease activity as early as possible to prevent irreversible joint damage.",
+        "**First-Line Therapy:** **Methotrexate (MTX)** is the anchor drug and the recommended first-line conventional synthetic disease-modifying antirheumatic drug (csDMARD) for most patients with newly diagnosed, active RA.",
+        "**Escalation of Therapy:** If the treatment target is not reached with MTX monotherapy, the next step is typically to add another csDMARD or a biologic DMARD (e.g., a TNF inhibitor).",
+        "**Biologic DMARDs:** Agents like etanercept and abatacept are highly effective but are generally reserved for patients who have had an inadequate response to or cannot tolerate methotrexate.",
+        "**Normal ranges / cutoffs:** Disease activity is measured with scores like the DAS28, where a score **<2.6** indicates clinical remission.",
+        "**Pitfalls:** Hydroxychloroquine is less potent and used for milder disease. Older drugs like penicillamine are no longer used due to toxicity."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -5976,6 +6664,13 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** Late-life depression is common and often co-occurs with chronic medical conditions (cardiovascular, endocrine), cognitive decline, and significant life stressors like bereavement.",
+        "**Pathophysiology:** Dysregulation of the hypothalamic-pituitary-adrenal (HPA) axis is a key biological factor, typically leading to **hypercortisolemia** (sustained high cortisol levels) due to impaired negative feedback.",
+        "**Neurobiology:** Other major risk factors include reduced serotonergic neurotransmission and the presence of subcortical ischemic changes (white matter hyperintensities), which can lead to 'vascular depression'.",
+        "**Normal ranges / cutoffs:** The key finding in depression is elevated cortisol, not decreased. Low cortisol is characteristic of adrenal insufficiency (Addison's disease), a separate condition.",
+        "**Pitfalls:** Do not mistake the psychiatric symptoms of adrenal insufficiency (low cortisol) for typical major depression. The HPA axis finding is opposite."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -6047,6 +6742,13 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** Somatic Symptom Disorder (SSD) is characterized by one or more distressing physical symptoms that cause significant disruption, coupled with excessive and disproportionate thoughts, feelings, or behaviors related to these symptoms.",
+        "**Diagnostic criteria:** The focus is on the maladaptive psychological response to the symptoms, not on whether the symptoms have a medical explanation. The state must be persistent, typically for more than 6 months.",
+        "**Workup:** The goal is to avoid excessive, invasive testing while providing compassionate care. Management involves regular, scheduled visits and focusing on coping and function rather than seeking a cure.",
+        "**Differential diagnosis:** Distinguish from **Illness Anxiety Disorder** (preoccupation with illness, minimal symptoms), **Conversion Disorder** (neurological symptoms), and **Factitious Disorder** (intentional feigning of illness).",
+        "**Normal ranges / cutoffs:** Per DSM-5, a key criterion is a symptomatic state persisting for **>6 months**."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -6119,6 +6821,13 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** Secondary amenorrhea is the cessation of menses for ≥3 months in a woman with previously regular cycles or ≥6 months in a woman with previously irregular cycles.",
+        "**Initial workup:** The diagnostic algorithm is stepwise. **Step 1:** Rule out pregnancy with a β-hCG test. **Step 2:** Measure initial hormone levels: TSH, prolactin, and FSH.",
+        "**Hormone rationale:** TSH screens for thyroid disease, prolactin for hyperprolactinemia, and FSH helps differentiate ovarian failure (high FSH) from central causes (low/normal FSH).",
+        "**Advanced workup:** A brain MRI is a second-line test, indicated only if initial labs suggest a pituitary or hypothalamic cause, such as a markedly elevated prolactin level.",
+        "**Normal ranges / cutoffs:** The definition of secondary amenorrhea is the absence of menses for **≥3 months** (regular prior cycles) or **≥6 months** (irregular prior cycles)."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -6193,6 +6902,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** Anaphylaxis is a severe, life-threatening systemic hypersensitivity reaction. Suspect it with acute onset of illness involving skin/mucosa plus either respiratory compromise or hypotension.",
+        "**Treatment:** **Intramuscular epinephrine** is the first-line, life-saving treatment and should be administered immediately. It reverses bronchoconstriction, vasodilation, and mucosal edema.",
+        "**Discharge planning:** Any patient diagnosed with anaphylaxis must be prescribed an **epinephrine auto-injector** and educated on its use before discharge.",
+        "**Adjunctive therapies:** Antihistamines (H1 and H2 blockers) and corticosteroids can be given after epinephrine to control cutaneous symptoms and potentially prevent a biphasic reaction, but they are not first-line rescue treatments.",
+        "**Normal ranges / cutoffs:** The standard adult IM epinephrine dose is **0.3-0.5 mg** (1:1000 concentration).",
+        "**Pitfalls:** Never substitute an inhaled beta-agonist (e.g., albuterol) for epinephrine. Albuterol only addresses bronchospasm and does not treat systemic vasodilation, hypotension, or upper airway edema."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -6268,6 +6985,13 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** Gastrointestinal Stromal Tumor (GIST) is the most common mesenchymal tumor of the GI tract, most often found in the stomach. On CT, it typically appears as a well-circumscribed, exophytic, enhancing mass that may have central necrosis or hemorrhage.",
+        "**Diagnosis:** Diagnosis is confirmed by histology and immunohistochemistry, which is characteristically positive for KIT (CD117).",
+        "**Risk stratification:** The malignant potential of a GIST is primarily determined by two key features: **tumor size** and **mitotic rate** (number of mitoses per 50 high-power fields).",
+        "**Treatment:** Localized GISTs are treated with surgical resection. Metastatic or high-risk GISTs are treated with tyrosine kinase inhibitors like imatinib, which target the underlying KIT mutation.",
+        "**Normal ranges / cutoffs:** A mitotic count of **>5 mitoses/50 HPF** is a key indicator of a higher risk of malignant behavior. A size **>5 cm** also increases risk."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -6341,6 +7065,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** Suspect Primary Aldosteronism (PA) in patients with hypertension and hypokalemia, treatment-resistant hypertension, or an adrenal incidentaloma.",
+        "**Diagnostic workup:** The workup involves three steps: 1) **Screening** with an aldosterone-renin ratio (ARR); 2) **Confirmation** with a test like the saline infusion test; 3) **Subtype differentiation** to distinguish unilateral from bilateral disease.",
+        "**Subtyping:** After an adrenal CT identifies a nodule, **Adrenal Vein Sampling (AVS)** is the gold standard to determine if the aldosterone production is unilateral (from an adenoma) or bilateral (hyperplasia).",
+        "**Treatment:** The subtype determines treatment. Unilateral disease is treated with surgical adrenalectomy. Bilateral disease is managed medically with mineralocorticoid receptor antagonists (e.g., spironolactone, eplerenone).",
+        "**Normal ranges / cutoffs:** A confirmatory saline infusion test is positive if the post-infusion plasma aldosterone concentration remains high (e.g., **>10 ng/dL**).",
+        "**Pitfalls:** Do not proceed to surgery based on CT findings alone. Non-functioning adrenal adenomas are common, and AVS is necessary to confirm functional lateralization."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -6416,6 +7148,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** Small Cell Lung Cancer (SCLC) typically presents as a large, central hilar or mediastinal mass in a patient with a heavy smoking history. It is aggressive and often associated with paraneoplastic syndromes.",
+        "**Staging:** SCLC is staged into two categories: **Limited-Stage (LS-SCLC)**, where the tumor is confined to one hemithorax and can be encompassed in a single radiation field, and **Extensive-Stage (ES-SCLC)**, where the disease has spread beyond that.",
+        "**Treatment of LS-SCLC:** The standard of care for patients with good performance status is **concurrent chemoradiotherapy**. This combination offers the best chance for cure.",
+        "**Treatment of ES-SCLC:** The standard of care is systemic chemotherapy, often combined with immunotherapy (e.g., atezolizumab or durvalumab).",
+        "**Role of surgery:** Surgery is generally not indicated for SCLC, as it is considered a systemic disease from the outset. It is reserved for very rare cases of Stage I peripheral nodules.",
+        "**Normal ranges / cutoffs:** The key distinction is the staging definition: can the tumor be safely treated within a **single radiation port** (Limited Stage) or not (Extensive Stage)?"
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -6490,6 +7230,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** The classic symptoms of a rhegmatogenous retinal detachment (RRD) are acute onset of flashes of light (photopsia), new floaters, and a progressive, curtain-like shadow in the peripheral visual field.",
+        "**Pathophysiology:** RRD is caused by a **retinal break** (a tear or hole) that allows liquefied vitreous humor to seep into the potential space between the neurosensory retina and the retinal pigment epithelium (RPE), causing them to separate.",
+        "**Etiology:** The most common event leading to a retinal tear is a posterior vitreous detachment (PVD), where the vitreous gel pulls away from the retina.",
+        "**Risk factors:** Major risk factors include high myopia, previous cataract surgery, ocular trauma, and peripheral retinal degenerations like lattice degeneration.",
+        "**Normal ranges / cutoffs:** This is a structural diagnosis. The key pathological event is a **full-thickness break in the neurosensory retina**.",
+        "**Management:** RRD is a sight-threatening emergency requiring surgical repair (e.g., pneumatic retinopexy, scleral buckle, or vitrectomy)."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -6563,6 +7311,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** Functional Hypothalamic Amenorrhea (FHA) is a diagnosis of exclusion characterized by amenorrhea due to suppression of the hypothalamic-pituitary-ovarian axis from stressors like significant weight loss, excessive exercise, or psychological distress.",
+        "**Hormone profile:** The characteristic pattern is **hypogonadotropic hypogonadism**, with low or inappropriately normal levels of FSH and LH, leading to low estradiol.",
+        "**Diagnostic tests:** A negative progestin challenge test (no withdrawal bleed) followed by a positive estrogen-progestin challenge test (withdrawal bleed occurs) confirms an estrogen-deficient state and a patent outflow tract.",
+        "**Localization:** The combination of hypogonadotropic hypogonadism, a clinical stressor (weight loss), and a normal pituitary MRI points to the **hypothalamus** as the site of dysfunction due to suppressed GnRH pulsatility.",
+        "**Normal ranges / cutoffs:** The key hormone pattern is **low FSH, low LH, and low estradiol**.",
+        "**Pitfalls:** Differentiate from primary ovarian insufficiency, which would present with high FSH and LH levels."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -6633,6 +7389,14 @@
         "note": "The provided key '13' is interpreted as options 1 and 3.",
         "override_key": false
       },
+      "teaching_points": [
+        "**Classification:** Mirtazapine is a Noradrenergic and Specific Serotonergic Antidepressant (NaSSA).",
+        "**Primary mechanism:** Its main action is as an antagonist of central presynaptic **α2-adrenergic autoreceptors and heteroreceptors**. This blocks negative feedback, leading to increased release of both norepinephrine and serotonin.",
+        "**Postsynaptic actions:** Mirtazapine is a potent antagonist at several postsynaptic serotonin receptors, including **5-HT2A, 5-HT2C, and 5-HT3**.",
+        "**Clinical effects:** 5-HT2A/2C antagonism contributes to antidepressant and anxiolytic effects. 5-HT3 antagonism has anti-emetic effects. Potent histamine H1 antagonism causes its characteristic sedative and appetite-stimulating side effects.",
+        "**Mechanisms NOT involved:** Mirtazapine is NOT a reuptake inhibitor and has negligible affinity for acetylcholine nicotinic receptors or 5-HT1A receptors.",
+        "**Normal ranges / cutoffs:** This is based on receptor pharmacology, not numerical cutoffs."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -6707,6 +7471,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** Painless jaundice with a **cholestatic** pattern of liver enzymes (markedly elevated ALP and GGT relative to AST/ALT) and conjugated hyperbilirubinemia is highly suggestive of biliary obstruction.",
+        "**Initial workup:** The first and most appropriate imaging study to evaluate for biliary obstruction is a **transabdominal ultrasound**.",
+        "**Ultrasound utility:** Ultrasound is non-invasive, readily available, and highly sensitive for detecting biliary ductal dilatation, which confirms obstruction. It can often identify the level and cause (e.g., gallstones, pancreatic head mass).",
+        "**Diagnostic pathway:** If ultrasound confirms obstruction but the cause is unclear, the next step is typically Magnetic Resonance Cholangiopancreatography (MRCP). Endoscopic Retrograde Cholangiopancreatography (ERCP) is reserved for therapeutic intervention.",
+        "**Normal ranges / cutoffs:** A cholestatic pattern is defined by a disproportionate elevation in **Alkaline Phosphatase (ALP)** and **Gamma-Glutamyl Transferase (GGT)** compared to transaminases (AST/ALT).",
+        "**Pitfalls:** Do not order an invasive procedure like ERCP or liver biopsy before obtaining non-invasive imaging with an ultrasound."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -6778,6 +7550,13 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Pathophysiology:** Congenital Adrenal Hyperplasia (CAH) due to 21-hydroxylase deficiency impairs cortisol and aldosterone synthesis, shunting steroid precursors down the androgen pathway, leading to androgen excess.",
+        "**Clinical effects:** Androgen excess causes virilization of external genitalia in newborn females and, if untreated, leads to rapid growth, premature pubarche, and eventual precocious puberty in both sexes.",
+        "**Newborn screening:** The screening test for CAH measures **17-hydroxyprogesterone (17-OHP)**, the substrate that accumulates before the enzymatic block.",
+        "**Management of adrenal crisis:** An adrenal crisis (hypotension, hypoglycemia) is a medical emergency requiring immediate **intravenous or intramuscular** stress-dose hydrocortisone and fluid resuscitation, not oral medication.",
+        "**Normal ranges / cutoffs:** During illness or stress (e.g., fever, surgery), the daily hydrocortisone dose should be increased to a 'stress dose', which is typically **3 times** the normal maintenance dose."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -6854,6 +7633,15 @@
         "note": "Initial glance suggested WPW due to the slurred QRS upstroke. However, formal criteria analysis (normal PR interval, QRS duration >120ms, deep S in V1, broad R in V6) confirms a classic LBBB pattern.",
         "override_key": false
       },
+      "teaching_points": [
+        "**ECG criteria:** The diagnosis of Left Bundle Branch Block (LBBB) requires three key findings:",
+        "1. **Wide QRS complex:** QRS duration ≥120 ms (3 small squares).",
+        "2. **V1 morphology:** A deep, wide S wave (often as a QS or rS complex).",
+        "3. **Lateral lead morphology:** A broad, monophasic, or notched R wave in leads I, aVL, V5, and V6, with an absence of Q waves.",
+        "**Repolarization changes:** LBBB is accompanied by 'appropriate discordance,' where the ST segment and T wave are directed opposite to the main QRS vector.",
+        "**Differential diagnosis:** Differentiate from Wolff-Parkinson-White (WPW) syndrome, which has a short PR interval and a delta wave, and from ventricular tachycardia, which is a wide complex tachycardia.",
+        "**Normal ranges / cutoffs:** The definitive QRS duration cutoff for a complete bundle branch block is **≥120 milliseconds**."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -6930,6 +7718,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Imaging modality:** This is a Technetium-99m Sestamibi parathyroid scan, used to localize hyperfunctioning parathyroid tissue (adenomas or hyperplasia) in patients with primary hyperparathyroidism.",
+        "**Radiotracer:** The tracer, Tc-99m Sestamibi, is a lipophilic cation.",
+        "**Mechanism of uptake:** Sestamibi passively enters cells and accumulates intracellularly, driven by the negative electrical potential across the plasma and mitochondrial membranes. Its retention is greatest in tissues rich in **mitochondria**.",
+        "**Scan principle:** Parathyroid adenomas are rich in mitochondria and retain Sestamibi longer than the surrounding thyroid tissue. Dual-phase imaging exploits this differential washout, showing persistent focal uptake in the adenoma on delayed images.",
+        "**Differential mechanisms:** This contrasts with FDG for PET (glucose metabolism via hexokinase), radioiodine for thyroid scans (NIS transporter), and MDP for bone scans (chemisorption to hydroxyapatite).",
+        "**Normal ranges / cutoffs:** The key diagnostic finding is **focal, persistent uptake on delayed images** corresponding to a parathyroid adenoma."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -7002,6 +7798,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Management priorities:** In a patient with type 2 diabetes and diabetic kidney disease (evidenced by macroalbuminuria), the highest priorities are strict blood pressure control and glycemic management with agents that offer cardiorenal protection.",
+        "**Blood pressure control:** An **ACE inhibitor or an ARB** is the first-line antihypertensive therapy due to their proven benefit in slowing the progression of diabetic nephropathy.",
+        "**Glycemic control:** An **SGLT2 inhibitor** is strongly recommended for patients with T2DM and diabetic kidney disease, as it reduces the risk of kidney disease progression and cardiovascular events.",
+        "**Lipid management:** While statin therapy is essential, the patient's LDL cholesterol of 50 mg/dL is already well below the target for very high-risk individuals (typically <70 mg/dL or <55 mg/dL). Further reduction is not a priority.",
+        "**Normal ranges / cutoffs:** Macroalbuminuria is defined as a urine albumin-to-creatinine ratio (UACR) of **>300 mg/g**. The LDL-C target for patients with diabetes and ASCVD risk is **<70 mg/dL**.",
+        "**Pitfalls:** Do not focus on overtreating a well-controlled parameter (LDL) while neglecting uncontrolled, high-priority issues like hypertension."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -7078,6 +7882,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** A choledochal cyst is a congenital dilatation of the biliary tree. The classic (but rare) triad in children is abdominal pain, jaundice, and a palpable right upper quadrant mass.",
+        "**Diagnosis:** Abdominal ultrasound is the initial imaging test. **MRCP** is the gold standard for confirming the diagnosis, defining the anatomy, and classifying the cyst.",
+        "**Imaging finding:** The pathognomonic finding for a Todani Type I choledochal cyst (the most common type) is a fusiform or saccular dilatation of the common bile duct.",
+        "**Management:** The standard treatment is complete surgical excision of the cyst followed by biliary-enteric reconstruction (e.g., a Roux-en-Y hepaticojejunostomy).",
+        "**Complications:** Surgery is necessary due to the high risk of complications, including recurrent cholangitis, pancreatitis, and malignant transformation into cholangiocarcinoma later in life.",
+        "**Normal ranges / cutoffs:** The diagnosis is anatomical, based on the **fusiform dilatation of the common bile duct** seen on imaging."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -7153,6 +7965,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Inheritance pattern:** The pedigree shows strict **maternal inheritance**, where an affected mother passes the condition to all of her offspring, but an affected father does not transmit it. This is the hallmark of mitochondrial DNA inheritance.",
+        "**Clinical syndrome:** The combination of maternally inherited diabetes and sensorineural hearing loss is classic for **Maternally Inherited Diabetes and Deafness (MIDD)**.",
+        "**Pathophysiology:** MIDD is a form of mitochondrial diabetes, most commonly caused by an A3243G point mutation in the mitochondrial tRNA gene. This leads to impaired insulin secretion from pancreatic beta cells.",
+        "**Clinical features:** Patients are often lean, diagnosed at a young age, and may be initially misclassified as having Type 1 or Type 2 diabetes. They typically progress to requiring insulin.",
+        "**Differential diagnosis:** Differentiate from MODY (autosomal dominant inheritance) and Type 1 diabetes (presence of autoantibodies).",
+        "**Normal ranges / cutoffs:** The key diagnostic clue is the **maternal inheritance pattern** on the pedigree."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -7227,6 +8047,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical picture:** Immune Thrombocytopenia (ITP) presents with mucocutaneous bleeding (petechiae, purpura, epistaxis) and isolated severe thrombocytopenia on the complete blood count.",
+        "**Diagnosis:** ITP is a diagnosis of exclusion. A bone marrow examination is often performed to rule out other causes and characteristically shows a normal or increased number of megakaryocytes, indicating peripheral platelet destruction.",
+        "**First-line treatment:** For adults with newly diagnosed ITP who have a platelet count <30,000/µL or significant bleeding, first-line therapy consists of **corticosteroids** (e.g., prednisolone or dexamethasone).",
+        "**Other first-line options:** Intravenous immunoglobulin (IVIG) or anti-D immunoglobulin can also be used, especially when a rapid increase in platelet count is required.",
+        "**Second-line treatment:** For chronic or refractory ITP, options include thrombopoietin receptor agonists (TPO-RAs like eltrombopag), rituximab, or splenectomy.",
+        "**Normal ranges / cutoffs:** Treatment is generally initiated for platelet counts **< 30,000/µL** or in the presence of significant bleeding."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": true,
@@ -7299,6 +8127,14 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Growth vs. Development:** 'Growth' refers to the physical increase in size (e.g., height, weight), while 'Development' refers to the acquisition of functional skills across different domains (motor, language, social).",
+        "**12-Month Milestones (Gross Motor):** Pulls to stand, cruises (walks while holding furniture), and may take first independent steps.",
+        "**12-Month Milestones (Fine Motor):** Uses a well-developed pincer grasp (thumb and index finger) to pick up small objects.",
+        "**12-Month Milestones (Language/Social):** Says 'mama' and 'dada' specifically, responds to their own name, uses gestures (waves 'bye-bye'), and follows simple one-step commands.",
+        "**Screening vs. Diagnosis:** Developmental screening is done with brief tools like the ASQ or PEDS. If screening is abnormal, a formal diagnostic evaluation is performed using comprehensive tools like the Bayley Scales.",
+        "**Normal ranges / cutoffs:** Key milestones expected by **12 months** include independent walking, pincer grasp, and responding to one's name."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -7371,6 +8207,13 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Mechanisms of Diarrhea:** Diarrhea can be classified into four main types: secretory, osmotic, inflammatory (exudative), and altered motility.",
+        "**Inflammatory Diarrhea:** This type is caused by mucosal damage from invasive or cytotoxin-producing pathogens (e.g., Shigella, Salmonella, Campylobacter, C. difficile) or inflammatory bowel disease. It is characterized by fever, abdominal pain, and dysentery (stools with blood and mucus). Fecal leukocytes are typically present.",
+        "**Secretory Diarrhea:** Caused by toxins (e.g., cholera) that increase intestinal ion secretion. It results in large-volume, watery diarrhea that persists despite fasting and has a low stool osmotic gap.",
+        "**Osmotic Diarrhea:** Caused by ingestion of poorly absorbed solutes (e.g., lactose, magnesium citrate). Diarrhea stops with fasting and is characterized by a high stool osmotic gap.",
+        "**Normal ranges / cutoffs:** The stool osmotic gap helps differentiate mechanisms. A gap **<50 mOsm/kg** suggests secretory diarrhea, while a gap **>125 mOsm/kg** suggests osmotic diarrhea."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -7443,6 +8286,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Clinical Picture:** Schizophrenia is defined by a constellation of positive symptoms (delusions, hallucinations, disorganized speech/behavior) and negative symptoms (avolition, alogia, anhedonia, diminished emotional expression).",
+        "**Diagnostic Criteria (DSM-5):** Requires ≥2 characteristic symptoms, with at least one being **delusions, hallucinations, or disorganized speech**. Negative symptoms are a core part of the criteria.",
+        "**Normal ranges / cutoffs:** The total duration of disturbance (including prodromal, active, and residual phases) must be **at least 6 months**. Within this period, there must be **at least 1 month** of active-phase symptoms meeting Criterion A.",
+        "**Functional Impairment:** A significant decline in major areas of functioning (e.g., work, interpersonal relations, self-care) is a mandatory criterion for diagnosis.",
+        "**Differential Diagnosis:** The 6-month duration rule is crucial for distinguishing schizophrenia from **schizophreniform disorder** (symptoms for 1-6 months) and **brief psychotic disorder** (symptoms <1 month).",
+        "**DSM-5 Updates:** The classic subtypes of schizophrenia (e.g., paranoid, disorganized, catatonic) were eliminated due to poor reliability and validity and are no longer used.",
+        "**Pitfalls:** Diagnosis cannot be made if significant social/occupational dysfunction is absent, even if psychotic symptoms are present. Do not forget to consider negative symptoms as part of Criterion A."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
@@ -7515,6 +8367,15 @@
         "note": "",
         "override_key": false
       },
+      "teaching_points": [
+        "**Etiology:** Therapy-related Acute Myeloid Leukemia (t-AML) is a serious iatrogenic complication of prior cytotoxic chemotherapy and/or radiation therapy.",
+        "**Causative Agents:** The two main classes of implicated chemotherapies are **topoisomerase II inhibitors** and **alkylating agents**.",
+        "**Topoisomerase II Inhibitors:** This group includes **anthracyclines** (e.g., doxorubicin) and etoposide. They typically cause t-AML with balanced translocations, most commonly involving the **KMT2A (MLL) gene on chromosome 11q23**.",
+        "**Alkylating Agents:** This group (e.g., cyclophosphamide) is associated with a longer latency, often preceded by a myelodysplastic phase, and characterized by chromosomal deletions (e.g., del(5q), del(7q)).",
+        "**Normal ranges / cutoffs:** **Latency periods** are a key differentiator. t-AML from topoisomerase II inhibitors typically develops in **1-3 years**. t-AML from alkylating agents has a longer latency of **5-10 years**.",
+        "**Pathophysiology:** The vast majority of AML cases are sporadic (de novo), arising from acquired somatic mutations in hematopoietic stem or progenitor cells. Inherited germline mutations are a rare cause.",
+        "**Pitfalls:** The most common leukemia in children is Acute Lymphoblastic Leukemia (ALL), not AML. Leukemogenesis from carcinogen exposure is a process that takes years, not days or weeks."
+      ],
       "metadata": {
         "input_metadata": {
           "has_images": false,
