@@ -127,7 +127,7 @@ def render_detail_view(row: pd.Series, show_korean: bool = False, show_raw_json:
     teaching_points = row.get('_raw', {}).get('teaching_points', [])
     if teaching_points and isinstance(teaching_points, list):
         st.markdown("**📚 Teaching Points:**")
-        teaching_points_text = "  \n".join(teaching_points)
+        teaching_points_text = "  \n\n".join(teaching_points)
         st.markdown(teaching_points_text)
 
 
