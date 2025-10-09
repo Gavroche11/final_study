@@ -28,12 +28,12 @@
         {
           "label": "①",
           "text": "Amlodipine",
-          "reason": "Amlodipine is a calcium channel blocker (Category C). It is not absolutely contraindicated and may be used if the potential benefit justifies the potential risk to the fetus."
+          "reason": "Amlodipine is a calcium channel blocker (Category C). While nifedipine is preferred, amlodipine is not absolutely contraindicated and may be used if the potential benefit justifies the potential risk to the fetus."
         },
         {
           "label": "②",
           "text": "Atenolol",
-          "reason": "Atenolol is a beta-blocker (Category D). While it carries risks (e.g., intrauterine growth restriction), it is sometimes used to treat hypertension in pregnancy when other options are not suitable."
+          "reason": "Atenolol is a beta-blocker (Category D). While it carries risks (e.g., intrauterine growth restriction), it is sometimes used to treat hypertension in pregnancy when other options are not suitable (labetalol preferred)."
         },
         {
           "label": "③",
