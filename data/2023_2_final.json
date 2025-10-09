@@ -3414,40 +3414,40 @@
         "text": "자궁수축억제제"
       },
       "why": [
-        "The patient is at 32 weeks gestation and presents with regular uterine contractions, which is the definition of preterm labor.",
-        "The diagnosis is supported by a very short cervix on ultrasound (0.8 cm), indicating significant cervical change.",
-        "The positive Nitrazine test confirms preterm premature rupture of membranes (PPROM).",
-        "The immediate goal in managing preterm labor between 24 and 34 weeks (with a reassuring fetal status) is to delay delivery for at least 48 hours.",
-        "This delay allows for the administration of antenatal corticosteroids (e.g., betamethasone) to promote fetal lung maturity, which significantly reduces neonatal respiratory distress syndrome.",
-        "Tocolytic agents (자궁수축억제제) are used to suppress uterine contractions and achieve this 48-hour delay.",
-        "Common tocolytics include beta-mimetics, calcium channel blockers (nifedipine), and NSAIDs (indomethacin)."
+        "The patient is at 32 weeks’ gestation with regular uterine contractions—meeting the definition of preterm labor.",
+        "Transvaginal ultrasound shows a markedly short cervix (0.8 cm), indicating significant cervical change and imminent risk of preterm delivery.",
+        "The Nitrazine test is negative (yellow), indicating intact membranes rather than PPROM.",
+        "With reassuring fetal status at 32 weeks and intact membranes, the immediate goal is to delay delivery for ~48 hours.",
+        "This delay allows administration of antenatal corticosteroids (e.g., betamethasone) and, when indicated, magnesium sulfate for neuroprotection.",
+        "Tocolytics are used to suppress contractions to achieve this steroid window.",
+        "Common choices include nifedipine (CCB), indomethacin (before 32 wk), or beta-agonists depending on contraindications."
       ],
       "others": [
         {
           "label": "①",
           "text": "항생제",
-          "reason": "Antibiotics are also indicated for PPROM to prolong latency and reduce the risk of chorioamnionitis. However, tocolytics directly address the presenting problem of contractions and are essential for the 48-hour steroid window."
+          "reason": "Antibiotics are indicated for PPROM or chorioamnionitis; membranes are intact and there is no infection."
         },
         {
           "label": "③",
           "text": "프로게스테론 질정",
-          "reason": "Progesterone is used for the prevention of preterm birth in high-risk patients (e.g., prior preterm birth or short cervix without contractions), not for the treatment of active preterm labor."
+          "reason": "Vaginal progesterone is used prophylactically for a short cervix without contractions, not for active preterm labor."
         },
         {
           "label": "④",
           "text": "자궁목 원형결찰술",
-          "reason": "Cervical cerclage is a surgical procedure for cervical insufficiency and is contraindicated in active labor and with ruptured membranes."
+          "reason": "Cerclage is for cervical insufficiency early in pregnancy and is contraindicated with active contractions and at 32 weeks."
         },
         {
           "label": "⑤",
           "text": "응급 제왕절개술",
-          "reason": "Emergency C-section is not indicated as the fetal heart rate tracing is reassuring. The primary goal is to prolong the pregnancy to improve neonatal outcomes."
+          "reason": "No fetal distress or obstetric emergency is present; the aim is to prolong gestation safely."
         }
       ],
       "findings": [
-        "Fetal Heart Rate Tracing (A): Regular uterine contractions with a reassuring fetal heart rate pattern.",
-        "Ultrasound (B): Markedly short cervix (0.8 cm).",
-        "Nitrazine Test (C): Positive (blue), indicating rupture of membranes."
+        "Fetal heart tracing (A): regular contractions with a reassuring baseline/variability.",
+        "Transvaginal ultrasound (B): cervical length ~0.8 cm (very short).",
+        "Nitrazine test (C): negative (yellow), supporting intact membranes."
       ],
       "runner_up": "① 항생제",
       "flags": {
