@@ -4076,12 +4076,12 @@
         {
           "label": "③",
           "text": "t(8;21)(q22;q22)",
-          "reason": "This is one of the most common translocations found in Acute Myeloid Leukemia (AML)."
+          "reason": "This translocation is associated with Acute Myeloid Leukemia (AML) and is characterized by the presence of the RUNX1-RUNX1T1 fusion gene."
         },
         {
           "label": "④",
           "text": "inv(16)(p13.1q22)",
-          "reason": "This inversion is characteristic of the AML subtype with abnormal eosinophils (formerly AML M4Eo)."
+          "reason": "This inversion is also associated with a subtype of Acute Myeloid Leukemia (AML) and involves the CBFB-MYH11 fusion gene."
         },
         {
           "label": "⑤",
