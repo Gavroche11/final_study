@@ -5617,7 +5617,7 @@
       "depth": "expanded",
       "answer": {
         "label": "①",
-        "text": "1-131 스캔"
+        "text": "I-131 스캔"
       },
       "why": [
         "This question assesses knowledge of specific radiotracers used in nuclear medicine for imaging adrenal and neuroendocrine tumors (NETs).",
@@ -5630,7 +5630,7 @@
       "others": [
         {
           "label": "②",
-          "text": "1-123 MIBG 스캔",
+          "text": "I-123 MIBG 스캔",
           "reason": "This is a primary imaging modality for pheochromocytoma and other neuroendocrine tumors derived from the neural crest."
         },
         {
@@ -5661,7 +5661,7 @@
         "mismatch": false,
         "first_guess": {
           "label": "①",
-          "text": "1-131 스캔"
+          "text": "I-131 스캔"
         },
         "provided_key": {
           "label": "①",
