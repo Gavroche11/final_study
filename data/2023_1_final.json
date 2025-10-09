@@ -5912,38 +5912,37 @@
         "text": "폐암이 의심되며 조직검사를 시행한다."
       },
       "why": [
-        "The patient is a 57-year-old male with an 80-pack-year smoking history, which is a very strong risk factor for lung cancer.",
-        "He presents with intermittent hemoptysis, a classic alarm symptom for lung cancer.",
-        "The chest X-ray shows a density in the right upper lung field, suspicious for a mass.",
-        "The chest CT scan confirms the presence of a spiculated mass in the right upper lobe. A spiculated or irregular margin is a classic radiologic sign highly suggestive of malignancy.",
-        "Given the combination of high-risk patient profile (heavy smoker), alarm symptoms (hemoptysis), and highly suspicious imaging findings, a diagnosis of lung cancer is the most likely.",
-        "The definitive diagnosis of cancer requires a tissue sample. Therefore, the next appropriate step is to perform a biopsy (e.g., via bronchoscopy or CT-guided needle biopsy) for histopathological confirmation."
+        "A 57-year-old active smoker with an 80 pack-year history and intermittent hemoptysis is high risk for bronchogenic carcinoma.",
+        "CXR shows right perihilar abnormality with volume-loss opacity in the right lower zone consistent with lobar atelectasis, suggesting an obstructing central lesion rather than infection.",
+        "Chest CT demonstrates a central/endobronchial perihilar mass with adjacent lobar collapse/atelectasis—typical for lung cancer causing airway obstruction.",
+        "Absence of infectious symptoms and the imaging pattern (central mass + atelectasis) make pneumonia or TB less likely.",
+        "Definitive diagnosis requires histopathology; therefore bronchoscopy with biopsy (± EBUS) or CT-guided tissue sampling is indicated."
       ],
       "others": [
         {
           "label": "①",
           "text": "정상 소견이다.",
-          "reason": "The images clearly show a significant pathological finding (a mass) in the right upper lobe; they are not normal."
+          "reason": "Imaging is clearly abnormal with a central mass and lobar atelectasis."
         },
         {
           "label": "②",
           "text": "폐결핵이 의심되며 객담 도말/배양 검사를 시행한다.",
-          "reason": "While tuberculosis can cause hemoptysis and lung lesions, the solid, spiculated appearance of the mass on CT is much more characteristic of lung cancer than typical TB."
+          "reason": "No cavitation or tree-in-bud pattern; imaging favors an obstructing tumor rather than TB."
         },
         {
           "label": "③",
           "text": "폐렴이 의심되며 객담 배양검사를 시행하고 경험적 항 생제를 시작한다.",
-          "reason": "The clinical presentation (intermittent hemoptysis without fever or other acute symptoms) and the CT appearance (spiculated mass, not consolidation) are not typical for pneumonia."
+          "reason": "Findings show volume loss and a central mass, not airspace consolidation typical of pneumonia."
         },
         {
           "label": "④",
           "text": "폐동맥색전증이 의심되며 항응고제 사용을 시작한다.",
-          "reason": "Pulmonary embolism can cause hemoptysis but does not present as a chronic, growing lung mass on CT."
+          "reason": "CT does not show intraluminal pulmonary arterial filling defects; hemoptysis is better explained by tumor."
         }
       ],
       "findings": [
-        "Chest X-ray showing a right upper lobe opacity.",
-        "Chest CT showing a spiculated mass in the right upper lobe."
+        "CXR: right perihilar abnormality with right lower-zone volume-loss opacity (lobar atelectasis).",
+        "Chest CT: central/perihilar endobronchial mass with adjacent lobar atelectasis."
       ],
       "runner_up": "",
       "flags": {
