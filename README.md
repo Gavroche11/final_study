@@ -6,9 +6,10 @@ A streamlined Streamlit application for reviewing AI-generated exam solutions in
 
 - **🔒 Password Protection**: Secure access with password authentication
 - **📁 Auto-load Data**: Automatically loads JSON files from `./data` directory on startup
+- **🔄 Data Refresh**: Reload JSON files from `./data` without restarting the app
 - **📤 Multiple File Upload**: Upload additional JSON files and switch between them easily
 - **🔎 Question Navigator**: Browse questions with Previous/Next buttons, arrow key navigation, and direct question number input
-- **📋 Detail View**: Comprehensive question display with answer, reasoning (Why), findings, and distractors
+- **📋 Detail View**: Comprehensive question display with answer, reasoning (Why), findings, distractors, and teaching points
 - **⚠️ Mismatch Detection**: Automatically displays first guess and rethink notes when decisions changed
 - **🎯 Streamlined Interface**: Clean, focused interface for efficient exam solution review
 
@@ -65,6 +66,11 @@ A streamlined Streamlit application for reviewing AI-generated exam solutions in
 - Files appear in the "Select file to view" dropdown in alphabetical order
 - No action needed if your data is in the `./data` directory
 
+**Refresh Data:**
+- Click the "🔄 Refresh Data" button in the sidebar to reload files from `./data` directory
+- Use this when you edit JSON files in `./data` without restarting the app
+- Your login status, current file, and question number are preserved
+
 **Upload Additional Files:**
 1. Open the sidebar (if collapsed)
 2. Click "Browse files" under "Upload JSON file(s)"
@@ -119,6 +125,8 @@ A streamlined Streamlit application for reviewing AI-generated exam solutions in
 
 6. **⚠️ Mismatch** (bottom): Shows first guess and rethink note when the decision changed
 
+7. **📚 Teaching Points** (bottom): Key learning points and clinical pearls (if available)
+
 ### JSON Schema
 
 The application expects JSON files with the following structure:
@@ -164,6 +172,10 @@ The application expects JSON files with the following structure:
         "override_key": false,
         "note": "Rethink explanation text"
       },
+      "teaching_points": [
+        "Key concept 1",
+        "Key concept 2"
+      ],
       "metadata": {
         "input_metadata": {"has_images": true},
         "version": "1.0",

@@ -33,51 +33,6 @@ def format_label(label: str, show_korean: bool = False) -> str:
 
     return str(label)
 
-
-def get_decision_color(decision: str, mismatch: bool = False) -> str:
-    """Get color for decision chip.
-
-    Args:
-        decision: Final decision value
-        mismatch: Whether there was a mismatch
-
-    Returns:
-        CSS color string
-    """
-    if decision == 'override_key':
-        return '#ff4b4b'  # Red
-    elif decision == 'agree_with_key':
-        if mismatch:
-            return '#ffa500'  # Amber/Orange
-        return '#00cc66'  # Green
-    return '#808080'  # Gray
-
-
-def truncate_expandable(text: str, max_lines: int = 3) -> str:
-    """Truncate text to max lines with expand option.
-
-    Args:
-        text: Text to truncate
-        max_lines: Maximum number of lines
-
-    Returns:
-        Truncated text
-    """
-    if not text:
-        return ""
-
-    lines = text.split('\n')
-    if len(lines) <= max_lines:
-        return text
-
-    # Estimate character limit (assuming ~80 chars per line)
-    char_limit = max_lines * 80
-    if len(text) <= char_limit:
-        return text
-
-    return text[:char_limit] + "..."
-
-
 def render_detail_view(row: pd.Series, show_korean: bool = False, show_raw_json: bool = False):
     """Render detail view for a selected question.
 
@@ -169,11 +124,11 @@ def render_detail_view(row: pd.Series, show_korean: bool = False, show_raw_json:
         st.markdown(f"**📝 Erratum:** {erratum_note}")
 
     # Teaching points at the bottom
-    # teaching_points = row.get('_raw', {}).get('teaching_points', [])
-    # if teaching_points and isinstance(teaching_points, list):
-    #     st.markdown("**📚 Teaching Points:**")
-    #     for point in teaching_points:
-    #         st.markdown(f"• {point}")
+    teaching_points = row.get('_raw', {}).get('teaching_points', [])
+    if teaching_points and isinstance(teaching_points, list):
+        st.markdown("**📚 Teaching Points:**")
+        for point in teaching_points:
+            st.markdown(f"• {point}")
 
 
 def render_detail_sidebar(row: pd.Series, show_korean: bool = False, show_raw_json: bool = False):
