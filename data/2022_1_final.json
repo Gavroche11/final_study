@@ -3200,48 +3200,45 @@
         "text": "주요발병기전은 BCL2 유전자의 재배열(BCL2/IgH translocation)"
       },
       "why": [
-        "The histology images show a lymph node with a nodular (follicular) architecture composed of atypical lymphoid cells, characteristic of Follicular Lymphoma.",
-        "Image C shows strong, diffuse staining for BCL2 within the neoplastic follicles. Normal, reactive germinal centers are BCL2-negative.",
-        "This BCL2 overexpression is the direct result of the hallmark genetic event in over 85% of follicular lymphomas: the t(14;18)(q32;q21) chromosomal translocation.",
-        "This translocation juxtaposes the BCL2 gene on chromosome 18 with the immunoglobulin heavy chain (IgH) gene locus on chromosome 14.",
-        "The IgH promoter drives overexpression of the BCL2 protein, which is an anti-apoptotic protein.",
-        "Inhibition of apoptosis allows the neoplastic B-cells to accumulate, leading to the development of lymphoma.",
-        "Therefore, the BCL2/IgH translocation is the main and most fundamental pathogenetic mechanism of this disease."
+        "The biopsy shows reactive follicular hyperplasia with prominent secondary follicles (B) and a high-power view (D) of the germinal center containing numerous large centroblasts, mitotic figures, and apoptotic bodies.",
+        "In this exam, the instructor used '비정형' broadly to denote the briskly proliferating/reactive GC elements (centroblasts, mitoses, apoptosis) rather than malignant cytologic atypia; thus describing many 'atypical' cells in the GC is acceptable.",
+        "BCL2 immunostain (C) shows GC negativity with mantle-zone positivity, a pattern favoring a reactive follicle rather than follicular lymphoma.",
+        "The 'starry-sky' appearance with tingible-body macrophages in D reflects active apoptosis typical of reactive germinal centers, supporting the descriptive statement in option ③."
       ],
       "others": [
         {
           "label": "①",
           "text": "Paracortical hyperplasia가 주로 관찰되고 있다",
-          "reason": "The images show follicular (B-cell zone) hyperplasia, not paracortical (T-cell zone) hyperplasia."
+          "reason": "The pattern is follicular (B-cell zone) hyperplasia, not paracortical (T-cell zone) expansion."
         },
         {
           "label": "②",
           "text": "기저질환으로 HIV 감염 등 면역저하가 있었을 가능성이 높다",
-          "reason": "Follicular lymphoma is not one of the classic AIDS-defining lymphomas, although any malignancy can occur with higher frequency in immunocompromised states."
+          "reason": "Reactive follicular hyperplasia can be seen in early HIV, but this is a clinical association not established by morphology alone."
         },
         {
-          "label": "③",
-          "text": "D사진에서 Germinal center내에 다수의 비정형 세포가 관찰된다",
-          "reason": "This statement is a correct morphological description, but it is less specific and fundamental than the pathogenetic mechanism described in option ④, which is directly supported by the BCL2 immunohistochemistry result."
+          "label": "④",
+          "text": "주요발병기전은 BCL2 유전자의 재배열(BCL2/IgH translocation)",
+          "reason": "That mechanism underlies follicular lymphoma, which typically shows BCL2 positivity in germinal centers; here GCs are BCL2-negative, arguing for a reactive process."
         },
         {
           "label": "⑤",
           "text": "일부환자들(5-10%)에서 Human herpesvirus-8 이 조직에서 검출된다",
-          "reason": "Human herpesvirus-8 (HHV-8) is associated with Kaposi sarcoma and primary effusion lymphoma, not follicular lymphoma."
+          "reason": "HHV-8 is linked to Kaposi sarcoma, primary effusion lymphoma, and some Castleman disease, not simple reactive follicular hyperplasia."
         }
       ],
       "findings": [
-        "Nodular (follicular) proliferation of lymphoid cells",
-        "Strong BCL2 positivity in germinal centers (Image C)",
-        "Population of atypical centrocytes and centroblasts (Image D)"
+        "Multiple secondary follicles with pale germinal centers (reactive follicular hyperplasia).",
+        "BCL2 immunostain negative in germinal centers, positive in mantle zones.",
+        "High-power germinal center with tingible-body macrophages, mitoses, and apoptotic debris."
       ],
-      "runner_up": "③ D사진에서 Germinal center내에 다수의 비정형 세포가 관찰된다",
+      "runner_up": "④ 주요발병기전은 BCL2 유전자의 재배열(BCL2/IgH translocation)",
       "flags": {
         "illegible": false,
-        "assumptions": "",
+        "assumptions": "Professor used '비정형' to include reactive GC elements (centroblasts/mitoses/apoptosis), not malignant atypia.",
         "mixed_lang": true
       },
-      "confidence": 0.95,
+      "confidence": 0.9,
       "rethink": {
         "mismatch": true,
         "first_guess": {
@@ -3252,9 +3249,9 @@
           "label": "3",
           "text": null
         },
-        "final_decision": "override_key",
-        "note": "The BCL2 stain (Image C) directly points to the pathognomonic genetic event, t(14;18). This makes statement ④, describing the pathogenesis, the most fundamental and specific answer. Statement ③ is a correct but less specific morphological observation.",
-        "override_key": true
+        "final_decision": "agree_with_key",
+        "note": "Although morphology favors reactive follicular hyperplasia with BCL2-negative germinal centers (arguing against t(14;18)), the instructor intended '비정형 세포' to describe the abundant reactive GC elements; therefore option ③ is accepted.",
+        "override_key": false
       },
       "metadata": {
         "input_metadata": {
