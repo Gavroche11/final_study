@@ -832,13 +832,12 @@
         "text": "흉강경하 수술적 폐조직 검사 (VATS lung biopsy)"
       },
       "why": [
-        "The patient presents with subacute respiratory symptoms (cough, dyspnea, fever) that did not respond to treatment for pneumonia.",
-        "The chest imaging (implied CT findings from the description) shows features of interstitial lung disease (ILD).",
-        "Bronchoalveolar lavage (BAL) shows a significant lymphocytosis (30%), which narrows the differential diagnosis for ILD to conditions like hypersensitivity pneumonitis, non-specific interstitial pneumonia (NSIP), sarcoidosis, or cryptogenic organizing pneumonia (COP).",
-        "While the clinical picture and BAL are suggestive, they are often not specific enough for a definitive diagnosis.",
-        "A definitive diagnosis of the specific type of ILD is crucial as treatment and prognosis vary significantly between different entities.",
-        "Therefore, a surgical lung biopsy, typically performed via video-assisted thoracoscopic surgery (VATS), is the next logical step to obtain an adequate tissue sample for histopathological diagnosis.",
-        "This is considered the gold standard for diagnosing many forms of ILD."
+        "The patient presents with subacute respiratory symptoms and imaging findings classic for an Interstitial Lung Disease (ILD), which has failed to respond to antibiotics for pneumonia.",
+        "The high-resolution CT shows a pattern of fibrotic ILD (reticulation, traction bronchiectasis) that is not definitive for Usual Interstitial Pneumonia (UIP), as classic honeycombing is absent.",
+        "The bronchoalveolar lavage (BAL) shows a lymphocytic alveolitis (30% lymphocytes), which is inconsistent with typical IPF/UIP but is seen in other ILDs like Nonspecific Interstitial Pneumonia (NSIP), hypersensitivity pneumonitis, or sarcoidosis.",
+        "The combination of a non-specific fibrotic pattern on imaging and lymphocytic BAL is diagnostically indeterminate.",
+        "A definitive histopathological diagnosis is crucial because the treatment and prognosis for different ILDs vary dramatically (e.g., immunosuppression for NSIP vs. antifibrotics for IPF).",
+        "Therefore, the gold standard and most appropriate next step is to obtain an adequate tissue sample via surgical lung biopsy, most commonly performed by VATS."
       ],
       "others": [
         {
@@ -863,7 +862,8 @@
         }
       ],
       "findings": [
-        "Chest X-ray showing bilateral diffuse interstitial opacities"
+        "Chest X-ray: Bilateral, lower-lobe predominant reticular opacities.",
+        "Chest CT: Bilateral, peripheral, and basal-predominant ground-glass opacities, reticulation, and traction bronchiectasis."
       ],
       "runner_up": "",
       "flags": {
