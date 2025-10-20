@@ -79,7 +79,7 @@ def render_detail_view(row: pd.Series, show_korean: bool = False, show_raw_json:
     st.markdown("**💡 Why:**")
     why_list = row.get('why', [])
     if why_list and isinstance(why_list, list):
-        why_text = " ".join(why_list)
+        why_text = "  \n\n".join(why_list)
         st.markdown(why_text)
     else:
         st.markdown("_No reasons provided_")
